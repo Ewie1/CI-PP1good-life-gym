@@ -8,5 +8,18 @@
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
+    color: ;
+}
 
+/* heading and logo */
+
+h1,h2 {
+    font-family: Mulish, sans-serif;
+
+}
+#logo {
+    float: left;
+    letter-spacing: 6px;
+    color: #2e2eb8;
+    font-size:250% ;
 }
