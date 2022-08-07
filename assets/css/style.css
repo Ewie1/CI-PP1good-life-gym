@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 body {
-    color: red;
+    font-family: karla, sans-serif;
+    font-weight: 300;
+
 }
