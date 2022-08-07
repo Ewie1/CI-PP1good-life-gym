@@ -91,6 +91,7 @@ h1,h2 {
 #meal {
     background-color: rgba(141, 241, 245, 0.9);
     text-align: center;
+    margin: 0 auto;
     
 }
 
