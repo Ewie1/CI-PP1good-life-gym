@@ -23,3 +23,35 @@ h1,h2 {
     color: #2e2eb8;
     font-size:250% ;
 }
+
+/* navigation links */
+
+#menu {
+    font-size: 100%;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #2e2eb8;
+}
+
+#menu a:hover {
+    background-color: #2e2eb8;
+    border-radius: 5px;
+    color: red;
+}
+
+.active {
+    border-bottom: 1px solid #2e2eb8;
+    color: red;
+}
