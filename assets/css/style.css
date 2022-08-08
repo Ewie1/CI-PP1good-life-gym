@@ -8,7 +8,6 @@
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
-    color: ;
 }
 
 /* heading and logo */
@@ -36,13 +35,13 @@ h1,h2 {
 }
 
 #menu, #logo {
-    line-height: 75px;
+    line-height: 120px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 10px;
+    margin-right: 50px;
 }
 
 #menu a {
@@ -63,13 +62,13 @@ h1,h2 {
 /* hero images */
 
 #hero-outer {
-    height: 400px;
+    height: 700px;
     width: 100%;
-    overflow: hidden;
+    overflow: hidden; 
 }
-
+    
 #hero-image {
-    height: 400px;
+    height: 700px;
     width: 100%;
     background: url('../images/heroimg8.jpg')no-repeat center center;
 }
@@ -77,27 +76,44 @@ h1,h2 {
 /* gym contents */
 
 #about-us div {
-    height: 400px;
+    height: 700px;
     width: 33%;
     float: left;
+    text-align: center;
     padding-top: 50px;
+
+    
 }
 
-#train {
+/*#train {
+    padding-top: 50px;
+    width: 33%;
+    
+
+    
+
     background-color: rgba(249, 249, 108, 0.6);
-    text-align: center;
+    
 }
 
 #meal {
-    background-color: rgba(141, 241, 245, 0.9);
-    text-align: center;
+    padding-top: 50px;
+    width: 33%;
     margin: 0 auto;
+
+
+    
+    
+    background-color: rgba(141, 241, 245, 0.9);
     
 }
 
 #gym {
+    padding-top: 50px;
+    width: 33%;
+
     background-color: rgba(240, 240, 240, 0.6);
-    text-align: center;
+    
 }
 
 /* contact us and opening times */
