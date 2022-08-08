@@ -147,6 +147,9 @@ h1,h2 {
     background-color: #000066;
 }
 
+
+
+
 /*#logo-bottom {
     text-align: center;
     padding-bottom: 50px;
@@ -191,4 +194,15 @@ h5 {
     padding: 10px;
     color: grey;
 
+}
+
+.open-times {
+    border-bottom: 1px solid #fff;
+    letter-spacing: 5px;
+    color: #fff;
+}
+
+.open-times > tr {
+    padding: 5%;
+    margin: 1%;
 }
