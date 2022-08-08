@@ -117,25 +117,33 @@ h1,h2 {
 
 /* second hero image */
 
-#bottom-image {
-    height: 500px;
+#bottom-image-outer {
+    height: 700px;
     width: 100%;
-    background: url('../images/heroimag9.jpg')no-repeat center center;
+    padding-top: 15px;
 }
 
-#signup-bottom {
-    text-align: center;
+#bottom-image {
+    height: 700px;
+    width: 100%;
+    background: url('../images/heroimag9.jpg')no-repeat center center;
+    padding-bottom: 150px;
+}
+
+/*#signup-bottom {
+    height: 100px;
+    width: 150%;
+   /* text-align: center; 
     margin: 1%;
     font-size: 175%;
     letter-spacing: 3px;
     color: #fff;
-    background: url('../images/background2.jpg')no-repeat center center;
-}
+    background: url('../images/background.jpg')no-repeat center center; 
+} */
 /* footer, contact, opening hours, social media links */
 
 #footer {
-    height: 150px;
-    padding-top: 100px;
+    height: 250px;
     background-color: #000066;
 }
 
@@ -161,7 +169,7 @@ h1,h2 {
     
 } */
 
-h4 {
+h5 {
     text-align: center;
     font-size: 175%;
     letter-spacing: 3px;
