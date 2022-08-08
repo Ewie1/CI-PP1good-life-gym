@@ -122,32 +122,65 @@ h1,h2 {
     width: 100%;
     background: url('../images/heroimag9.jpg')no-repeat center center;
 }
+
+#signup-bottom {
+    text-align: center;
+    margin: 1%;
+    font-size: 175%;
+    letter-spacing: 3px;
+    color: #fff;
+    background: url('../images/background2.jpg')no-repeat center center;
+}
 /* footer, contact, opening hours, social media links */
 
 #footer {
-    height: 700px;
+    height: 150px;
     padding-top: 100px;
     background-color: #000066;
 }
 
-#logo-bottom {
+/*#logo-bottom {
     text-align: center;
     padding-bottom: 50px;
-    color: #fff;
+    color: #fff; 
     
     
 }
 
-#open-times {
+/*#open-times {
     float: right;
     padding-top: 30px;
-    color: #fff;
+    color: #fff; 
 }
 
-#contact-number {
+/*#contact-number {
     float: left;
     padding-top: 30px;
     color: grey;
-    margin-left: 30px;
+    margin-left: 30px; 
     
+} */
+
+h4 {
+    text-align: center;
+    font-size: 175%;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+.media-links {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.media-links > li {
+    display: inline;
+}
+
+.media-links i {
+    font-size: 200%;
+    
+    padding: 10px;
+    color: grey;
+
 }
