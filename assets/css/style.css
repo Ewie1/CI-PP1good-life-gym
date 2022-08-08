@@ -73,6 +73,8 @@ h1,h2 {
     background: url('../images/heroimg8.jpg')no-repeat center center;
 }
 
+
+
 /* gym contents */
 
 
@@ -206,3 +208,14 @@ h5 {
     padding: 5%;
     margin: 1%;
 }
+
+/*  signup form */
+
+.signup-image {
+    clear: left;
+    background: url('../images/signupimag.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
