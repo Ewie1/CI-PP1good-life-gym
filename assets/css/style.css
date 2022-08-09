@@ -13,11 +13,12 @@ body {
 /* heading and logo */
 
 
+
+
 h1,h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
-    color: #2e2eb8;
-
+    color:#2e2eb8;
 }
 
 #logo {
@@ -71,6 +72,8 @@ h1,h2 {
     height: 700px;
     width: 100%;
     background: url('../images/heroimg8.jpg')no-repeat center center;
+    background-size: cover;
+    background-position: center;
 }
 
 
@@ -84,6 +87,10 @@ h1,h2 {
     text-align: center;
     padding-top: 50px;
     background-color: rgba(240, 240, 240, 0.888); 
+    
+  /* background: url('../images/background2.jpg');
+   background-size: cover;
+   background-position: center; */
 }
 
 
@@ -119,18 +126,20 @@ h1,h2 {
 
 /* second hero image */
 
-#bottom-image-outer {
+/*#bottom-image-outer {
     height: 700px;
     width: 100%;
-    padding-top: 15px;
-}
+    padding-top: 15px; 
+} */
 
 #bottom-image {
     height: 700px;
     width: 100%;
     background: url('../images/heroimag9.jpg')no-repeat center center;
+    background-size: cover;
+    background-position: center;
     padding-bottom: 150px;
-}
+} 
 
 /*#signup-bottom {
     height: 100px;
