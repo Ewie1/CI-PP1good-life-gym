@@ -184,7 +184,7 @@ h1,h2 {
 #contact-us > h5 {
     font-size: 175%;
     letter-spacing: 3px;
-    color: #fff;
+    color: silver;
 }
 
 #contact-us > p {
@@ -209,14 +209,21 @@ h1,h2 {
 }
 
 .open-times {
-    border-bottom: 1px solid #fff;
+    padding-top: 200px;
+    padding-left: 150px;
     letter-spacing: 5px;
     color: #fff;
 }
 
-.open-times > tr {
-    padding: 5%;
-    margin: 1%;
+.open-times > h3 {
+    width: 20%;
+    margin-left: 40px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #fff;
+}
+
+.open-times > table {
+    border-bottom: 1px solid #fff;
 }
 
 /*  signup form */
