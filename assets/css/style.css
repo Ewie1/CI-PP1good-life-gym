@@ -169,7 +169,9 @@ h1,h2 {
 /* footer, contact, opening hours, social media links */
 
 #footer {
-    height: 200px;
+    height: 300px;
+  /*  position: relative; */
+    
  /*   background-color: #3d3d5c; */
     
 }
@@ -252,12 +254,19 @@ h1,h2 {
 
 /*  signup form */
 
+#signup-image-outer {
+    height: 50px;
+}
+
 .signup-image {
-    height: 200px;
+    height: 500px;
     width: 200px;
-    float: right;
-    bottom: 900px;
-    background: url('../images/background2.jpg') no-repeat; 
+    margin-left: 60%;
+    margin-top: -100px;
+  /*  margin:10px 10% 0 0; */
+    padding: 40px;
+    border-radius: 50px;
+    background: url('../images/heroimg7.jpeg') no-repeat; 
     background-size: cover;  
     /* background-position: center;  */
     
@@ -265,7 +274,7 @@ h1,h2 {
 }
 
 #signup-form-outer {
-    height: 900px;
+    height: 700px;
     width: 100%;
 }
 
