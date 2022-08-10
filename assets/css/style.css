@@ -156,6 +156,65 @@ h1,h2 {
     padding-bottom: 150px;
 } 
 
+/*  signup form */
+
+
+
+#signup-image-outer {
+    height: 700px;
+}
+
+#signup-image {
+    height: 500px;
+    width: 200px;
+    margin-left: 60%;
+   /* margin-top: -100px;
+  /*  margin:10px 10% 0 0; */
+    padding: 40px;
+    border-radius: 50px;
+    background: url('../images/heroimg7.jpeg'); 
+    background-size: cover;  
+    background-position: center;  
+}
+
+ #deals-list {
+    height: 300%;
+    width: 200px;
+    margin-left: 15%;
+    color: #2e2eb8; 
+} 
+
+#deals-list, #signup-image {
+    display: inline-block;
+}
+
+#signup-form-outer {
+    height: 700px;
+    width: 100%;
+}
+
+#signup-form {
+    margin:100px 10% 0 0; 
+    line-height: 20px;
+    padding: 40px;
+    height: 400px;
+    width: 40%;
+    border-radius: 50px;
+    left: 30px;
+   /* margin: 0 auto; */
+    position: absolute;
+    background-color: rgba(251, 245, 219, 0.6);
+    
+}
+
+#signup-form > h2 {
+    text-align: center;
+    margin-bottom:20px;
+    
+}
+
+
+
 /*#signup-bottom {
     height: 100px;
     width: 150%;
@@ -167,12 +226,9 @@ h1,h2 {
     background: url('../images/background.jpg')no-repeat center center; 
 } */
 /* footer, contact, opening hours, social media links */
-
-#footer {
-    height: 300px;
-  /*  position: relative; */
     
- /*   background-color: #3d3d5c; */
+ #footer {
+    height: 300px;
     
 }
 
@@ -220,7 +276,6 @@ h1,h2 {
 }
 
 .media-links {
-    
     text-align: center;
     padding-top: 20px;
 }
@@ -228,6 +283,7 @@ h1,h2 {
 
 .media-links i {
     font-size: 200%;
+    margin: 1px;
     padding: 10px;
     color: black;
     clear: both;
@@ -252,60 +308,8 @@ h1,h2 {
     border-bottom: 1px solid #fff;
 }
 
-/*  signup form */
 
-#signup-image-outer {
-    height: 50px;
-}
 
-.signup-image {
-    height: 500px;
-    width: 200px;
-    margin-left: 60%;
-    margin-top: -100px;
-  /*  margin:10px 10% 0 0; */
-    padding: 40px;
-    border-radius: 50px;
-    background: url('../images/heroimg7.jpeg') no-repeat; 
-    background-size: cover;  
-    /* background-position: center;  */
-}
-
-#questions-form-signup-image {
-    margin-right: 60%;
-    display: inline;
-}
-
-#signup-form-outer {
-    height: 700px;
-    width: 100%;
-}
-
-#signup-form {
-    margin:100px 10% 0 0; 
-    line-height: 20px;
-    padding: 40px;
-    height: 400px;
-    width: 40%;
-    border-radius: 50px;
-    left: 30px;
-   /* margin: 0 auto; */
-    position: absolute;
-    background-color: rgba(251, 245, 219, 0.6);
-    
-}
-
-#signup-form > h2 {
-    text-align: center;
-    margin-bottom:20px;
-    
-}
-
-.signup-label {
-    font-size: 20px;
-    font-weight: 400;
-
-}
 
 .text-input {
     background:white;
