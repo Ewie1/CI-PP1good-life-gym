@@ -36,7 +36,7 @@ h1,h2 {
 }
 
 #menu, #logo {
-    line-height: 120px;
+  /*  line-height: 120px; */
 }
 
 #menu li {
@@ -69,11 +69,21 @@ h1,h2 {
 }
     
 #hero-image {
-    height: 700px;
+    height: 300px;
     width: 100%;
-    background: url('../images/heroimg7.jpeg')no-repeat center center;
+   /* background: url('../images/heroimg7.jpeg')no-repeat center center; */
+   background: #f8d54d;
     background-size: cover;
     background-position: center;
+}
+
+#join-us {
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    border-radius: 40%;
+    background: #f8d54d;
+    margin: 0 auto;
 }
 
 
