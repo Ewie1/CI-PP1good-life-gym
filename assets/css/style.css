@@ -269,8 +269,11 @@ h1,h2 {
     background: url('../images/heroimg7.jpeg') no-repeat; 
     background-size: cover;  
     /* background-position: center;  */
-    
-    
+}
+
+#questions-form-signup-image {
+    margin-right: 60%;
+    display: inline;
 }
 
 #signup-form-outer {
