@@ -150,11 +150,21 @@ h1,h2 {
 #bottom-image {
     height: 700px;
     width: 100%;
-    background: url('../images/heroimag9.jpg')no-repeat center center;
+    background: #f8d54d;
     background-size: cover;
     background-position: center;
     padding-bottom: 150px;
 } 
+
+/* adout us */
+
+#about-us-hero-image {
+    height: 500px;
+    width: 40%;
+    background-image:url('../images/pexels-photo-4753890.jpeg');
+    background-size: cover;
+    background-position: center;
+}
 
 /*  signup form */
 
