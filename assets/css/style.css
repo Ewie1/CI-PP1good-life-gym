@@ -182,7 +182,8 @@ h1,h2 {
   .deals-list {
     height: 500px;
     width: 50%;
-    margin-left: 80px;
+    margin-left: 100px;
+    line-height: 50px;
     color: #2e2eb8; 
 } 
  div h3 {
@@ -190,9 +191,7 @@ h1,h2 {
     padding: 30px;
  }
 
-#deals-list, #signup-image {
-    display: inline-block;
-}
+
 
 #signup-form-outer {
     height: 700px;
