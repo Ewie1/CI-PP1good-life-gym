@@ -158,13 +158,55 @@ h1,h2 {
 
 /* adout us */
 
-#about-us-hero-image {
+#about-us-image {
     height: 500px;
-    width: 40%;
+    width: 400px;
+    border-radius: 50%;
     background-image:url('../images/pexels-photo-4753890.jpeg');
     background-size: cover;
     background-position: center;
+    float: left;
+    
 }
+
+#goals-image {
+    height: 400px;
+    width: 40%;
+    border-radius: 50%;
+    background-image:url('../images/trainer.jpeg');
+    background-size: cover;
+    background-position: center;
+    float: right;
+    
+    
+}
+
+#goals-text {
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+#programs-image {
+    height: 400px;
+    width: 40%; 
+    border-radius: 50%;
+    background-image:url('../images/trainer3.jpeg');
+    background-size: cover;
+    background-position: center;
+    margin-left: 10%;
+    
+    
+} 
+
+ #programs-text {
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+    
+
+} 
 
 /*  signup form */
 
