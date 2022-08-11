@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
-
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    border: none; 
 }
+
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
@@ -161,28 +161,34 @@ h1,h2 {
 
 
 #signup-image-outer {
-    height: 700px;
+    height: 900px;
+    
 }
 
 #signup-image {
     height: 500px;
-    width: 200px;
-    margin-left: 60%;
-   /* margin-top: -100px;
-  /*  margin:10px 10% 0 0; */
-    padding: 40px;
+    width: 30%;
+    float: right;
+    margin-right: 75px;
+    margin-top: -100px;
+    padding: 40px; 
     border-radius: 50px;
     background: url('../images/heroimg7.jpeg'); 
     background-size: cover;  
     background-position: center;  
+    line-height: 20px;
 }
 
- #deals-list {
-    height: 300%;
-    width: 200px;
-    margin-left: 15%;
+  .deals-list {
+    height: 500px;
+    width: 50%;
+    margin-left: 80px;
     color: #2e2eb8; 
 } 
+ div h3 {
+    margin-left: 100px;
+    padding: 30px;
+ }
 
 #deals-list, #signup-image {
     display: inline-block;
