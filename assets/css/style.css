@@ -175,6 +175,20 @@ h1,h2 {
     border-radius: 40%;
 }
 
+/* Change the width of the three columns to 100%
+  (to stack horizontally on small screens) */
+  @media only screen and (max-width: 600px) {
+    #about-us-image {
+      width: 100%;
+      float: none;
+    } 
+
+    #about-us-text {
+        width: 100%;
+    }
+}
+
+
 #goals-image {
     height: 400px;
     width: 40%;
@@ -183,8 +197,6 @@ h1,h2 {
     background-size: cover;
     background-position: center;
     float: right;
-    
-    
 }
 
 #goals-text {
@@ -194,9 +206,22 @@ h1,h2 {
     padding-top: 50px;
     font-size: larger;
     border-radius:40%;
-    
-    
 }
+
+/* Change the width of the three columns to 100%
+  (to stack horizontally on small screens) */
+  @media only screen and (max-width: 600px) {
+    #goals-image {
+      width: 100%;
+      float: none;
+    } 
+
+    #goals-text {
+        width: 100%;
+    }
+}
+
+
 
 #programs-image {
     height: 400px;
@@ -217,6 +242,21 @@ h1,h2 {
     font-size: larger;
     padding-top: 50px;
     border-radius: 40%;
+}
+
+/* Change the width of the three columns to 100%
+  (to stack horizontally on small screens) */
+  @media only screen and (max-width: 600px) {
+    #programs-image {
+      width: 100%;
+      left: 0px;
+    } 
+
+    #programs-text {
+        width: 100%;
+        
+
+    }
 }
 
 #prices {
