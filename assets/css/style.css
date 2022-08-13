@@ -22,9 +22,9 @@ h1,h2 {
 }
 
 #logo {
-    float: left;
+    /* float: left; */
     letter-spacing: 6px;
-    color: #fafafa;
+    color: #191970;
     font-size:250% ;
     margin-left: 50px;
 }
@@ -32,10 +32,11 @@ h1,h2 {
 /* navigation links */
 
 #menu {
-    font-size: 100%;
+    /* font-size: 100%; */
     height: 150px;
-    width: 100%;
+    /* width: 100%; */
     background-color: #191970;
+    text-align: center; 
     
 
 
@@ -49,12 +50,13 @@ h1,h2 {
 }
 
 #menu li {
-    text-align: center;
+    height: 150px; 
+    /* text-align: center;  */
     display: inline-block;
-    padding-top: 120px;
+    padding-top: 50px;
     list-style-type: none;
-    /* margin-right: 50px;  */
-    font-size: 20px;
+    margin-right: 50px;  
+    font-size: 30px;
     
 }
 
