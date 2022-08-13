@@ -16,7 +16,14 @@ body {
 
 
 
-h1,h2 {
+h1 {
+    font-family: Mulish , sans-serif;
+    text-transform: uppercase;
+    color: #2e2eb8;
+    text-decoration: none;
+}
+
+h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
     color: #2e2eb8;
