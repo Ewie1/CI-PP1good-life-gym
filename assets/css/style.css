@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +19,8 @@ body {
 h1,h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
-    color:#fafafa;
+    color: #2e2eb8;
+    text-decoration: none;
 }
 
 #logo {
@@ -27,6 +29,7 @@ h1,h2 {
     color: #191970;
     font-size:250% ;
     margin-left: 50px;
+
 }
 
 /* navigation links */
@@ -66,13 +69,14 @@ h1,h2 {
 }
 
 #menu a:hover {
-    background-color: #2e2eb8;
-    border-radius: 5px;
-    color: red;
+    text-decoration: none;
+    
+    
+    
 }
 
 .active {
-    border-bottom: 1px solid #2e2eb8;
+    border-bottom: 1px solid #fafafa;
 }
  
 /* hero images */
