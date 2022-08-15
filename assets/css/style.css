@@ -179,21 +179,23 @@ h2 {
 /* adout us */
 
 #about-us-image {
-    height: 400px;
-    width: 40%;
-    border-radius: 50%;
-    background-image:url('../images/pexels-photo-4753890.jpeg');
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background-image:url('../images/unnamed1.jpg');
     background-size: cover;
     background-position: center;
-    float: left;
+    /* float: left; */
 }
 
 #about-us-text {
     height: 300px;
+    width: 50%;
     text-align: center;
     padding-top: 50px;
     font-size: larger;
     border-radius: 40%;
+    float: right;
 }
 
 /* Change the width of the three columns to 100%
@@ -211,13 +213,14 @@ h2 {
 
 
 #goals-image {
-    height: 400px;
-    width: 40%;
-    border-radius: 50%;
-    background-image:url('../images/trainer.jpeg');
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background-image:url('../images/unnamed3.jpg');
     background-size: cover;
     background-position: center;
-    float: right;
+    
+    
 }
 
 #goals-text {
@@ -247,10 +250,10 @@ h2 {
 }
 
 #programs-image {
-    height: 400px;
-    width: 40%; 
-    border-radius: 50%;
-    background-image:url('../images/trainer3.jpeg');
+    height: 300px;
+    width: 300px; 
+    border-radius: 40px;
+    background-image:url('../images/unnamed2.jpg');
     background-size: cover;
     background-position: center;
 } 
