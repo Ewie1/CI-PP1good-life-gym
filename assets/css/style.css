@@ -93,13 +93,13 @@ h2 {
 /* hero images */
 
 #hero-outer {
-    height: 700px;
+    height: 600px;
     width: 100%;
     overflow: hidden; 
 }
     
 #hero-image {
-    height: 700px;
+    height: 600px;
     width: 100%;
     background: url('../images/heroimg8.jpg')no-repeat center center; 
     background-size: cover;
@@ -134,7 +134,7 @@ h2 {
 
 #train > h2 {
     text-align: center;
-    color: red;
+    color: #191970;
     margin-bottom: 35px;
 }
 
@@ -152,7 +152,13 @@ h2 {
     text-align: center;
     text-decoration: none;
     line-height: 35px;
+    color: #191970;
+    list-style-type: none;
     
+}
+
+#about-us-button {
+    padding-top: 350px;
 }
 
 #meal p {
@@ -167,7 +173,7 @@ h2 {
 
 #gym > h2 {
     text-align: center;
-    color: red;
+    color: #191970;
     margin-bottom: 35px;
 
 }
@@ -183,8 +189,9 @@ h2 {
 
 #gym ul {
     text-align: center;
-    color: red;
+    color: #191970;
     line-height: 35px;
+    list-style-type: none;
 }
 
 
