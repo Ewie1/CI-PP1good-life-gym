@@ -67,12 +67,15 @@ h2 {
     list-style-type: none;
     margin-right: 50px;  
     font-size: 30px;
+    text-transform:uppercase;
+
     
 }
 
 #menu a {
     text-decoration: none;
     color: #fafafa;
+
 }
 
 #menu a:hover {
