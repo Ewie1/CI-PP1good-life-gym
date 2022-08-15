@@ -178,6 +178,10 @@ h2 {
 
 /* adout us */
 
+.about {
+    padding-left: 30px;
+}
+
 #about-us-image {
     height: 300px;
     width: 300px;
@@ -218,7 +222,7 @@ h2 {
     border-radius: 40px;
     background-image:url('../images/unnamed3.jpg');
     background-size: cover;
-    background-position: center;
+  /*  background-position: center; */
     
     
 }
@@ -255,7 +259,7 @@ h2 {
     border-radius: 40px;
     background-image:url('../images/unnamed2.jpg');
     background-size: cover;
-    background-position: center;
+   /* background-position: center; */
 } 
 
  #programs-text {
