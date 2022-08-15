@@ -138,7 +138,12 @@ h2 {
     font-size: 20px;
     text-align: center;
     font-weight: 300;
-    word-spacing: 1px;
+    word-spacing: 1px; 
+    
+}
+
+#train ul {
+    margin-left: 40px;
     
 }
 
@@ -171,7 +176,7 @@ h2 {
 } */
 
 #bottom-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/heroimag9.jpg');
     background-size: cover;
