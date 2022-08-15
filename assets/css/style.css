@@ -98,7 +98,7 @@ h2 {
 }
     
 #hero-image {
-    height: 300px;
+    height: 700px;
     width: 100%;
     background: url('../images/heroimg8.jpg')no-repeat center center; 
     background-size: cover;
@@ -121,9 +121,9 @@ h2 {
 
 
 #about-ethos div {
-    height: 300px;
-    text-align: center;
-    padding-top: 50px;
+    height: 500px;
+    width: 33%;
+    float: left;
     background-color: rgba(240, 240, 240, 0.888); 
     
   /* background: url('../images/background2.jpg');
@@ -139,7 +139,7 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px;
-    border-bottom: 1px solid #fff;
+    
 }
 
 #meal p {
@@ -149,7 +149,7 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px;
-    border-bottom:1px solid #fff;
+    
 }
 
 #gym p {
@@ -171,7 +171,7 @@ h2 {
 } */
 
 #bottom-image {
-    height: 700px;
+    height: 600px;
     width: 100%;
     background: url('../images/heroimag9.jpg');
     background-size: cover;
@@ -183,7 +183,7 @@ h2 {
 
 .about {
     padding-left: 30px;
-    background-color: silver ;
+    
 }
 
 #about-us-image {
@@ -204,16 +204,22 @@ h2 {
     font-size: larger;
     border-radius: 40%;
     float: right;
+
+}
+
+#about-us-text > h2 {
+    margin-right: 100px;
+    letter-spacing: 9px;
 }
 
 #about-us-text > p {
     margin-right: 100px;
-    margin-bottom: 75px;
-    margin-top: 50px;
-    color: #fafafa;
-    font-weight: 600;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    color: #191970;
+    font-weight: 500;
     font-size: 20px;
-    
+    line-heIght:30px;
 }
 
 /* Change the width of the three columns to 100%
@@ -236,7 +242,7 @@ h2 {
     border-radius: 40px;
     background-image:url('../images/unnamed3.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center; 
     margin-bottom: 30px; 
     
     
