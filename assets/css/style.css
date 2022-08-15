@@ -180,6 +180,7 @@ h2 {
 
 .about {
     padding-left: 30px;
+    background-color: silver ;
 }
 
 #about-us-image {
@@ -189,7 +190,7 @@ h2 {
     background-image:url('../images/unnamed1.jpg');
     background-size: cover;
     background-position: center;
-    /* float: left; */
+    margin-bottom: 30px;
 }
 
 #about-us-text {
@@ -200,6 +201,16 @@ h2 {
     font-size: larger;
     border-radius: 40%;
     float: right;
+}
+
+#about-us-text > p {
+    margin-right: 100px;
+    margin-bottom: 75px;
+    margin-top: 50px;
+    color: #fafafa;
+    font-weight: 600;
+    font-size: 20px;
+    
 }
 
 /* Change the width of the three columns to 100%
@@ -222,7 +233,8 @@ h2 {
     border-radius: 40px;
     background-image:url('../images/unnamed3.jpg');
     background-size: cover;
-  /*  background-position: center; */
+    background-position: center;
+    margin-bottom: 30px; 
     
     
 }
@@ -231,9 +243,10 @@ h2 {
     height: 300px;
     width: 40%;
     text-align: center;
-    padding-top: 50px;
+    
     font-size: larger;
     border-radius:40%;
+    
 }
 
 /* Change the width of the three columns to 100%
