@@ -26,8 +26,9 @@ h1 {
 h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
-    color: #2e2eb8;
     text-decoration: none;
+    text-align: center;
+
 }
 
 #logo {
@@ -131,6 +132,11 @@ h2 {
    background-position: center; */
 }
 
+#train > h2 {
+    text-align: center;
+    color: red;
+    margin-bottom: 35px;
+}
 
 #train p {
     height: 150px;
@@ -143,7 +149,9 @@ h2 {
 }
 
 #train ul {
-    margin-left: 40px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
     
 }
 
@@ -157,6 +165,13 @@ h2 {
     
 }
 
+#gym > h2 {
+    text-align: center;
+    color: red;
+    margin-bottom: 35px;
+
+}
+
 #gym p {
     height: 150px;
     padding-top: 50px;
@@ -164,6 +179,12 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px;
+}
+
+#gym ul {
+    text-align: center;
+    color: red;
+    line-height: 35px;
 }
 
 
