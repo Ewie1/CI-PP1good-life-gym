@@ -36,7 +36,7 @@ h2 {
     letter-spacing: 6px;
     color: #191970;
     font-size:250% ;
-    margin-left: 50px;
+    background-color: rgba(240, 240, 240, 0.888);
 
 }
 
@@ -435,7 +435,7 @@ h2 {
 #signup-form-outer {
     height: 700px;
     width: 100%;
-    background-image: url('../images/heroimg1.jpeg');
+    background-image: url('../images/bottomimage.webp');
     background-size: cover;
     background-position: center;
 }
@@ -616,6 +616,9 @@ h2 {
     height: 50%;
     padding: 5px;
     text-align: center;
+    background: url('../images/map.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #map h3 {
@@ -624,6 +627,7 @@ h2 {
     color: #191970;
     text-transform: uppercase;
     padding-right: 100px;
+    letter-spacing: 6px;
 }
 
 
