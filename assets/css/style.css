@@ -120,13 +120,16 @@ h2 {
 
 /* gym contents */
 
-
+#about-ethos {
+    background-color: rgba(240, 240, 240, 0.888);
+}
 
 #about-ethos div {
     height: 550px;
     width: 33%;
     float: left;
-    background-color: rgba(240, 240, 240, 0.888); 
+   background-color: rgba(240, 240, 240, 0.888); 
+   overflow: hidden;
     
     
   /* background: url('../images/background2.jpg');
@@ -134,17 +137,20 @@ h2 {
    background-position: center; */
 }
 
-#train {
+#train-us {
+
     padding-top: 100px;
+
 }
 
-#train > h2 {
+#train-us > h2 {
+    padding-top: 120px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
 }
 
-#train p {
+#train-us p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -152,9 +158,10 @@ h2 {
     font-weight: 300;
     word-spacing: 1px; 
     
+    
 }
 
-#train ul {
+#train-us ul {
     text-align: center;
     text-decoration: none;
     line-height: 35px;
@@ -164,8 +171,23 @@ h2 {
 }
 
 #about-us-button {
-    padding-top: 100px;
+    text-align: center;
+    padding-top: 100px; 
+    letter-spacing: 6px;
     
+    
+    
+}
+
+#about-us-button a {
+           padding: 25px ;
+          position: unset;
+          font-size: larger;
+          font-weight: 600;
+          color: #fafafa;
+          background-color: #191970;
+          text-decoration: none;
+          border-radius: 100px;
 }
 
 #meal p {
@@ -178,18 +200,19 @@ h2 {
     
 }
 
-#gym {
+#gym-confort {
     padding-top: 100px;
 }
 
-#gym > h2 {
+#gym-confort > h2 {
+    padding-top: 120px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
 
 }
 
-#gym p {
+#gym-confort p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -198,7 +221,7 @@ h2 {
     word-spacing: 1px;
 }
 
-#gym ul {
+#gym-confort ul {
     text-align: center;
     color: #191970;
     line-height: 35px;
@@ -752,7 +775,7 @@ h2 {
 #times div {
     color: #0b2c87;
     background-color: rgba(0,0,0, .6); 
-    background-image: url('../images/map.jpg');
+    background-image: url('../images/dumbells.jpg');
     width: 20%;
     height: 200px;
     float: left;
