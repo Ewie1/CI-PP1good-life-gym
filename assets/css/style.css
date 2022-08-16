@@ -13,9 +13,6 @@ body {
 
 /* heading and logo */
 
-
-
-
 h1 {
     font-family: Mulish , sans-serif;
     text-transform: uppercase;
@@ -28,63 +25,45 @@ h2 {
     text-transform: uppercase;
     text-decoration: none;
     text-align: center;
-
 }
 
 #logo {
-    /* float: left; */
     letter-spacing: 6px;
     color: #191970;
     font-size:250% ;
     background-color: rgba(240, 240, 240, 0.888);
-
 }
 
 /* navigation links */
 
 #menu {
-    /* font-size: 100%; */
+    
     height: 150px;
-    /* width: 100%; */
     background-color: #191970;
     text-align: center; 
-    
-    
-
-
 }
 
 #menu, #logo {
-  /*  line-height: 120px; */
-        height: 150px;
-         /* display: inline-block; */
-
+    height: 150px;
 }
 
 #menu li {
     height: 150px; 
-    /* text-align: center;  */
     display: inline-block;
     padding-top: 50px;
     list-style-type: none;
     margin-right: 50px;  
     font-size: 30px;
     text-transform:uppercase;
-
-    
 }
 
 #menu a {
     text-decoration: none;
     color: #fafafa;
-
 }
 
 #menu a:hover {
     text-decoration: none;
-    
-    
-    
 }
 
 .active {
@@ -116,8 +95,6 @@ h2 {
     margin: 0 auto;
 } 
 
-
-
 /* gym contents */
 
 #about-ethos {
@@ -128,19 +105,12 @@ h2 {
     height: 550px;
     width: 33%;
     float: left;
-   background-color: rgba(240, 240, 240, 0.888); 
-   overflow: hidden;
-    
-    
-  /* background: url('../images/background2.jpg');
-   background-size: cover;
-   background-position: center; */
+    background-color: rgba(240, 240, 240, 0.888); 
+    overflow: hidden;
 }
 
 #train-us {
-
     padding-top: 100px;
-
 }
 
 #train-us > h2 {
@@ -157,8 +127,6 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px; 
-    
-    
 }
 
 #train-us ul {
@@ -167,16 +135,12 @@ h2 {
     line-height: 35px;
     color: #191970;
     list-style-type: none;
-    
 }
 
 #about-us-button {
     text-align: center;
     padding-top: 100px; 
     letter-spacing: 6px;
-    
-    
-    
 }
 
 #about-us-button a {
@@ -197,7 +161,6 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px;
-    
 }
 
 #gym-confort {
@@ -209,7 +172,6 @@ h2 {
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
-
 }
 
 #gym-confort p {
@@ -231,12 +193,6 @@ h2 {
 
 /* second hero image */
 
-/*#bottom-image-outer {
-    height: 700px;
-    width: 100%;
-    padding-top: 15px; 
-} */
-
 #bottom-image {
     height: 500px;
     width: 100%;
@@ -246,26 +202,21 @@ h2 {
     padding-bottom: 150px;
 } 
 
-
 .singletraining {
     height: 300px;
     width: 25%;
     border-radius: 50px;
-   /* background: #191970; */
     background: url('../images/background.jpg'); 
     background-size: cover;  
     background-position: center;  
 }
 
-.meals {
-    background: url();
-}
+
 /* adout us */
 
 .about {
     padding-left: 30px;
     padding-top: 30px;
-    
 }
 
 #about-us-image {
@@ -276,7 +227,6 @@ h2 {
     background-size: cover;
     background-position: center;
     margin-bottom: 30px;
-    
 }
 
 #about-us-text {
@@ -327,9 +277,6 @@ h2 {
     background-size: cover;
     background-position: center; 
     margin-bottom: 30px; 
-    
-    
-    
 }
 
 #goals-text {
@@ -339,7 +286,6 @@ h2 {
     
     font-size: larger;
     border-radius:40%;
-    
 }
 
 /* Change the width of the three columns to 100%
@@ -365,7 +311,6 @@ h2 {
     border-radius: 40px;
     background-image:url('../images/unnamed2.jpg');
     background-size: cover;
-   /* background-position: center; */
 } 
 
  #programs-text {
@@ -380,8 +325,6 @@ h2 {
 hr {
     border-top: 1px solid #191970;
     width: 55%;
-  /* margin: 0 auto; */
-   /*  margin: 1px 0; */
    margin-left: 100px;
 }
 
@@ -409,26 +352,10 @@ hr {
 
 /*  signup form */
 
-
-
 #signup-image-outer {
     height: 900px;
     
 }
-
-/* #signup-image {
-    height: 500px;
-    width: 25%;
-    float: right;
-    margin-right: 75px;
-    margin-top: -100px;
-    padding: 40px; 
-    border-radius: 50px;
-    background: url('../images/heroimg7.jpeg'); 
-    background-size: cover;  
-    background-position: center;  
-    line-height: 20px; 
-} */
 
  /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
@@ -450,8 +377,6 @@ hr {
     margin-left: 100px;
     padding: 30px;
  }
-
-
 
 #signup-form-outer {
     height: 700px;
@@ -486,24 +411,7 @@ hr {
     margin:5px 0 20px;
     border:1px solid #fafafa;
     border-radius:2px;
-  /* background: rgba(255, 255, 255, 0.6);
-    width:50%;
-    height:25px;
-    margin:5px 0 20px;
-    border:1px solid  rgba(0,0,0, .6);
-    border-radius:15px; */
 } 
-
- /*.submit-button {
-    margin: 0 auto;
-    border-radius:30px;
-    padding:15px 32px 15px 32px; 
-   /* text-align:center;*/ 
-   /* font-size:100%;
-    background-color: #191970;
-    color: #0a0404;
-    display:block; 
-} */
 
 .text-input:hover {
     border-color: #2e2eb8;
@@ -511,10 +419,7 @@ hr {
 
 .submit-button:hover {
     background-color: #fff;
-    
 }
-
-
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
@@ -525,101 +430,10 @@ hr {
     } 
 }
 
-.columns {
-    box-sizing: border-box;
-    
-  }
-  
-  /* Create three columns of equal width */
-  .columns {
-    float: left;
-    width: 33.3%;
-    padding: 8px;
-    
-  }
-  
-  /* Style the list */
-  .price {
-    list-style-type: none;
-  /*   border: 1px solid #eee; */
-    margin: 0;
-    padding: 0;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-  }
-  
-  /* Add shadows on hover 
-  .price:hover {
-    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2) 
-  } */
-  
-  /* Pricing header */
-  .price .header {
-    background-color: #191970;
-    color: white;
-    font-size: 25px;
-    border-radius: 30px;
-  }
-  
-  /* List items */
-  .price li {
-    /* border-bottom: 1px solid #eee; */
-    padding: 20px;
-    text-align: center;
-    border-radius: 30px;
-  }
-  
-  /* Grey list item */
-  .price .grey {
-    background-color: #eee;
-    font-size: 20px;
-    border-radius: 30px;
-  }
-  
-  /* The "Sign Up" button */
-  .button {
-    background-color: #04AA6D;
-    border: none;
-    color: white;
-    padding: 10px 25px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 18px;
-    border-radius: 40px;
-  }
-  
-  /* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
-    .columns {
-      width: 100%;
-    }
-  }
-
-/*#signup-bottom {
-    height: 100px;
-    width: 150%;
-   /* text-align: center; 
-    margin: 1%;
-    font-size: 175%;
-    letter-spacing: 3px;
-    color: #fff;
-    background: url('../images/background.jpg')no-repeat center center; 
-} */
-/* footer, contact, opening hours, social media links */
-
-
-/* #opentimes div {
-       
-       float: left;
-       width:50%;
-}*/
-
 
 .open-times {
     padding: 40px;
     width: 100%;
-   /* background: rgba(240, 240, 240, 0.888); */
     letter-spacing: 5px;
     color: #191970;
     
@@ -656,8 +470,6 @@ hr {
     letter-spacing: 6px;
 }
 
-
-
 .text-input {
     background:white;
     width:100%;
@@ -668,35 +480,10 @@ hr {
 }
 
 
-
-
-
-
- #footer {
+#footer {
     height: 200px;
     
 }
-
-
-
-
-/*#logo-bottom {
-    text-align: center;
-    padding-bottom: 50px;
-    color: #fff; 
-    
-    
-} */
-
-
-
-/*#contact-number {
-    float: left;
-    padding-top: 30px;
-    color: grey;
-    margin-left: 30px; 
-    
-} */
 
 #contact-us{
     height: 100px;
@@ -723,28 +510,22 @@ hr {
     padding-top: 20px;
 }
 
-
 .media-links i {
     font-size: 200%;
     margin: 1px;
     padding: 10px;
     color: black;
     clear: both;
-
 }
-
-
 
 .submit-button {
     margin: 0 auto;
     border-radius:30px;
-    padding:15px 32px 15px 32px; 
-   /* text-align:center;*/ 
+    padding:15px 32px 15px 32px;  
     font-size:100%;
     background-color: #0b2c87;
     color: #fafafa;
     display:block;
-
 }
 
 .text-input:hover {
@@ -757,17 +538,11 @@ hr {
 }
 
 #times{
-    /* background-image: url("../images/map.jpg"); */
-    
-  /*  background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
     width: 100%;
     overflow: hidden;
     border-radius: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
-
 }
 
 #times div {
@@ -795,8 +570,6 @@ hr {
     display: inline-block;
     color: inherit;
     line-height: 35px;
-    
-    
 }
 
 
