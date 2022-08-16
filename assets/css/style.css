@@ -422,7 +422,7 @@ h2 {
     
 }
 
-#signup-image {
+/* #signup-image {
     height: 500px;
     width: 25%;
     float: right;
@@ -433,8 +433,8 @@ h2 {
     background: url('../images/heroimg7.jpeg'); 
     background-size: cover;  
     background-position: center;  
-    line-height: 20px;
-}
+    line-height: 20px; 
+} */
 
  /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
@@ -471,36 +471,34 @@ h2 {
     font-weight: 600;
 }
 
-#signup-form {
+.signup-form {
+    background-color: rgba(240, 240, 240, 0.888);
+    max-width:400px;
+    position:absolute;
     margin:100px 10% 0 0; 
     line-height: 50px;
     padding: 40px;
-    height: 450px;
-    width: 40%;
     border-radius: 50px;
     left: 30px;
     color: #191970;
     margin: 0 auto; 
-    position: absolute;
-    background-color: rgba(255, 255, 255, 0.6); 
-    
-    
-}
-
-#signup-form > h2 {
-    text-align: center;
-    margin-bottom:30px;
-    
 }
 
 .text-input {
-    background: rgba(255, 255, 255, 0.6);
+    background:transparent;
+    color: #fafafa;
+    width:100%;
+    height:25px;
+    margin:5px 0 20px;
+    border:1px solid #fafafa;
+    border-radius:2px;
+  /* background: rgba(255, 255, 255, 0.6);
     width:50%;
     height:25px;
     margin:5px 0 20px;
-    border:1px solid  green;
-    border-radius:15px;
-}
+    border:1px solid  rgba(0,0,0, .6);
+    border-radius:15px; */
+} 
 
  /*.submit-button {
     margin: 0 auto;
@@ -750,8 +748,9 @@ h2 {
    /* text-align:center;*/ 
     font-size:100%;
     background-color: #0b2c87;
-    color: silver;
+    color: #fafafa;
     display:block;
+
 }
 
 .text-input:hover {
@@ -760,7 +759,7 @@ h2 {
 
 .submit-button:hover {
     background-color: #fff;
-    color: #f8d54d;
+    color: black;
 }
 
 #times{
@@ -780,7 +779,7 @@ h2 {
 #times div {
     color: #0b2c87;
     background-color: rgba(0,0,0, .6); 
-    background-image: url('../images/dumbells.jpg');
+    background-image: url('../images/map.jpg');
     width: 20%;
     height: 200px;
     float: left;
