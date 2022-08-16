@@ -49,6 +49,7 @@ h2 {
     background-color: #191970;
     text-align: center; 
     
+    
 
 
 }
@@ -253,6 +254,7 @@ h2 {
 
 .about {
     padding-left: 30px;
+    padding-top: 30px;
     
 }
 
@@ -264,6 +266,7 @@ h2 {
     background-size: cover;
     background-position: center;
     margin-bottom: 30px;
+    
 }
 
 #about-us-text {
@@ -314,6 +317,7 @@ h2 {
     background-size: cover;
     background-position: center; 
     margin-bottom: 30px; 
+    
     
     
 }
@@ -728,4 +732,36 @@ h2 {
     background-color: #fff;
     color: #f8d54d;
 }
+
+#times{
+    /* background-image: url("../images/map.jpg"); */
+    
+  /*  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    width: 100%;
+    overflow: hidden;
+    border-radius: 30px;
+    padding-top: 30px;
+
+}
+
+#times div {
+    color: #0b2c87;
+    /* background-color: rgba(0,0,0, .6); */
+    background-image: url('../images/map.jpg');
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+#times h2 {
+    color: #0b2c87;
+}
+
 
