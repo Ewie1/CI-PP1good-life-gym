@@ -246,19 +246,6 @@ h2 {
     padding-bottom: 150px;
 } 
 
-.ethos-images {
-    background: url();
-
-}
-
-.group {
-     background: url();
-}
-
-.personnaltrainer {
-    background: url();
-
-}
 
 .singletraining {
     height: 300px;
@@ -300,7 +287,6 @@ h2 {
     font-size: larger;
     border-radius: 40%;
     float: right;
-
 }
 
 #about-us-text > h2 {
@@ -317,6 +303,7 @@ h2 {
     font-size: 20px;
     line-heIght:30px;
 }
+
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
@@ -388,7 +375,14 @@ h2 {
     font-size: larger;
     padding-top: 50px;
     border-radius: 40%;
-    
+}
+
+hr {
+    border-top: 1px solid #191970;
+    width: 55%;
+  /* margin: 0 auto; */
+   /*  margin: 1px 0; */
+   margin-left: 100px;
 }
 
 /* Change the width of the three columns to 100%
