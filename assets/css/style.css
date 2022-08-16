@@ -122,7 +122,7 @@ h2 {
 
 
 #about-ethos div {
-    height: 600px;
+    height: 550px;
     width: 33%;
     float: left;
     background-color: rgba(240, 240, 240, 0.888); 
@@ -131,6 +131,10 @@ h2 {
   /* background: url('../images/background2.jpg');
    background-size: cover;
    background-position: center; */
+}
+
+#train {
+    padding-top: 100px;
 }
 
 #train > h2 {
@@ -159,7 +163,8 @@ h2 {
 }
 
 #about-us-button {
-    padding-top: 350px;
+    padding-top: 100px;
+    
 }
 
 #meal p {
@@ -170,6 +175,10 @@ h2 {
     font-weight: 300;
     word-spacing: 1px;
     
+}
+
+#gym {
+    padding-top: 100px;
 }
 
 #gym > h2 {
@@ -205,7 +214,7 @@ h2 {
 } */
 
 #bottom-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/heroimag9.jpg');
     background-size: cover;
@@ -213,6 +222,33 @@ h2 {
     padding-bottom: 150px;
 } 
 
+.ethos-images {
+    background: url();
+
+}
+
+.group {
+     background: url();
+}
+
+.personnaltrainer {
+    background: url();
+
+}
+
+.singletraining {
+    height: 300px;
+    width: 25%;
+    border-radius: 50px;
+   /* background: #191970; */
+    background: url('../images/background.jpg'); 
+    background-size: cover;  
+    background-position: center;  
+}
+
+.meals {
+    background: url();
+}
 /* adout us */
 
 .about {
@@ -346,7 +382,7 @@ h2 {
 #prices {
     height: 300px;
     width: 100%;
-    background-color: rgba(251, 245, 219, 0.6);;
+    background-color: rgba(251, 245, 219, 0.6);
 
 }
 
@@ -465,7 +501,7 @@ h2 {
     } 
 }
 
-* {
+.columns {
     box-sizing: border-box;
     
   }
@@ -549,20 +585,20 @@ h2 {
 /* footer, contact, opening hours, social media links */
 
 
-#map-opentimes div {
+/* #opentimes div {
+       
        float: left;
        width:50%;
-}
+}*/
 
 
 .open-times {
-    height: 50%;
-    width: 50%;
-    padding-top: 200px;
-    padding-left: 150px;
+    padding: 40px;
+    width: 100%;
+   /* background: rgba(240, 240, 240, 0.888); */
     letter-spacing: 5px;
     color: #191970;
-    background-image: url('../images/heroimg1.jpeg');
+    
 }
 
 .open-times > h3 {
@@ -576,11 +612,19 @@ h2 {
     border-bottom: 1px solid #fff;
 }
 
-/* #map {
+ #map {
     height: 50%;
-    width: 50%;
-    background-color: red;
-} */
+    padding: 5px;
+    text-align: center;
+}
+
+#map h3 {
+    padding: 6px;
+    text-align: center;
+    color: #191970;
+    text-transform: uppercase;
+    padding-right: 100px;
+}
 
 
 
@@ -599,7 +643,7 @@ h2 {
 
 
  #footer {
-    height: 300px;
+    height: 200px;
     
 }
 
@@ -625,8 +669,10 @@ h2 {
 } */
 
 #contact-us{
+    height: 100px;
     padding: 20px;
     text-align: center;
+    
     
 }
 
