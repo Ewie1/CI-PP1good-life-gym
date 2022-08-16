@@ -603,17 +603,19 @@ h2 {
     letter-spacing: 5px;
     color: #191970;
     
+    
 }
 
 .open-times > h3 {
-    width: 20%;
-    margin-left: 40px;
+    width: 17%;
+    margin-left: 5px;
     padding-bottom: 5px;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #191970;
+    text-transform: uppercase;
 }
 
 .open-times > table {
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #191970;
 }
 
  #map {
