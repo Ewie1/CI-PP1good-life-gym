@@ -37,7 +37,6 @@ h2 {
 /* Style for nav links within the heading */
 
 #menu {
-    
     height: 150px;
     background-color: #191970;
     text-align: center; 
@@ -479,14 +478,13 @@ hr {
 .signup-form {
     background-color: rgba(240, 240, 240, 0.888);
     max-width:400px;
-    position:absolute;
+    position:absolute; 
     margin:100px 10% 0 0; 
     line-height: 50px;
     padding: 40px;
     border-radius: 50px;
     left: 30px;
     color: #191970;
-    margin: 0 auto; 
 }
 
 .text-input {
@@ -545,31 +543,39 @@ hr {
   (to stack horizontally on small screens) */
   @media only screen and (max-width: 600px) {
     
-    #hero-outer {
-        clear: left;
-    }
+    
+    
     #menu{
+        height: 30px;
+        width: 100%;
+        display: inline-block;
         
-       clear: left;
-        float: left; 
-        margin-left: 30px; 
-        margin-bottom: 20px;
-        line-height: 15px; 
-        background: none;
+       
+    }
+
+    #menu li {
+        width: 100%;
+        font-size: 10px;
+        display: inline;
+        margin: 0 auto;
+        padding-inline-start: 10px;
+        
     }
     
     #menu a {
-        color: #191970;
+        color: #fafafa;
+        }
+
+    #hero-outer {
+        clear: left;
     }
     
     #about-ethos div {
         float: none;
-        height: fit-content;
         width:100%;
         padding-top: 20px;
         margin: 0 auto;
     }
-
     #bottom-image {
         position:inherit;
     }
@@ -594,7 +600,7 @@ hr {
     .open-times > table {
         border-bottom: none;
     } 
-    
+
     #goals-image {
         width: 100%;
         float: none;
@@ -602,14 +608,22 @@ hr {
   
       #goals-text {
           width: 100%;
+          
       }
     #about-us-image {
       width: 100%;
       float: none;
     } 
 
-    #about-us-text {
+    #about {
         width: 100%;
+        float: none;
+        color: red;
+    }
+
+    #about-us-text{
+        width: 100%;
+        
     }
 
     #programs-image {
@@ -619,9 +633,16 @@ hr {
   
       #programs-text {
           width: 100%;
-          
-  
       }
+
+      
+      #prices div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+      
 
       #signup-image {
         width: 100%;
@@ -629,8 +650,11 @@ hr {
       }
       #signup-form {
         width: 100%;
-        left: 0px;
+        margin: 0 auto;
+        
       } 
-}
+    
+    }
+
 
 
