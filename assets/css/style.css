@@ -541,7 +541,7 @@ hr {
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 500px) {
     
     
     
@@ -602,39 +602,32 @@ hr {
     } 
 
     #goals-image {
-        width: 100%;
+        width: 90%;
         float: none;
+        
       } 
   
-      #goals-text {
-          width: 100%;
-          
-      }
     #about-us-image {
-      width: 100%;
+      width: 90%;
       float: none;
     } 
 
-    #about {
+     #programs-image {
+        width: 90%;
+        left: 0px;
+      } 
+  
+      #about {
         width: 100%;
         float: none;
         color: red;
     }
 
     #about-us-text{
-        width: 0;
-        height: 0;
+        width: 100%;
+        
         
     }
-
-    #programs-image {
-        width: 100%;
-        left: 0px;
-      } 
-  
-      #programs-text {
-          width: 100%;
-      }
 
       
       #prices div {
