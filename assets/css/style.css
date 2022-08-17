@@ -11,7 +11,7 @@ body {
     font-weight: 300;
 }
 
-/* heading and logo */
+/* Style for heading and logo */
 
 h1 {
     font-family: Mulish , sans-serif;
@@ -34,7 +34,7 @@ h2 {
     background-color: rgba(240, 240, 240, 0.888);
 }
 
-/* navigation links */
+/* Style for nav links within the heading */
 
 #menu {
     
@@ -70,7 +70,7 @@ h2 {
     border-bottom: 1px solid #fafafa;
 }
  
-/* hero images */
+/* style for the first hero images */
 
 #hero-outer {
     height: 500px;
@@ -95,10 +95,11 @@ h2 {
     margin: 0 auto;
 } 
 
-/* gym contents */
+/* style for the gym ethos contents */
 
 #about-ethos {
     background-color: rgba(240, 240, 240, 0.888);
+    width: 100%;
 }
 
 #about-ethos div {
@@ -137,6 +138,12 @@ h2 {
     list-style-type: none;
 }
 
+#become-a-member {
+    padding-top: 100px; 
+    letter-spacing: 6px;
+    margin: 0 auto;
+}
+
 #about-us-button {
     text-align: center;
     padding-top: 100px; 
@@ -152,15 +159,6 @@ h2 {
           background-color: #191970;
           text-decoration: none;
           border-radius: 100px;
-}
-
-#meal p {
-    height: 150px;
-    padding-top: 50px;
-    font-size: 20px;
-    text-align: center;
-    font-weight: 300;
-    word-spacing: 1px;
 }
 
 #gym-confort {
@@ -191,7 +189,7 @@ h2 {
 }
 
 
-/* second hero image */
+/* Style for the second hero image */
 
 #bottom-image {
     height: 500px;
@@ -211,8 +209,90 @@ h2 {
     background-position: center;  
 }
 
+/* Style for the open times below the ethos*/
 
-/* adout us */
+.open-times {
+    padding: 40px;
+    width: 100%;
+    letter-spacing: 5px;
+    color: #191970;
+    
+    
+}
+
+.open-times > h3 {
+    width: 17%;
+    margin-left: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #191970;
+    text-transform: uppercase;
+}
+
+.open-times > table {
+    border-bottom: 1px solid #191970;
+}
+
+/* Style for the map "Find Us" section*/
+
+#map {
+    height: 50%;
+    padding: 5px;
+    text-align: center;
+    background: url('../images/map.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#map h3 {
+    padding: 6px;
+    text-align: center;
+    color: #191970;
+    text-transform: uppercase;
+    line-height: 30px;
+    letter-spacing: 6px;
+}
+
+/*Style for footer section to all pages */
+
+#footer {
+    height: 200px;
+    
+}
+ /*style for contact us information*/
+#contact-us{
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+}
+
+#contact-us > h5 {
+    font-size: 175%;
+    letter-spacing: 3px;
+    color: silver;
+}
+
+#contact-us > p {
+    padding-top: 10px;
+    color: silver;
+    letter-spacing: 4px;
+}
+ 
+/*style for media links*/
+
+.media-links {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.media-links i {
+    font-size: 200%;
+    margin: 1px;
+    padding: 10px;
+    color: black;
+    clear: both;
+}
+
+/* style for the "Adout Us Page" first sectoin content */
 
 .about {
     padding-left: 30px;
@@ -343,14 +423,45 @@ hr {
     }
 }
 
-#prices {
-    height: 300px;
-    width: 100%;
-    background-color: rgba(251, 245, 219, 0.6);
+/* style for price info on the "Aout Us" page*/
 
+#prices {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
-/*  signup form */
+#prices div {
+    color: #0b2c87;
+    background-color: rgba(0,0,0, .6); 
+    background-image: url('../images/map.jpg');
+    width: 20%;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center; 
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+#prices h2 {
+    color: #0b2c87;
+}
+
+#prices p {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    color: inherit;
+    line-height: 35px;
+}
+
+
+/* style for the signup form on the become a member page */
 
 #signup-image-outer {
     height: 900px;
@@ -365,18 +476,6 @@ hr {
       float: none;
     }
   }
-
-  .deals-list {
-    height: 500px;
-    width: 50%;
-    margin-left: 100px;
-    line-height: 50px;
-    color: #2e2eb8; 
-} 
- div h3 {
-    margin-left: 100px;
-    padding: 30px;
- }
 
 #signup-form-outer {
     height: 700px;
@@ -431,93 +530,6 @@ hr {
 }
 
 
-.open-times {
-    padding: 40px;
-    width: 100%;
-    letter-spacing: 5px;
-    color: #191970;
-    
-    
-}
-
-.open-times > h3 {
-    width: 17%;
-    margin-left: 5px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid #191970;
-    text-transform: uppercase;
-}
-
-.open-times > table {
-    border-bottom: 1px solid #191970;
-}
-
- #map {
-    height: 50%;
-    padding: 5px;
-    text-align: center;
-    background: url('../images/map.jpg')no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-#map h3 {
-    padding: 6px;
-    text-align: center;
-    color: #191970;
-    text-transform: uppercase;
-    padding-right: 100px;
-    letter-spacing: 6px;
-}
-
-.text-input {
-    background:white;
-    width:100%;
-    height:25px;
-    margin:5px 0 20px;
-    border:1px solid #fafafa;
-    border-radius:15px;
-}
-
-
-#footer {
-    height: 200px;
-    
-}
-
-#contact-us{
-    height: 100px;
-    padding: 20px;
-    text-align: center;
-    
-    
-}
-
-#contact-us > h5 {
-    font-size: 175%;
-    letter-spacing: 3px;
-    color: silver;
-}
-
-#contact-us > p {
-    padding-top: 10px;
-    color: silver;
-    letter-spacing: 4px;
-}
-
-.media-links {
-    text-align: center;
-    padding-top: 20px;
-}
-
-.media-links i {
-    font-size: 200%;
-    margin: 1px;
-    padding: 10px;
-    color: black;
-    clear: both;
-}
-
 .submit-button {
     margin: 0 auto;
     border-radius:30px;
@@ -537,39 +549,5 @@ hr {
     color: black;
 }
 
-#times{
-    width: 100%;
-    overflow: hidden;
-    border-radius: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-#times div {
-    color: #0b2c87;
-    background-color: rgba(0,0,0, .6); 
-    background-image: url('../images/map.jpg');
-    width: 20%;
-    height: 200px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center; 
-    border: 2px solid white;
-    box-sizing: border-box;
-    border-radius: 30px;
-}
-
-#times h2 {
-    color: #0b2c87;
-}
-
-#times p {
-    font-size: 20px;
-    font-weight: 600;
-    text-align: center;
-    display: inline-block;
-    color: inherit;
-    line-height: 35px;
-}
 
 
