@@ -81,7 +81,7 @@ h2 {
 #hero-image {
     height: 500px;
     width: 100%;
-    background: url('../images/heroimg8.jpg')no-repeat center center; 
+    background: url('../images/gyminterior.webp')no-repeat center center; 
     background-size: cover;
     background-position: center;
 }
@@ -104,7 +104,7 @@ h2 {
 
 #about-ethos div {
     height: 550px;
-    width: 33%;
+    width: 50%;
     float: left;
     background-color: rgba(240, 240, 240, 0.888); 
     overflow: hidden;
@@ -138,11 +138,11 @@ h2 {
     list-style-type: none;
 }
 
-#become-a-member {
+/* #become-a-member {
     padding-top: 100px; 
     letter-spacing: 6px;
     margin: 0 auto;
-}
+} */
 
 #about-us-button {
     text-align: center;
@@ -297,6 +297,7 @@ h2 {
 .about {
     padding-left: 30px;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 #about-us-image {
@@ -427,16 +428,17 @@ hr {
 
 #prices {
     width: 100%;
+    background-image: url('../images/map.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     overflow: hidden;
-    border-radius: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+
 }
 
 #prices div {
     color: #0b2c87;
-    background-color: rgba(0,0,0, .6); 
-    background-image: url('../images/map.jpg');
+    background-color: rgba(240, 240, 240, 0.888); 
     width: 20%;
     height: 200px;
     float: left;
@@ -444,7 +446,6 @@ hr {
     text-align: center; 
     border: 2px solid white;
     box-sizing: border-box;
-    border-radius: 30px;
 }
 
 #prices h2 {
