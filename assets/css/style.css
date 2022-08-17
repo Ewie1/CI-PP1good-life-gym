@@ -76,14 +76,15 @@ h2 {
     height: 500px;
     width: 100%;
     overflow: hidden; 
-}
+  /*  position: relative; */
+} 
     
 #hero-image {
     height: 500px;
     width: 100%;
     background: url('../images/gyminterior.webp')no-repeat center center; 
-    background-size: cover;
-    background-position: center;
+    background-size: cover; 
+    background-position: center; 
 }
 
 #join-us {
@@ -335,21 +336,6 @@ h2 {
     line-heIght:30px;
 }
 
-
-/* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
-    #about-us-image {
-      width: 100%;
-      float: none;
-    } 
-
-    #about-us-text {
-        width: 100%;
-    }
-}
-
-
 #goals-image {
     height: 300px;
     width: 300px;
@@ -371,7 +357,7 @@ h2 {
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+ /* @media only screen and (max-width: 600px) {
     #goals-image {
       width: 100%;
       float: none;
@@ -380,7 +366,7 @@ h2 {
     #goals-text {
         width: 100%;
     }
-}
+} */
 
 .programs {
     display: inline;
@@ -411,7 +397,7 @@ hr {
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+ /* @media only screen and (max-width: 600px) {
     #programs-image {
       width: 100%;
       left: 0px;
@@ -422,7 +408,7 @@ hr {
         
 
     }
-}
+} */
 
 /* style for price info on the "Aout Us" page*/
 
@@ -471,12 +457,12 @@ hr {
 
  /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+ /* @media only screen and (max-width: 600px) {
     #signup-image {
       width: 100%;
       float: none;
     }
-  }
+  } */
 
 #signup-form-outer {
     height: 700px;
@@ -523,12 +509,12 @@ hr {
 
 /* Change the width of the three columns to 100%
   (to stack horizontally on small screens) */
-  @media only screen and (max-width: 600px) {
+ /* @media only screen and (max-width: 600px) {
     #signup-form {
       width: 100%;
       left: 0px;
     } 
-}
+} */
 
 
 .submit-button {
@@ -550,5 +536,101 @@ hr {
     color: black;
 }
 
+@media screen and (max-width: 1200px){
+
+
+}
+
+/* Change the width of the three columns to 100%
+  (to stack horizontally on small screens) */
+  @media only screen and (max-width: 600px) {
+    
+    #hero-outer {
+        clear: left;
+    }
+    #menu{
+        
+       clear: left;
+        float: left; 
+        margin-left: 30px; 
+        margin-bottom: 20px;
+        line-height: 15px; 
+        background: none;
+    }
+    
+    #menu a {
+        color: #191970;
+    }
+    
+    #about-ethos div {
+        float: none;
+        height: fit-content;
+        width:100%;
+        padding-top: 20px;
+        margin: 0 auto;
+    }
+
+    #bottom-image {
+        position:inherit;
+    }
+
+    #about-us-button {
+        padding-bottom: 30px;
+    }
+    
+    #opentimes {
+        line-height: 25px;
+        padding-right: 0px;
+        text-align: center;
+        margin-left: -10px;
+    }
+
+    .open-times > h3 {
+        width: 100%;
+        margin-left: -30px;
+        border-bottom: none;
+    }
+
+    .open-times > table {
+        border-bottom: none;
+    } 
+    
+    #goals-image {
+        width: 100%;
+        float: none;
+      } 
+  
+      #goals-text {
+          width: 100%;
+      }
+    #about-us-image {
+      width: 100%;
+      float: none;
+    } 
+
+    #about-us-text {
+        width: 100%;
+    }
+
+    #programs-image {
+        width: 100%;
+        left: 0px;
+      } 
+  
+      #programs-text {
+          width: 100%;
+          
+  
+      }
+
+      #signup-image {
+        width: 100%;
+        float: none;
+      }
+      #signup-form {
+        width: 100%;
+        left: 0px;
+      } 
+}
 
 
