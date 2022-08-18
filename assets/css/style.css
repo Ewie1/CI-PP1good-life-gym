@@ -278,12 +278,12 @@ header a {
 #contact-us > h5 {
     font-size: 175%;
     letter-spacing: 3px;
-    color: silver;
+    color: #2F4F4F;
 }
 
 #contact-us > p {
     padding-top: 10px;
-    color: silver;
+    color: #2F4F4F;
     letter-spacing: 4px;
 }
  
@@ -626,6 +626,7 @@ hr {
         }
 
     #hero-outer {
+        width:auto;
         clear: left;
     }
     
@@ -636,7 +637,7 @@ hr {
         margin: 0 auto;
     }
     #bottom-image {
-        position:inherit;
+        width:auto;
     }
 
     #about-us-button {
