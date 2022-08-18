@@ -24,18 +24,20 @@ h1 {
 h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
-    text-decoration: none;
-    text-align: center;
 }
 
 #logo {
-    height: ;
+    
     text-align: center;
-    letter-spacing: 9px;
+    letter-spacing: 10px;
     padding-top: 60px;
-    font-size:250% ;
+    font-size:60px;
     background-color: rgba(240, 240, 240, 0.888);
-    border-bottom-style: none;
+    
+}
+
+header a {
+    text-decoration: none;
 }
 
 
@@ -71,7 +73,7 @@ h2 {
 }
 
 .active {
-    border-bottom: 1px solid #fafafa;
+      border-bottom: 1px solid #fafafa; 
 }
  
 /* style for the first hero images */
