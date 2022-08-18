@@ -90,7 +90,8 @@ header a {
     width: 100%;
     background: url('../images/gyminterior.webp')no-repeat center center; 
     background-size: cover; 
-    background-position: center; 
+    background-position: center;
+    
 }
 
 /*#join-us {
@@ -115,6 +116,7 @@ header a {
     float: left;
     background-color: rgba(240, 240, 240, 0.888); 
     overflow: hidden;
+    
 }
 
 #train-us {
