@@ -358,8 +358,7 @@ header a {
 #goals-text {
     height: 300px;
     width: 40%;
-    text-align: center;
-    
+    text-align: center; 
     font-size: larger;
     border-radius:40%;
 }
@@ -618,7 +617,7 @@ hr {
         border-bottom: none;
     } 
 
-    #goals-image {
+  #goals-image {
         width: 90%;
         float: none;
         
@@ -626,26 +625,34 @@ hr {
   
     #about-us-image {
       width: 90%;
+      margin: 0 auto;
       float: none;
     } 
 
      #programs-image {
+        margin: 0 auto;
         width: 90%;
-        left: 0px;
+
       } 
   
-      #about {
+      #about  {
         width: 100%;
         float: none;
-        color: red;
     }
 
-    #about-us-text{
+    #about-us-text  {
+        margin: 0 auto;
+        display: inline;
         width: 100%;
-        
-        
+        float: none; 
     }
 
+    #about-us-text h2 {
+        margin: 0 auto;
+    }
+    #about-us-text p {
+        margin: 0 auto;
+    }
       
       #prices div {
         width: 100%;
