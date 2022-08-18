@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
 
-* {
+ * {
     margin: 0;
     padding: 0;
     border: none; 
@@ -8,7 +8,7 @@
 
 body {
     font-family: karla, sans-serif;
-    font-weight: 300;
+  /*  font-weight: 300; */
 }
 
 /* Style for heading and logo */
@@ -86,18 +86,18 @@ h2 {
     background-position: center; 
 }
 
-#join-us {
+/*#join-us {
     height: 30px;
     width: 150px;
     text-align: center;
     border-radius: 40%;
     background: #f8d54d;
     margin: 0 auto;
-} 
+} */
 
 /* style for the gym ethos contents */
 
-#about-ethos {
+ #about-ethos {
     background-color: rgba(240, 240, 240, 0.888);
     width: 100%;
 }
@@ -112,6 +112,7 @@ h2 {
 
 #train-us {
     padding-top: 100px;
+    width: 100%;
 }
 
 #train-us > h2 {
@@ -161,18 +162,19 @@ h2 {
           border-radius: 100px;
 }
 
-#gym-confort {
+#gym-comfort {
     padding-top: 100px;
+    width: 100%;
 }
 
-#gym-confort > h2 {
+#gym-comfort > h2 {
     padding-top: 120px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
 }
 
-#gym-confort p {
+#gym-comfort p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -181,7 +183,7 @@ h2 {
     word-spacing: 1px;
 }
 
-#gym-confort ul {
+#gym-comfort ul {
     text-align: center;
     color: #191970;
     line-height: 35px;
@@ -200,14 +202,14 @@ h2 {
     padding-bottom: 150px;
 } 
 
-.singletraining {
+/*.singletraining {
     height: 300px;
     width: 25%;
     border-radius: 50px;
     background: url('../images/background.jpg'); 
     background-size: cover;  
     background-position: center;  
-}
+} */
 
 /* Style for the open times below the ethos*/
 
@@ -259,7 +261,7 @@ h2 {
     
 }
  /*style for contact us information*/
-#contact-us{
+ #contact-us{
     height: 100px;
     padding: 20px;
     text-align: center;
@@ -290,7 +292,7 @@ h2 {
     padding: 10px;
     color: black;
     clear: both;
-}
+} 
 
 /* style for the "Adout Us Page" first sectoin content */
 
