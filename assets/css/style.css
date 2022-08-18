@@ -544,14 +544,20 @@ hr {
     color: black;
 }
 
+/*For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
+    #menu li {
+        padding-top: 40px;
+        margin-right: 40px;  
+        font-size: 25px;
+    }
+
 
 
 }
 
-/* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
-  @media only screen and (max-width: 500px) {
+/*  For medium screens sizes from 950px wide and down */
+  @media only screen and (max-width: 600px) {
     h1 {
         max-height: 50px;
     }
@@ -565,8 +571,6 @@ hr {
         height: 30px;
         width: 100%;
         display: inline-block;
-        
-       
     }
 
     #menu li {
@@ -575,7 +579,6 @@ hr {
         display: inline;
         margin: 0 auto;
         padding-inline-start: 10px;
-        
     }
     
     #menu a {
