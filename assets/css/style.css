@@ -227,12 +227,11 @@ header a {
     width: 100%;
     letter-spacing: 5px;
     color: #191970;
-    
-    
+    text-align: left;
 }
 
 .open-times > h3 {
-    width: 17%;
+    width: 20%;
     margin-left: 5px;
     padding-bottom: 5px;
     border-bottom: 1px solid #191970;
@@ -241,6 +240,7 @@ header a {
 
 .open-times > table {
     border-bottom: 1px solid #191970;
+    text-align: left;
 }
 
 /* Style for the map "Find Us" section*/
@@ -553,10 +553,26 @@ hr {
         margin-right: 40px;  
         font-size: 25px;
     }
+    #about-ethos {
+        width: 100%;
+        background: rgba(240, 240, 240, 0.888);
+        background-size: cover;
+        background-position: center;
+    }
+    .open-times{
+        margin-top: 30px;
+        text-align: left; 
+    }
+    .open-times > h3 {
+        width: 34%;
+        
+    }
+    
+       
+    }
 
 
 
-}
 
 /*  For medium screens sizes from 950px wide and down */
   @media only screen and (max-width: 600px) {
