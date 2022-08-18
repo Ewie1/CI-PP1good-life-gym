@@ -491,11 +491,16 @@ hr {
     max-width:400px;
     position:absolute; 
     margin:100px 10% 0 0; 
-    line-height: 50px;
+    line-height: 30px;
     padding: 40px;
     border-radius: 50px;
     left: 30px;
     color: #191970;
+}
+
+.signup-form h2 {
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .text-input {
@@ -559,7 +564,7 @@ hr {
         background-position: center;
     }
     .open-times{
-        margin-top: 30px;
+        margin-top: 40px;
         text-align: left; 
     }
     .open-times > h3 {
@@ -710,10 +715,12 @@ hr {
         width: 100%;
         float: none;
        }
-      #signup-form {
-        width: 100%;
-        margin: 0 auto;
-        } 
+      .signup-form {
+        width: 65%;
+        margin-left:-15px;
+       } 
+      
+    
     
     }
 
