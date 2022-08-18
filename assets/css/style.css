@@ -8,7 +8,7 @@
 
 body {
     font-family: karla, sans-serif;
-  /*  font-weight: 300; */
+    font-weight: 300; 
 }
 
 /* Style for heading and logo */
@@ -16,8 +16,9 @@ body {
 h1 {
     font-family: Mulish , sans-serif;
     text-transform: uppercase;
-    color: #2e2eb8;
+    color: #191970;
     text-decoration: none;
+    border-bottom-style: none;
 }
 
 h2 {
@@ -28,11 +29,15 @@ h2 {
 }
 
 #logo {
-    letter-spacing: 6px;
-    color: #191970;
+    height: ;
+    text-align: center;
+    letter-spacing: 9px;
+    padding-top: 60px;
     font-size:250% ;
     background-color: rgba(240, 240, 240, 0.888);
+    border-bottom-style: none;
 }
+
 
 /* Style for nav links within the heading */
 
