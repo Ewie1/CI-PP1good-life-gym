@@ -616,23 +616,26 @@ hr {
     .open-times > table {
         border-bottom: none;
     } 
+ 
+    #about-us-image {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        float: none;
+      } 
 
   #goals-image {
-        width: 90%;
-        float: none;
-        
-      } 
-  
-    #about-us-image {
-      width: 90%;
-      margin: 0 auto;
-      float: none;
-    } 
-
-     #programs-image {
         margin: 0 auto;
         width: 90%;
-
+        float: none;
+        margin-bottom: 30px;
+        
+      } 
+   #programs-image {
+        margin: 0 auto;
+        width: 90%;
+        margin-bottom: 30px;
       } 
   
       #about  {
@@ -643,15 +646,19 @@ hr {
     #about-us-text  {
         margin: 0 auto;
         display: inline;
-        width: 100%;
         float: none; 
+        
     }
 
     #about-us-text h2 {
         margin: 0 auto;
+        margin-bottom: 20px;
     }
     #about-us-text p {
+        width: 90%;
         margin: 0 auto;
+        margin-bottom: 20px;
+        border-bottom: none;
     }
       
       #prices div {
