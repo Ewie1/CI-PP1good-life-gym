@@ -317,16 +317,17 @@ header a {
     background-size: cover;
     background-position: center;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 #about-us-text {
     height: 300px;
     width: 50%;
+    float: right;
+    margin-top: -900px;
     text-align: center;
-    padding-top: 50px;
     font-size: larger;
     border-radius: 40%;
-    float: right;
 }
 
 #about-us-text > h2 {
@@ -341,7 +342,7 @@ header a {
     color: #191970;
     font-weight: 500;
     font-size: 20px;
-    line-heIght:30px;
+    line-height:30px;
 }
 
 #goals-image {
@@ -386,6 +387,7 @@ header a {
     border-radius: 40px;
     background-image:url('../images/unnamed2.jpg');
     background-size: cover;
+    margin-bottom: 30px;
 } 
 
  #programs-text {
