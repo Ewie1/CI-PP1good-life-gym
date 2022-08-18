@@ -641,43 +641,41 @@ hr {
       #about  {
         width: 100%;
         float: none;
-    }
-
+      }
     #about-us-text  {
         margin: 0 auto;
         display: inline;
         float: none; 
-        
-    }
+      }
 
     #about-us-text h2 {
         margin: 0 auto;
         margin-bottom: 20px;
-    }
+      }
     #about-us-text p {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
         border-bottom: none;
-    }
+      }
+    hr {
+        border-top: none;
+      }
       
       #prices div {
         width: 100%;
         clear: both;
         height: 150px;
         padding: 0;
-    }
-      
-
-      #signup-image {
+       }
+       #signup-image {
         width: 100%;
         float: none;
-      }
+       }
       #signup-form {
         width: 100%;
         margin: 0 auto;
-        
-      } 
+        } 
     
     }
 
