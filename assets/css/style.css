@@ -28,6 +28,7 @@ h2 {
 }
 
 #logo {
+    height: 150px;
     text-align: center;
     letter-spacing: 10px;
     padding-top: 60px;
@@ -44,17 +45,17 @@ header a {
 /* Style for nav links within the heading */
 
 #menu {
-    height: 150px;
+    height: 70px;
     background-color: #191970;
     text-align: center; 
 }
 
-#menu, #logo {
-    height: 150px;
-}
+/*#menu, #logo {
+    height: 150px; 
+} */
 
 #menu li {
-    height: 150px; 
+    height: 70px; 
     display: inline-block;
     padding-top: 50px;
     list-style-type: none;
