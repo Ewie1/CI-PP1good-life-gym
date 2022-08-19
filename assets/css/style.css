@@ -57,7 +57,7 @@ header a {
 #menu li {
     height: 70px; 
     display: inline-block;
-    padding-top: 50px;
+    padding-top: 10px; 
     list-style-type: none;
     margin-right: 50px;  
     font-size: 30px;
