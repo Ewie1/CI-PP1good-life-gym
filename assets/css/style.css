@@ -41,7 +41,7 @@ header a {
 /* Style for nav links within the heading */
 
 #menu {
-    height: 150px;
+    height: 70px;
     background-color: #191970;
     text-align: center; 
     
@@ -321,7 +321,7 @@ h2 {
 
 #about-text {
     height: 300px;
-    width: 50%;
+    width: 65%;
     float: right;
     margin-top: -900px;
     text-align: center;
