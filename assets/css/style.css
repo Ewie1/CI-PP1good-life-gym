@@ -224,14 +224,14 @@ h2 {
 
 .open-times {
     padding: 40px;
-    width: 70%;
+    width: 100%;
     letter-spacing: 5px;
     color: #191970;
     text-align: left;
 }
 
 .open-times > h3 {
-    width: 21%;
+    width: 23%;
     padding-bottom: 5px;
     border-bottom: 1px solid #191970;
     text-transform: uppercase;
@@ -546,8 +546,8 @@ hr {
 
 /*For large to medium screens sizes from 1200px wide and down */
 
-@media screen and (max-width: 1200px){
-  /*  #menu li { 
+@media screen and (max-width: 1000px){
+   #menu li { 
       padding-top: 40px;
         margin-right: 40px;  
         font-size: 25px; 
