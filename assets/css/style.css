@@ -41,9 +41,10 @@ header a {
 /* Style for nav links within the heading */
 
 #menu {
-    height: 70px;
+    height: 150px;
     background-color: #191970;
     text-align: center; 
+    
 }
 
 #menu  li {
