@@ -25,6 +25,7 @@ h1 {
 h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
+    color: #191970;
 }
 
 #logo {
@@ -39,7 +40,7 @@ h2 {
 
 header a {
     text-decoration: none;
-}
+} 
 
 
 /* Style for nav links within the heading */
@@ -49,10 +50,6 @@ header a {
     background-color: #191970;
     text-align: center; 
 }
-
-/*#menu, #logo {
-    height: 150px; 
-} */
 
 #menu li {
     height: 70px; 
@@ -427,7 +424,7 @@ hr {
 }
 
 #prices div {
-    color: #0b2c87;
+    color: #191970;
     background-color: rgba(240, 240, 240, 0.888); 
     width: 20%;
     height: 200px;
@@ -439,7 +436,7 @@ hr {
 }
 
 #prices h2 {
-    color: #0b2c87;
+    color: #191970;
 }
 
 #prices p {
@@ -508,7 +505,7 @@ hr {
 } 
 
 .text-input:hover {
-    border-color: #2e2eb8;
+    border-color: #191970;
 }
 
 .submit-button:hover {
@@ -530,13 +527,13 @@ hr {
     border-radius:30px;
     padding:15px 32px 15px 32px;  
     font-size:100%;
-    background-color: #0b2c87;
+    background-color: #191970;
     color: #fafafa;
     display:block;
 }
 
 .text-input:hover {
-    border-color: #2e2eb8;
+    border-color: #191970;
 }
 
 .submit-button:hover {
