@@ -22,11 +22,6 @@ h1 {
     border-bottom-style: none;
 }
 
-h2 {
-    font-family: Mulish, sans-serif;
-    text-transform: uppercase;
-    color: #191970;
-}
 
 #logo {
     height: 150px;
@@ -51,7 +46,7 @@ header a {
     text-align: center; 
 }
 
-#menu li {
+#menu  li {
     height: 70px; 
     display: inline-block;
     padding-top: 10px; 
@@ -72,6 +67,12 @@ header a {
 
 .active {
       border-bottom: 1px solid #fafafa; 
+}
+
+h2 {
+    font-family: Mulish, sans-serif;
+    text-transform: uppercase;
+    color: #191970;
 }
  
 /* style for the first hero images */
@@ -222,7 +223,7 @@ header a {
 
 .open-times {
     padding: 40px;
-    width: 100%;
+    width: 70%;
     letter-spacing: 5px;
     color: #191970;
     text-align: left;
@@ -244,7 +245,6 @@ header a {
 
 #map-outer {
     height: 50%;
-   /* padding: 5px; */
     text-align: center;
     background: url('../images/map.jpg')no-repeat;
     background-position: center;
