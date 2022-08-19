@@ -231,7 +231,7 @@ h2 {
 }
 
 .open-times > h3 {
-    width: 23%;
+    width: 21%;
     padding-bottom: 5px;
     border-bottom: 1px solid #191970;
     text-transform: uppercase;
@@ -321,7 +321,7 @@ h2 {
 
 #about-text {
     height: 300px;
-    width: 65%;
+    width: 60%;
     float: right;
     margin-top: -900px;
     text-align: center;
@@ -546,7 +546,7 @@ hr {
 
 /*For large to medium screens sizes from 1200px wide and down */
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1200px){
    #menu li { 
       padding-top: 40px;
         margin-right: 40px;  
