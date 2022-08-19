@@ -548,7 +548,7 @@ hr {
 
 @media screen and (max-width: 1200px){
    #menu li { 
-      padding-top: 40px;
+      padding-top: 20px;
         margin-right: 40px;  
         font-size: 25px; 
     }
@@ -683,17 +683,17 @@ hr {
         margin-left: -15px;
         
       }
-    #about-us-text  {
+    #about-text  {
         margin: 0 auto;
         display: inline;
         float: none; 
       }
 
-    #about-us-text h2 {
+    #about-text h2 {
         margin: 0 auto;
         margin-bottom: 20px;
       }
-    #about-us-text p {
+    #about-text p {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
