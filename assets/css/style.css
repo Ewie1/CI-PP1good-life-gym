@@ -244,7 +244,7 @@ header a {
 
 #map-outer {
     height: 50%;
-    padding: 5px;
+   /* padding: 5px; */
     text-align: center;
     background: url('../images/map.jpg')no-repeat;
     background-position: center;
