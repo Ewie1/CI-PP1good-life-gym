@@ -216,17 +216,17 @@ h2 {
 #map-outer {
     height: 50%;
     text-align: center;
-  /*  background: url('../images/yoga3.jpg')no-repeat; */
+    background: url('../images/map2.jpg')no-repeat; 
     background-color: silver;
     background-position: center;
     background-size: cover;
-    box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2)
+   /* box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2) */
 }
 
 #map-outer h3 {
     padding: 6px;
     text-align: center;
-    color: #191970;
+  /*  color: #191970; */
     text-transform: uppercase;
     line-height: 30px;
     letter-spacing: 6px;
@@ -357,7 +357,7 @@ hr {
 
 #prices {
     width: 100%;
-    background-image: url('../images/map.jpg'); 
+    background-image: url('../images/map2.jpg'); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
