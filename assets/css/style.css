@@ -481,7 +481,7 @@ hr {
 /*For large to medium screens sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px){
-   #menu li { 
+   .menu li { 
       padding-top: 20px;
         margin-right: 40px;  
         font-size: 25px; 
@@ -500,16 +500,16 @@ hr {
     .about {
         margin-left: 10px;
     }
-    #about-text {
+    .about-text {
         width: 55%;
         display: inline; 
         margin-top: -1000px;
     }
-    #about-text h3 {
+    .about-text h3 {
         margin-bottom: 15px ;
 
     }
-    #about-text  p {
+    .about-text  p {
         margin-bottom: 20px;
         margin-top: 20px;
         margin-right: 20px;
@@ -533,13 +533,13 @@ hr {
         font-size: 30px;
     }
     
-    #menu{
+    .menu{
         height: 30px;
         width: 100%;
         display: inline-block;
     }
 
-    #menu li {
+    .menu li {
         width: 100%;
         font-size: 10px;
         display: inline;
@@ -547,7 +547,7 @@ hr {
         padding-inline-start: 10px;
     }
     
-    #menu a {
+    .menu a {
         color: #fafafa;
         }
 
@@ -562,13 +562,14 @@ hr {
         padding-top: 20px;
         margin: 0 auto;
     }
-    #bottom-image {
+
+    .bottom-image {
         width:auto;
         display: flex;
         scroll-behavior: smooth;
     }
 
-    #about-us-button {
+    .about-us-button {
         padding-bottom: 30px;
     }
     
@@ -589,7 +590,7 @@ hr {
         border-bottom: none;
     } 
  
-    #about-us-image {
+    .about-us-image {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 30px;
@@ -597,14 +598,14 @@ hr {
         float: none;
       } 
 
-  #goals-image {
+  .goals-image {
         margin: 0 auto;
         width: 90%;
         float: none;
         margin-bottom: 30px;
         
       } 
-   #programs-image {
+   .programs-image {
         margin: 0 auto;
         width: 90%;
         margin-bottom: 30px;
@@ -614,17 +615,17 @@ hr {
         margin-left: -15px;
         
       }
-    #about-text  {
+    .about-text  {
         margin: 0 auto;
         display: inline;
         float: none; 
       }
 
-    #about-text h2 {
+    .about-text h2 {
         margin: 0 auto;
         margin-bottom: 20px;
       }
-    #about-text p {
+    .about-text p {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
@@ -640,10 +641,10 @@ hr {
         height: 150px;
         padding: 0;
        }
-       #signup-image {
+      /* #signup-image {
         width: 100%;
         float: none;
-       }
+       } */
       .signup-form {
         width: 65%;
         margin-left:-15px;
