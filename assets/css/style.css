@@ -22,7 +22,6 @@ h1 {
     border-bottom-style: none;
 }
 
-
 #logo {
     height: 150px;
     text-align: center;
@@ -44,7 +43,6 @@ header a {
     height: 70px;
     background-color: #191970;
     text-align: center; 
-    
 }
 
 #menu  li {
@@ -82,7 +80,6 @@ h2 {
     height: 500px;
     width: 100%;
     overflow: hidden; 
-  /*  position: relative; */
 } 
     
 #hero-image {
@@ -91,17 +88,7 @@ h2 {
     background: url('../images/hero6.jpg')no-repeat center center; 
     background-size: cover; 
     background-position: center;
-    
 }
-
-/*#join-us {
-    height: 30px;
-    width: 150px;
-    text-align: center;
-    border-radius: 40%;
-    background: #f8d54d;
-    margin: 0 auto;
-} */
 
 /* style for the gym ethos contents */
 
@@ -116,7 +103,6 @@ h2 {
     float: left;
     background-color: rgba(240, 240, 240, 0.888); 
     overflow: hidden;
-    
 }
 
 #train-us {
@@ -148,12 +134,6 @@ h2 {
     list-style-type: none;
 }
 
-/* #become-a-member {
-    padding-top: 100px; 
-    letter-spacing: 6px;
-    margin: 0 auto;
-} */
-
 #about-us-button {
     text-align: center;
     padding-top: 100px; 
@@ -161,14 +141,14 @@ h2 {
 }
 
 #about-us-button a {
-           padding: 25px ;
-          position: unset;
-          font-size: larger;
-          font-weight: 600;
-          color: #fafafa;
-          background-color: #191970;
-          text-decoration: none;
-          border-radius: 100px;
+    padding: 25px ;
+    position: unset;
+    font-size: larger;
+    font-weight: 600;
+    color: #fafafa;
+    background-color: #191970;
+    text-decoration: none;
+    border-radius: 100px;
 }
 
 #gym-comfort {
@@ -199,7 +179,6 @@ h2 {
     list-style-type: none;
 }
 
-
 /* Style for the second hero image */
 
 #bottom-image {
@@ -210,15 +189,6 @@ h2 {
     background-position: center;
     padding-bottom: 150px;
 } 
-
-/*.singletraining {
-    height: 300px;
-    width: 25%;
-    border-radius: 50px;
-    background: url('../images/background.jpg'); 
-    background-size: cover;  
-    background-position: center;  
-} *
 
 /* Style for the open times below the ethos*/
 
@@ -267,8 +237,10 @@ h2 {
     height: 200px;
     
 }
- /*style for contact us information*/
- #contact-us{
+
+/*style for  footer contact us information*/
+
+#contact-us{
     height: 100px;
     padding: 20px;
     text-align: center;
@@ -286,7 +258,7 @@ h2 {
     letter-spacing: 4px;
 }
  
-/*style for media links*/
+/*style for footer media links*/
 
 .media-links {
     text-align: center;
@@ -305,7 +277,7 @@ h2 {
 
 .about {
     
-  margin-left: 30px;
+    margin-left: 30px;
 }
 
 #about-us-image {
@@ -354,25 +326,6 @@ h2 {
     background-size: cover;
     background-position: center; 
     margin-bottom: 30px; 
-}
-
-
-
-/* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
- /* @media only screen and (max-width: 600px) {
-    #goals-image {
-      width: 100%;
-      float: none;
-    } 
-
-    #goals-text {
-        width: 100%;
-    }
-} */
-
-.programs {
-    display: inline;
 }
 
 #programs-image {
