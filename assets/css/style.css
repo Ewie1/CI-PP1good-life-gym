@@ -243,19 +243,19 @@ h2 {
 
 /*style for  footer contact us information*/
 
-.contact-us{
+#contact-us{
     height: 100px;
     padding: 20px;
     text-align: center;
 }
 
-.contact-us > h4 {
+#contact-us > h4 {
     font-size: 175%;
     letter-spacing: 3px;
     color: #2F4F4F;
 }
 
-.contact-us > p {
+#contact-us > p {
     padding-top: 10px;
     color: #2F4F4F;
     letter-spacing: 4px;
