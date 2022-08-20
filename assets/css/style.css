@@ -20,6 +20,7 @@ h1 {
     color: #191970;
     text-decoration: none;
     border-bottom-style: none;
+    
 }
 
 #logo {
@@ -28,14 +29,12 @@ h1 {
     letter-spacing: 10px;
     padding-top: 60px;
     font-size:60px;
-    background-color: rgba(240, 240, 240, 0.888);
-    
+     background-color: rgba(240, 240, 240, 0.888);  
 }
 
-header a {
+header > a {
     text-decoration: none;
 } 
-
 
 /* Style for nav links within the heading */
 
@@ -217,9 +216,11 @@ h2 {
 #map-outer {
     height: 50%;
     text-align: center;
-    background: url('../images/yoga3.jpg')no-repeat;
+  /*  background: url('../images/yoga3.jpg')no-repeat; */
+    background-color: silver;
     background-position: center;
     background-size: cover;
+    box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2)
 }
 
 #map-outer h3 {
@@ -337,7 +338,7 @@ h2 {
     margin-bottom: 30px;
 } 
 
- #programs-text {
+#programs-text {
     height: 300px;
     width: 40%;
     text-align: center;
@@ -352,21 +353,6 @@ hr {
    margin-left: 100px;
 }
 
-/* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
- /* @media only screen and (max-width: 600px) {
-    #programs-image {
-      width: 100%;
-      left: 0px;
-    } 
-
-    #programs-text {
-        width: 100%;
-        
-
-    }
-} */
-
 /* style for price info on the "Aout Us" page*/
 
 #prices {
@@ -376,7 +362,7 @@ hr {
     background-size: cover;
     background-position: center;
     overflow: hidden;
-
+    box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2)
 }
 
 #prices div {
@@ -404,22 +390,12 @@ hr {
     line-height: 35px;
 }
 
-
 /* style for the signup form on the become a member page */
 
 #signup-image-outer {
     height: 900px;
     
 }
-
- /* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
- /* @media only screen and (max-width: 600px) {
-    #signup-image {
-      width: 100%;
-      float: none;
-    }
-  } */
 
 #signup-form-outer {
     height: 700px;
@@ -467,16 +443,6 @@ hr {
 .submit-button:hover {
     background-color: #fff;
 }
-
-/* Change the width of the three columns to 100%
-  (to stack horizontally on small screens) */
- /* @media only screen and (max-width: 600px) {
-    #signup-form {
-      width: 100%;
-      left: 0px;
-    } 
-} */
-
 
 .submit-button {
     margin: 0 auto;
