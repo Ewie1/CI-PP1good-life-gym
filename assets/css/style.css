@@ -486,6 +486,12 @@ hr {
         margin-right: 40px;  
         font-size: 25px; 
     }
+
+    .hero-image h1{
+        font-size: 25px;
+        
+    }
+
     #about-ethos div {
         width: 50%;
     }
