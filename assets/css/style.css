@@ -29,7 +29,7 @@ h1 {
     letter-spacing: 10px;
     padding-top: 60px;
     font-size:60px;
-     background-color: rgba(240, 240, 240, 0.888);  
+    background-color: rgba(240, 240, 240, 0.888);  
 }
 
 header > a {
@@ -81,7 +81,7 @@ h2 {
     overflow: hidden; 
 } 
     
-#hero-image {
+.hero-image {
     height: 500px;
     width: 100%;
     background: url('../images/hero6.jpg')no-repeat center center; 
@@ -107,6 +107,7 @@ h2 {
 #train-us {
     padding-top: 100px;
     width: 100%;
+    column-gap: 1em;
 }
 
 #train-us > h2 {
@@ -217,10 +218,10 @@ h2 {
     height: 50%;
     text-align: center;
     background: url('../images/map2.jpg')no-repeat; 
-    background-color: silver;
+   /* background-color: silver; */
     background-position: center;
     background-size: cover;
-   /* box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2) */
+    box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
 }
 
 #map-outer h3 {
@@ -362,7 +363,7 @@ hr {
     background-size: cover;
     background-position: center;
     overflow: hidden;
-    box-shadow: 12px 8px 12px 8px rgba(0,0,0,0.2)
+    box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
 }
 
 #prices div {
@@ -471,12 +472,10 @@ hr {
         margin-right: 40px;  
         font-size: 25px; 
     }
-    #about-ethos {
-        width: 100%;
-        background: rgba(240, 240, 240, 0.888);
-        background-size: cover;
-        background-position: center;
+    #about-ethos div {
+        width: 50%;
     }
+
     .open-times{
         margin-top: 40px;
         text-align: left; 
@@ -508,9 +507,6 @@ hr {
     }
        
     }  
-
-
-
 
 /*  For medium screens sizes from 950px wide and down */
   @media only screen and (max-width: 600px) {
@@ -554,6 +550,8 @@ hr {
     }
     #bottom-image {
         width:auto;
+        display: flex;
+        scroll-behavior: smooth;
     }
 
     #about-us-button {
@@ -637,10 +635,7 @@ hr {
         margin-left:-15px;
         font-size: medium;
        } 
-      
-    
-    
-    }
+}
 
 
 
