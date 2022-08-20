@@ -247,7 +247,7 @@ h2 {
 #map-outer {
     height: 50%;
     text-align: center;
-    background: url('../images/map.jpg')no-repeat;
+    background: url('../images/yoga3.jpg')no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -312,7 +312,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 40px;
-    background-image:url('../images/unnamed1.jpg');
+    background-image:url('../images/sauna.webp');
     background-size: cover;
     background-position: center;
     margin-bottom: 30px;
@@ -379,7 +379,7 @@ h2 {
     height: 300px;
     width: 300px; 
     border-radius: 40px;
-    background-image:url('../images/unnamed2.jpg');
+    background-image:url('../images/outdoor4.jpg');
     background-size: cover;
     margin-bottom: 30px;
 } 
