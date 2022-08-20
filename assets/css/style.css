@@ -215,7 +215,7 @@ h2 {
 
 /* Style for the map "Find Us" section*/
 
-#map-outer {
+.map-outer {
     height: 50%;
     text-align: center;
     background: url('../images/map2.jpg')no-repeat; 
@@ -225,7 +225,7 @@ h2 {
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
 }
 
-#map-outer h3 {
+.map-outer h3 {
     padding: 6px;
     text-align: center;
   /*  color: #191970; */
@@ -243,19 +243,19 @@ h2 {
 
 /*style for  footer contact us information*/
 
-#contact-us{
+.contact-us{
     height: 100px;
     padding: 20px;
     text-align: center;
 }
 
-#contact-us > h4 {
+.contact-us > h4 {
     font-size: 175%;
     letter-spacing: 3px;
     color: #2F4F4F;
 }
 
-#contact-us > p {
+.contact-us > p {
     padding-top: 10px;
     color: #2F4F4F;
     letter-spacing: 4px;
@@ -278,12 +278,12 @@ h2 {
 
 /* style for the "Adout Us Page" first sectoin content */
 
-.about {
+#about {
     
     margin-left: 30px;
 }
 
-#about-us-image {
+.about-us-image {
     height: 300px;
     width: 300px;
     border-radius: 40px;
@@ -294,7 +294,7 @@ h2 {
     margin-top: 30px;
 }
 
-#about-text {
+.about-text {
     height: 300px;
     width: 60%;
     float: right;
@@ -305,13 +305,13 @@ h2 {
     
 }
 
-#about-text > h2 {
+.about-text > h2 {
     margin-right: 100px;
     letter-spacing: 9px;
     
 }
 
-#about-text > p {
+.about-text > p {
     margin-right: 100px;
     margin-bottom: 50px;
     margin-top: 40px;
@@ -321,7 +321,7 @@ h2 {
     line-height:30px;
 }
 
-#goals-image {
+.goals-image {
     height: 300px;
     width: 300px;
     border-radius: 40px;
@@ -331,7 +331,7 @@ h2 {
     margin-bottom: 30px; 
 }
 
-#programs-image {
+.programs-image {
     height: 300px;
     width: 300px; 
     border-radius: 40px;
@@ -340,7 +340,7 @@ h2 {
     margin-bottom: 30px;
 } 
 
-#programs-text {
+.programs-text {
     height: 300px;
     width: 40%;
     text-align: center;
