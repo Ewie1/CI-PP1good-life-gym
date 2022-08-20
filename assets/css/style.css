@@ -82,9 +82,15 @@ h2 {
 } 
 
 .hero-image h1 {
+    width: 60%;
     text-align: center;
     padding-top: 250px;
-    color: yellow;
+    float: right;
+    color: #fafafa;
+    font-size: 30px;
+    letter-spacing: 6px;
+    text-align: left;
+    text-transform: none;
     
 }
     
