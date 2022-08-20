@@ -38,13 +38,13 @@ header > a {
 
 /* Style for nav links within the heading */
 
-#menu {
+.menu {
     height: 70px;
     background-color: #191970;
     text-align: center; 
 }
 
-#menu  li {
+.menu  li {
     height: 70px; 
     display: inline-block;
     padding-top: 10px; 
@@ -54,12 +54,12 @@ header > a {
     text-transform:uppercase;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: #fafafa;
 }
 
-#menu a:hover {
+.menu a:hover {
     text-decoration: none;
 }
 
