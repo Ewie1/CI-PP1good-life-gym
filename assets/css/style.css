@@ -25,13 +25,14 @@ h1 {
 }
 
 #logo {
-    height: 75px;
+    height: 150px;
+    margin: 0 auto;
     text-align: center;
     letter-spacing: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size:60px;
-    background-color: #191970;
+    font-size:300px;
+   /* background-color: #191970; */
    /* background-color: rgba(240, 240, 240, 0.888);  */
 }
 
