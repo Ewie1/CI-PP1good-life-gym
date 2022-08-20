@@ -134,23 +134,6 @@ h2 {
     list-style-type: none;
 }
 
-#about-us-button {
-    text-align: center;
-    padding-top: 100px; 
-    letter-spacing: 6px;
-}
-
-#about-us-button a {
-    padding: 25px ;
-    position: unset;
-    font-size: larger;
-    font-weight: 600;
-    color: #fafafa;
-    background-color: #191970;
-    text-decoration: none;
-    border-radius: 100px;
-}
-
 .gym-comfort {
     padding-top: 100px;
     width: 100%;
@@ -178,10 +161,28 @@ h2 {
     line-height: 35px;
     list-style-type: none;
 }
+ /*Style for Home page nav link to About Us page*/
+.about-us-button {
+    text-align: center;
+    padding-top: 100px; 
+    letter-spacing: 6px;
+}
+
+.about-us-button a {
+    padding: 25px ;
+    position: unset;
+    font-size: larger;
+    font-weight: 600;
+    color: #fafafa;
+    background-color: #191970;
+    text-decoration: none;
+    border-radius: 100px;
+}
+
 
 /* Style for the second hero image */
 
-#bottom-image {
+.bottom-image {
     height: 500px;
     width: 100%;
     background: url('../images/heroimag9.jpg');
