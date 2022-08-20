@@ -104,20 +104,20 @@ h2 {
     overflow: hidden;
 }
 
-#train-us {
+.train-us {
     padding-top: 100px;
     width: 100%;
     column-gap: 1em;
 }
 
-#train-us > h2 {
+.train-us > h2 {
     padding-top: 120px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
 }
 
-#train-us p {
+.train-us p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -126,7 +126,7 @@ h2 {
     word-spacing: 1px; 
 }
 
-#train-us ul {
+.train-us ul {
     text-align: center;
     text-decoration: none;
     line-height: 35px;
@@ -151,19 +151,19 @@ h2 {
     border-radius: 100px;
 }
 
-#gym-comfort {
+.gym-comfort {
     padding-top: 100px;
     width: 100%;
 }
 
-#gym-comfort > h2 {
+.gym-comfort > h2 {
     padding-top: 120px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
 }
 
-#gym-comfort p {
+.gym-comfort p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -172,7 +172,7 @@ h2 {
     word-spacing: 1px;
 }
 
-#gym-comfort ul {
+.gym-comfort ul {
     text-align: center;
     color: #191970;
     line-height: 35px;
