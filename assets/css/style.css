@@ -555,6 +555,12 @@ hr {
         width:auto;
         clear: left;
     }
+
+    .hero-image h1 {
+        text-align: center;
+        font-size: 15px;
+
+    }
     
     #about-ethos div {
         float: none;
