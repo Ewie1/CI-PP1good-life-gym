@@ -17,19 +17,22 @@ h1 {
     height: 50px;
     font-family: Mulish , sans-serif;
     text-transform: uppercase;
-    color: #191970;
+  /*  color: #191970; */
+    color: #fafafa;
     text-decoration: none;
     border-bottom-style: none;
     
 }
 
 #logo {
-    height: 150px;
+    height: 75px;
     text-align: center;
     letter-spacing: 10px;
-    padding-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-size:60px;
-    background-color: rgba(240, 240, 240, 0.888);  
+    background-color: #191970;
+   /* background-color: rgba(240, 240, 240, 0.888);  */
 }
 
 header > a {
@@ -40,14 +43,14 @@ header > a {
 
 .menu {
     height: 70px;
-    background-color: #191970;
+  /*  background-color: #191970; */
     text-align: center; 
 }
 
 .menu  li {
-    height: 70px; 
+    height: 70px;
     display: inline-block;
-    padding-top: 10px; 
+    padding-top: 20px; 
     list-style-type: none;
     margin-right: 50px;  
     font-size: 30px;
@@ -55,12 +58,16 @@ header > a {
 }
 
 .menu a {
+    height: 35px;
+    width: 130%;
     text-decoration: none;
-    color: #fafafa;
+    color: #191970;
+    border-radius: 10px;
 }
 
 .menu a:hover {
     text-decoration: none;
+    box-shadow: 8px 0px 12px 0px rgba(0,0,0,0.2);
 }
 
 .active {
@@ -489,7 +496,6 @@ hr {
 
     .hero-image h1{
         font-size: 25px;
-        
     }
 
     #about-ethos div {
