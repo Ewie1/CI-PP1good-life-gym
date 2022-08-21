@@ -54,7 +54,7 @@ header nav a {
     padding-right: 5px;
     border-radius: 20px;
     text-transform: uppercase;
-    letter-spacing: 9px;
+    letter-spacing: 6px;
     font-weight: 600;
 }
 
@@ -348,7 +348,7 @@ h2 {
     float: right;
     margin-top: -900px;
     text-align: center;
-    font-size: larger;
+    font-size: 1.2em;
     border-radius: 40%;
     
 }
@@ -365,7 +365,7 @@ h2 {
     margin-top: 40px;
     color: #191970;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 1.2em;
     line-height:30px;
 }
 
