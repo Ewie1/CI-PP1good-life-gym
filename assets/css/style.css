@@ -139,7 +139,7 @@ h2 {
     height: 550px;
     width: 50%;
     float: left;
-    background-color: rgba(240, 240, 240, 0.888); 
+    background-color: rgba(240, 240, 240, 0.888); ;
     overflow: hidden; 
 } 
 
@@ -147,6 +147,7 @@ h2 {
     padding-top: 100px;
     width: 100%;
     column-gap: 1em;
+
 }
 
 .train-us > h2 {
@@ -163,6 +164,7 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px; 
+
 }
 
 .train-us ul {
@@ -171,6 +173,7 @@ h2 {
     line-height: 35px;
     color: #191970;
     list-style-type: none;
+    font-size: 1.2em;
 }
 
 .gym-comfort {
@@ -192,6 +195,7 @@ h2 {
     text-align: center;
     font-weight: 300;
     word-spacing: 1px;
+    font-size: ;
 }
 
 .gym-comfort ul {
@@ -199,6 +203,7 @@ h2 {
     color: #191970;
     line-height: 35px;
     list-style-type: none;
+    font-size: 1.2em;
 }
  /*Style for Home page nav link to About Us page*/
 .about-us-button {
@@ -228,7 +233,11 @@ h2 {
     background-size: cover;
     background-position: center;
     padding-bottom: 150px;
-} 
+}
+
+.bottom-image div {
+    background-color:rgba(240, 240, 240, 0.888) ;
+}
 
 /* Style for the open times below the ethos*/
 
