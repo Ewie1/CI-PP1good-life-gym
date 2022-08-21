@@ -67,9 +67,8 @@ header nav a {
 }
 
 .menu  li {
-    height: 70px;
     display: inline-block;
-    padding-top: 20px; 
+    margin-top: 20px;
     list-style-type: none;
     margin-right: 50px;  
     font-size: 30px;
@@ -78,14 +77,11 @@ header nav a {
 
 .menu a {
     height: 35px;
-    width: 130%;
+    width: 100%;
     text-decoration: none;
     color: #fafafa;
-    border-radius: 10px;
-}
-
-.menu a:hover {
-    text-decoration: none;
+    background-color: #2F4F4F;
+    
 }
 
 .active {
@@ -586,13 +582,14 @@ hr {
     }
     
     .menu a {
-        height: 20px;
+        height: 15px;
         width: 20%;
         margin-top: 15px;
         margin-left: 20px;
         text-decoration: none;
-    
         }
+
+        
 
     #hero-outer {
         width:auto;
