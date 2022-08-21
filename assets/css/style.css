@@ -173,7 +173,7 @@ h2 {
     line-height: 35px;
     color: #191970;
     list-style-type: none;
-    font-size: 1.2em;
+    font-size: 1.8em;
 }
 
 .gym-comfort {
@@ -182,10 +182,11 @@ h2 {
 }
 
 .gym-comfort > h2 {
-    padding-top: 120px;
+    padding-top: 30px;
     text-align: center;
     color: #191970;
     margin-bottom: 35px;
+    font-size: 1.8em;
 }
 
 .gym-comfort p {
@@ -201,9 +202,9 @@ h2 {
 .gym-comfort ul {
     text-align: center;
     color: #191970;
-    line-height: 35px;
+    line-height: 60px;
     list-style-type: none;
-    font-size: 1.2em;
+    font-size: 1.8em;
 }
  /*Style for Home page nav link to About Us page*/
 .about-us-button {
