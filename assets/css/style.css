@@ -97,7 +97,7 @@ h2 {
     overflow: hidden; 
 } 
 
-.hero-image h1 {
+.hero-image p {
     width: 60%;
     text-align: center;
     padding-top: 250px;
@@ -107,7 +107,7 @@ h2 {
     letter-spacing: 6px;
     text-align: left;
     text-transform: none;
-    
+    display: none;
 }
     
 .hero-image {
@@ -147,7 +147,7 @@ h2 {
     margin-bottom: 35px;
 }
 
-.train-us p {
+/*.train-us p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -155,7 +155,7 @@ h2 {
     font-weight: 300;
     word-spacing: 1px; 
 
-}
+} */
 
 .train-us ul {
     text-align: center;
@@ -178,7 +178,7 @@ h2 {
     margin-bottom: 35px;
 }
 
-.gym-comfort p {
+/*.gym-comfort p {
     height: 150px;
     padding-top: 50px;
     font-size: 20px;
@@ -186,7 +186,7 @@ h2 {
     font-weight: 300;
     word-spacing: 1px;
     font-size: ;
-}
+} */
 
 .gym-comfort ul {
     text-align: center;
@@ -196,7 +196,8 @@ h2 {
     font-size: 1.4em;
 }
  /*Style for Home page nav link to About Us page*/
-.about-us-button {
+
+ .about-us-button {
     text-align: center;
     padding-top: 100px; 
     letter-spacing: 6px;
@@ -222,7 +223,7 @@ h2 {
     background: url('../images/heroimag9.jpg');
     background-size: cover;
     background-position: center;
-    padding-bottom: 150px;
+    padding-bottom: 150px; 
 }
 
 .bottom-image div {
@@ -257,7 +258,6 @@ h2 {
     height: 50%;
     text-align: center;
     background: url('../images/map2.jpg')no-repeat; 
-   /* background-color: silver; */
     background-position: center;
     background-size: cover;
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
@@ -275,7 +275,8 @@ h2 {
 /*Style for footer section to all pages */
 
 #footer {
-    height: 200px;
+    height: 300px;
+    background-color: #191970;
     
 }
 
@@ -295,7 +296,7 @@ h2 {
 
 #contact-us > p {
     padding-top: 10px;
-    color: #2F4F4F;
+    color: silver;
     letter-spacing: 4px;
 }
  
