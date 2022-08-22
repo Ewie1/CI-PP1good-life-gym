@@ -96,6 +96,14 @@ header nav a {
     overflow: hidden; 
 } 
 
+.hero-image {
+    height: 500px;
+    width: 100%;
+    background: url('../images/hero6.jpg')no-repeat center center; 
+    background-size: cover; 
+    background-position: center;
+} 
+
 .hero-image h1 {
     width: 80%;
     text-align: center;
@@ -118,7 +126,7 @@ header nav a {
     padding-top: 40px;
 }
 
-.hero-image a {
+.hero-image  a {
     width: 120px;
     text-decoration: none;
     color: #0e2133;
@@ -130,17 +138,12 @@ header nav a {
     color: #fafafa;
 }
 
-.hero-image h1, a {
+.hero-image h1  {
     display:block;
-    
 }
-    
-.hero-image {
-    height: 500px;
-    width: 100%;
-    background: url('../images/hero6.jpg')no-repeat center center; 
-    background-size: cover; 
-    background-position: center;
+
+.hero-image a {
+    display: inline-block;
 }
 
 /* style for the gym ethos contents */
@@ -307,7 +310,7 @@ header nav a {
     color: silver;
 }
 
-#contact-us > p {
+#contact-us  p {
     padding-top: 10px;
     color: silver;
     letter-spacing: 4px;
@@ -317,7 +320,7 @@ header nav a {
 
 .media-links {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 70px;
 }
 
 .media-links i {
