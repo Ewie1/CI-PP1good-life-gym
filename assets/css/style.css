@@ -558,7 +558,7 @@ hr {
 
 @media screen and (max-width: 1200px){
    
-    .hero-image h2 {
+    .hero-image a {
         margin-left: 350px;
         
         
@@ -653,7 +653,7 @@ hr {
         padding-top: 130px;
     }
 
-    .hero-image h2 {
+    .hero-image a {
         margin-left: 100px;
         margin-top: 150px;
         height: 45px ;
