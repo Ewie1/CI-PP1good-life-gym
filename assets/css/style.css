@@ -313,7 +313,7 @@ header nav a {
 #contact-us > h4 {
     font-size: 175%;
     letter-spacing: 3px;
-    color: #2F4F4F;
+    color: silver;
 }
 
 #contact-us > p {
@@ -367,6 +367,7 @@ header nav a {
 .about-text > h2 {
     margin-right: 100px;
     letter-spacing: 9px;
+    font-size: 1.8em;
     
 }
 
@@ -418,12 +419,14 @@ hr {
 
 #prices {
     width: 100%;
-    background-image: url('../images/map2.jpg'); 
-    background-repeat: no-repeat;
+   /* background-image: url('../images/map2.jpg');  */
+    background-color: #0e2133;
+  /*  background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    overflow: hidden;
+    overflow: hidden; */
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
+    border-radius: 10px;
 }
 
 #prices div {
@@ -439,7 +442,7 @@ hr {
 }
 
 #prices h2 {
-    color: #191970;
+    color: #CD3700;
 }
 
 #prices p {
