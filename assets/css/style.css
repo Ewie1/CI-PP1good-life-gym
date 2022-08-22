@@ -305,18 +305,15 @@ header nav a {
 }
 
 #contact-us > h4 {
-    font-size: 1em;
+    font-size: 175%;
     letter-spacing: 3px;
     color: silver;
-    padding-bottom: 10px;
 }
 
 #contact-us  p {
-    width: 100%;
     padding-top: 10px;
     color: silver;
     letter-spacing: 4px;
-    font-size: 0.6em;
 }
  
 /*style for footer media links*/
@@ -532,14 +529,24 @@ hr {
     color: black;
 }
 
+#thankyou {
+    height: 400px;
+}
+
+#thankyou h1 {
+    color: #0e2133;
+    font-family: anton, sans-serif;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 150px;
+}
+
 /*For large to medium screens sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px){
    
     .hero-image a {
         margin-left: 350px;
-        
-        
     }
     
 
@@ -728,6 +735,16 @@ hr {
        #prices h2 {
         margin-top: 5px;
         margin-bottom: 20px;
+       }
+
+       #contact-us h4 {
+        font-size: 1.2em;
+        padding-bottom: 10px;
+       }
+
+       #contact-us p {
+        font-size: 0.6em;
+        letter-spacing: 2px;
        }
       
     .signup-form-outer {
