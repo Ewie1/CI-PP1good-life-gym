@@ -507,9 +507,9 @@ hr {
 @media screen and (max-width: 1200px){
    
 
-    .hero-image h1{
+    /*.hero-image h1{
         font-size: 25px;
-    }
+    } */
 
     #about-ethos div {
         width: 50%;
@@ -551,7 +551,7 @@ hr {
   @media only screen and (max-width: 600px) {
     .signup-logo {
         float: none;
-        margin-left: 90px;
+        margin-left: 100px;
         margin-top: 30px;
     }
     #logo {
@@ -581,20 +581,18 @@ hr {
         margin-top: 15px;
         margin-left: 20px;
         text-decoration: none;
-        }
-
-        
+    }
 
     #hero-outer {
         width:auto;
         clear: left;
     }
 
-    .hero-image h1 {
+    /*.hero-image h1 {
         text-align: center;
         font-size: 15px;
 
-    }
+    } */
     
     #about-ethos div {
         float: none;
@@ -638,20 +636,20 @@ hr {
         float: none;
       } 
 
-  .goals-image {
+    .goals-image {
         margin: 0 auto;
         width: 90%;
         float: none;
         margin-bottom: 30px;
         
       } 
-   .programs-image {
+    .programs-image {
         margin: 0 auto;
         width: 90%;
         margin-bottom: 30px;
       } 
   
-      #about  {
+    #about  {
         margin-left: 3px;
         
       }
