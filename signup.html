@@ -33,10 +33,14 @@
     </header>
     
     <section id="signup-form-outer" >
-        
-        <form class="signup-form" method="post"
-            >
+        <form class="signup-form" method="post">
             <h2>Signup Here!</h2>
+            <label for="country">Membership cards</label>
+            <select id="country" name="country">
+              <option value="australia">Australia</option>
+              <option value="canada">Canada</option>
+              <option value="usa">USA</option>
+            </select> <br>
             <label for="fname" class="signup-label">First Name</label>
             <input class="text-input" type="text"  id="fname" name="firstname" required>
     
@@ -45,6 +49,9 @@
     
             <label for="email" class="signup-label">Email Address</label>
             <input class="text-input" type="email" id="email" name="emailaddress"  required>
+            <label for="questions">Questions</label><br>
+            <textarea class="questions" name="questions" placeholder=".."></textarea>
+
             <input type="submit" class="submit-button" value="Lets Go!">
         </form> 
       </section> 
