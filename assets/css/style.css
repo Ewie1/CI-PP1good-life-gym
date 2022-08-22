@@ -59,7 +59,7 @@ header nav a {
 
 .menu {
     height: 70px;
-    background-color: #191970; 
+    background-color: #0e2133; 
     text-align: center; 
 }
 
@@ -83,11 +83,11 @@ header nav a {
       border-bottom: 1px solid #fafafa; 
 }
 
-h2 {
+/*h2 {
     font-family: Mulish, sans-serif;
     text-transform: uppercase;
     color: #191970;
-}
+} */
  
 /* style for the first hero images */
 
@@ -106,6 +106,23 @@ h2 {
     line-height: 50px;
     margin-left: 100px;
     padding-top: 125px;
+}
+
+.hero-image h2 {
+    height: 80px;
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 500px;
+    text-align: center;
+    background-color: #CD3700 ;
+    margin-top: 120px;
+    padding-top: 40px;
+    
+}
+
+.hero-image h1, h2 {
+    display:block;
+    
 }
     
 .hero-image {
@@ -207,7 +224,7 @@ h2 {
     font-size: larger;
     font-weight: 600;
     color: #fafafa;
-    background-color: #191970;
+    background-color: #27408B;
     text-decoration: none;
     border-radius: 100px;
 }
