@@ -305,22 +305,25 @@ header nav a {
 }
 
 #contact-us > h4 {
-    font-size: 175%;
+    font-size: 1em;
     letter-spacing: 3px;
     color: silver;
+    padding-bottom: 10px;
 }
 
 #contact-us  p {
+    width: 100%;
     padding-top: 10px;
     color: silver;
     letter-spacing: 4px;
+    font-size: 0.6em;
 }
  
 /*style for footer media links*/
 
 .media-links {
     text-align: center;
-    padding-top: 70px;
+    padding-top: 20px;
 }
 
 .media-links i {
