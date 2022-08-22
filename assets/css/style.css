@@ -102,6 +102,8 @@ header nav a {
     background: url('../images/hero6.jpg')no-repeat center center; 
     background-size: cover; 
     background-position: center;
+    overflow: hidden;
+
 } 
 
 .hero-image h1 {
@@ -149,7 +151,6 @@ header nav a {
 /* style for the gym ethos contents */
 
  #about-ethos {
-    background-color: rgba(240, 240, 240, 0.888);
     width: 100%;
 }
 
@@ -220,7 +221,6 @@ header nav a {
 .about-us-button a {
     padding: 25px ;
     margin-top: 100px;
-   /* position: unset; */
     font-size: larger;
     font-weight: 600;
     color: #fafafa;
@@ -232,7 +232,7 @@ header nav a {
 
 /* Style for the second hero image */
 
-.bottom-image {
+/*.bottom-image {
     height: 500px;
     width: 100%;
     background: url('../images/heroimag9.jpg');
@@ -244,7 +244,7 @@ header nav a {
 
 .bottom-image div {
     background-color:rgba(240, 240, 240, 0.888) ;
-}
+} */
 
 /* Style for the open times below the ethos*/
 
@@ -270,6 +270,7 @@ header nav a {
 
 /* Style for the map "Find Us" section*/
 
+
 .map-outer {
     height: 50%;
     text-align: center;
@@ -277,6 +278,8 @@ header nav a {
     background-position: center;
     background-size: cover;
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
+    
+
 }
 
 .map-outer h3 {
@@ -485,7 +488,6 @@ hr {
 }
 
 .text-input {
-  /*  background:transparent; */
     color: black;
     width:100%;
     height:25px;
