@@ -527,7 +527,11 @@ hr {
 
 @media screen and (max-width: 1200px){
    
-
+    .hero-image h2 {
+        margin-left: 350px;
+        
+        
+    }
     /*.hero-image h1{
         font-size: 25px;
     } */
@@ -608,6 +612,25 @@ hr {
     #hero-outer {
         width:auto;
         clear: left;
+    }
+
+    .hero-image h1 {
+        width: 90%;
+        font-size: 20px;
+        line-height: 40px;
+        margin-left: 15px;
+        padding-top: 130px;
+    }
+
+    .hero-image h2 {
+        margin-left: 100px;
+        margin-top: 150px;
+        height: 45px ;
+        width:90px ;
+        border-radius: 50%;
+        font-size: 1em;
+        padding-top: 30px;
+        padding-bottom: 10px;
     }
 
     /*.hero-image h1 {
