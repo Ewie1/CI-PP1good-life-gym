@@ -498,7 +498,7 @@ hr {
     border-color: #191970;
 }
 
-.questions {
+#questions {
     height: 100px;
     width: 100%;
     border-radius: 10px;
@@ -540,6 +540,7 @@ hr {
     text-align: center;
     padding-top: 150px;
 }
+
 
 /*For large to medium screens sizes from 1200px wide and down */
 
