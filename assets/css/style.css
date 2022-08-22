@@ -450,7 +450,7 @@ hr {
     font-size: 20px;
     font-weight: 600;
     text-align: center;
-    display: inline-block;
+  /*  display: inline-block; */
     color: inherit;
     line-height: 35px;
 }
@@ -743,8 +743,13 @@ hr {
       #prices div {
         width: 100%;
         clear: both;
-        height: 150px;
+        height: 180px;
         padding: 0;
+       }
+
+       #prices h2 {
+        margin-top: 5px;
+        margin-bottom: 20px;
        }
       /* #signup-image {
         width: 100%;
