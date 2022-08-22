@@ -751,10 +751,18 @@ hr {
 
       .signup-form {
         width: 65%;
+        line-height: 10px;
         padding-left:30px;
         font-size: medium;
-        margin: -20px;
+        padding-top: 100px;
+        padding-left: 43px;
+        margin-left: -35px;
        } 
+
+       .signup-form label {
+        line-height: 20px;
+
+       }
 }
 
 
