@@ -420,13 +420,11 @@ hr {
 #prices {
     width: 100%;
    /* background-image: url('../images/map2.jpg');  */
-    background-color: #0e2133;
-  /*  background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden; */
+   /* background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; */
+    overflow: hidden; 
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
-    border-radius: 10px;
 }
 
 #prices div {
@@ -443,6 +441,9 @@ hr {
 
 #prices h2 {
     color: #CD3700;
+    background-color: #0e2133;
+    margin-top: -25px;
+    margin-bottom: 25px;
 }
 
 #prices p {
