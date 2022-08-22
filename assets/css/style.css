@@ -111,7 +111,7 @@ header nav a {
     padding-top: 125px;
 }
 
-.hero-image h2 {
+.hero-image  a {
     height: 80px;
     width: 120px;
     border-radius: 50%;
@@ -120,10 +120,21 @@ header nav a {
     background-color: #CD3700 ;
     margin-top: 120px;
     padding-top: 40px;
-    
 }
 
-.hero-image h1, h2 {
+.hero-image a {
+    width: 120px;
+    text-decoration: none;
+    color: #0e2133;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.hero-image a:hover {
+    color: #fafafa;
+}
+
+.hero-image h1, a {
     display:block;
     
 }
