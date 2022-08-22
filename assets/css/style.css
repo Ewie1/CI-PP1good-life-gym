@@ -86,11 +86,7 @@ header nav a {
      
 }
 
-/*h2 {
-    font-family: Mulish, sans-serif;
-    text-transform: uppercase;
-    color: #191970;
-} */
+
  
 /* style for the first hero images */
 
@@ -176,15 +172,7 @@ header nav a {
     margin-bottom: 35px;
 }
 
-/*.train-us p {
-    height: 150px;
-    padding-top: 50px;
-    font-size: 20px;
-    text-align: center;
-    font-weight: 300;
-    word-spacing: 1px; 
 
-} */
 
 .train-us ul {
     text-align: center;
@@ -207,15 +195,7 @@ header nav a {
     margin-bottom: 35px;
 }
 
-/*.gym-comfort p {
-    height: 150px;
-    padding-top: 50px;
-    font-size: 20px;
-    text-align: center;
-    font-weight: 300;
-    word-spacing: 1px;
-    font-size: ;
-} */
+
 
 .gym-comfort ul {
     text-align: center;
@@ -411,14 +391,7 @@ header nav a {
     margin-bottom: 30px;
 } 
 
-/*.programs-text {
-    height: 300px;
-    width: 40%;
-    text-align: center;
-    font-size: larger;
-    padding-top: 50px;
-    border-radius: 40%;
-} */
+
 
 hr {
     border-top: 1px solid #191970;
@@ -461,7 +434,6 @@ hr {
     font-size: 20px;
     font-weight: 600;
     text-align: center;
-  /*  display: inline-block; */
     color: inherit;
     line-height: 35px;
 }
@@ -563,9 +535,7 @@ hr {
         
         
     }
-    /*.hero-image h1{
-        font-size: 25px;
-    } */
+    
 
     #about-ethos div {
         width: 50%;
@@ -664,11 +634,7 @@ hr {
         padding-bottom: 10px;
     }
 
-    /*.hero-image h1 {
-        text-align: center;
-        font-size: 15px;
-
-    } */
+    
     
     #about-ethos div {
         float: none;
@@ -678,11 +644,6 @@ hr {
         font-size: 0.8em;
     }
 
-    /*.bottom-image {
-        width:auto;
-        display: flex;
-        scroll-behavior: smooth;
-    } */
 
     .about-us-button {
         padding-bottom: 30px;
@@ -762,10 +723,7 @@ hr {
         margin-top: 5px;
         margin-bottom: 20px;
        }
-      /* #signup-image {
-        width: 100%;
-        float: none;
-       } */
+      
     .signup-form-outer {
         margin-right: 20px;
     }
