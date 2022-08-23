@@ -99,7 +99,7 @@ header nav a {
 .hero-image {
     height: 500px;
     width: 100%;
-    background: url('../images/hero6.jpg')no-repeat center center; 
+    background: url('../images/heroimage.jpg')no-repeat center center; 
     background-size: cover; 
     background-position: center;
     overflow: hidden;
@@ -237,19 +237,7 @@ header nav a {
 
 /* Style for the second hero image */
 
-/*.bottom-image {
-    height: 500px;
-    width: 100%;
-    background: url('../images/heroimag9.jpg');
-    background-size: cover;
-    background-position: center;
-    padding-bottom: 150px; 
-    display: none;
-}
 
-.bottom-image div {
-    background-color:rgba(240, 240, 240, 0.888) ;
-} */
 
 /* Style for the open times below the ethos*/
 
