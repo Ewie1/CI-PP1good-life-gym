@@ -274,16 +274,16 @@ header nav a {
 }
 
 .bottom-image {
-    height: 180px;
+    height: 170px;
     width: 50%;
     float: right;
     background: url('../images/map2.jpg')no-repeat;
     background-position: center;
     background-size: cover;
     margin-right: 50px;
-    margin-top: -200px;
+    margin-top: -205px;
     border-radius: 30px;
-    border: 3px solid #CD3700;
+    border: 5px solid #0e2133;
 }
 
 /* Style for the map "Find Us" section*/
@@ -298,6 +298,11 @@ header nav a {
     background-size: cover;
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2); */
 }
+
+.map-outer h3 {
+    margin-top: 30px;
+}
+
 #map {
     width: 100%;
     height: 160px;
