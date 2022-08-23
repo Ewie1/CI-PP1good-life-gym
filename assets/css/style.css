@@ -464,7 +464,6 @@ hr {
     background-position: center;
     padding-top: 30px;
     font-size: larger; 
-    text-transform: uppercase;
     font-weight: 600; 
 }
 
@@ -478,7 +477,6 @@ hr {
     border-radius: 50px;
     left: 50px;
     color: #0e2133;
-    text-transform: none;
     margin-top: 5px;
 }
 
@@ -609,7 +607,7 @@ hr {
         width: 100%;
         height: 120px;
         padding-top: 20px;
-        margin-left: 5px;
+        margin-right: 10px;
     }
     
     .menu{
