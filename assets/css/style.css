@@ -634,6 +634,7 @@ hr {
         float: none;
         margin-left: 100px;
         margin-top: 30px;
+        display: none;
     }
     #logo {
         width: 100%;
@@ -654,14 +655,13 @@ hr {
         font-size: 10px;
         display: inline;
         margin: 0 auto;
-        padding-inline-start: 10px;
+        /* padding-inline-start: 10px; */
     }
     
     .menu a {
         height: 15px;
-        width: 20%;
+        width: 30%;
         margin-top: 15px;
-        margin-left: 20px;
         text-decoration: none;
     }
 
