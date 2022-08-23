@@ -38,20 +38,34 @@
 11. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
+ 
 
 ### User Goals
-
-## Project Goals 
+- Find a gym with a good atmosphere and equipment
+- Find a gym that have good price and membership packages
+- Find a gym that offers more that equipment but comfort and accessiblity
+- Find a gym with happy and experienced trainers
+- Find a gym that help you get healthy result 
+- Easy signup
+- Location information
 
 ### Site Owner Goals
+- Introduce a gym that care more about people and health
+- Introduce the special programs the gym have to offer
+- Transmit the reasons, intention of the gym
+- Transmit gym location and contact information
+- Present gym fees and different types of memebership offered 
+- Make signing up simple
+- Provide insites about the gym atmosphere and equipments
+- Opening and closing time information
+- Where the gym is located
 
 ## User Experience
 
 ### Target Audience
+### User Reqirements and Expecttaions
 
-## User Experience
 
-### Target Audience
 
 ### User Stories
 
