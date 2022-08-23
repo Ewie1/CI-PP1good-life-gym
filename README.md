@@ -63,7 +63,14 @@
 ## User Experience
 
 ### Target Audience
+- People who need a different gym experience
+- People who want good health
+- People who want to be fit 
+- Student, Retiries
+- People who need a guide for work and meal plans
+- Athletes
 ### User Reqirements and Expecttaions
+
 
 
 
