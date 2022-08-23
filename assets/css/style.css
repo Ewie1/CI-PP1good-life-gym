@@ -517,8 +517,8 @@ hr {
     border-radius:30px;
     padding:15px 32px 15px 32px;  
     font-size:100%;
-    background-color: #191970;
-    color: #fafafa;
+    background-color: #0e2133;
+    color: #CD3700;
     display:block;
     margin-top: 20px;
 }
@@ -528,7 +528,7 @@ hr {
 }
 
 .submit-button:hover {
-    background-color: #fff;
+    background-color: silver;
     color: black;
 }
 
