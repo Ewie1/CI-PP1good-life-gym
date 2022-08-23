@@ -594,6 +594,15 @@ hr {
     .open-times > h3 {
         width: 34%;
     }
+
+    .about-us-button {
+        margin-bottom: 30px;
+    }
+
+    .bottom-image {
+        margin-right: 20px;
+    }
+
     .about {
         margin-left: 10px;
     }
@@ -712,6 +721,13 @@ hr {
     .open-times > table {
         border-bottom: none;
     } 
+
+    .bottom-image {
+        float: none;
+        margin-top: 5px;
+        width: 80%;
+        margin-left: 35px;
+    }
  
     .about-us-image {
         width: 90%;
