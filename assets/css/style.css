@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap'); 
 
  * {
     margin: 0;
@@ -30,7 +30,6 @@ h1 {
     letter-spacing: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size:300px;
 }
 
 header nav a {
@@ -280,11 +279,7 @@ header nav a {
 .map-outer {
     height: 50%;
     text-align: center;
-   /* background: url('../images/map2.jpg')no-repeat; */
     background: none;
-  /*  background-position: center;
-    background-size: cover;
-    box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2); */
 }
 
 .map-outer h3 {
@@ -629,6 +624,7 @@ hr {
         height: 120px;
         padding-top: 20px;
         margin-right: 10px;
+        margin-bottom: -35px;
     }
     
     .menu{
@@ -694,6 +690,7 @@ hr {
     }
     
     #opentimes {
+        height: 250px;
         line-height: 25px;
         padding-right: 0px;
         text-align: center;
@@ -712,10 +709,32 @@ hr {
 
     .bottom-image {
         float: none;
-        margin-top: 5px;
+        margin-top: 10px;
         width: 80%;
         margin-left: 35px;
+        margin-bottom: 100px;
     }
+
+    #map {
+        margin-top: 180px;
+       }
+
+       .map-outer h3 {
+        height: 40px;
+        margin-top: 250px;  
+        margin-bottom: -180px;
+       }
+
+       #contact-us h4 {
+        font-size: 1.2em;
+        padding-bottom: 10px;
+        margin-top: 30px;
+       }
+
+       #contact-us p {
+        font-size: 0.6em;
+        letter-spacing: 2px;
+       }
  
     .about-us-image {
         width: 90%;
@@ -772,16 +791,6 @@ hr {
        #prices h2 {
         margin-top: 5px;
         margin-bottom: 20px;
-       }
-
-       #contact-us h4 {
-        font-size: 1.2em;
-        padding-bottom: 10px;
-       }
-
-       #contact-us p {
-        font-size: 0.6em;
-        letter-spacing: 2px;
        }
       
     .signup-form-outer {

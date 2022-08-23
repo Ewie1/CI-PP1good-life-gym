@@ -36,3 +36,132 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals 
+
+### User Goals
+
+## Project Goals 
+
+### Site Owner Goals
+
+## User Experience
+
+### Target Audience
+
+## User Experience
+
+### Target Audience
+
+### User Stories
+
+#### First-time User 
+
+#### Returning User
+
+#### Site Owner 
+
+## Design
+
+### Design Choices
+
+### Colour
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSSc
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- Balsamiq
+- Google Fonts
+- Font Awsome
+- Favicon<span>.</span>io
+
+## Features
+The page consists of five pages and fourteen features
+
+### Logo and Navigation Bar
+
+### Logo and Navigation Bar
+What is offered
+### 
+### 
+### 
+
+### Footer
+
+### About Us
+
+### 
+
+### 
+Wedsite pages
+### Menu 
+
+### about us and who we are
+
+### our goals and our service to you
+
+### Contact information
+
+### Map
+
+### Info Box
+
+## Validation
+
+### HTML Validation
+
+### CSS Validation
+
+### Accessibility
+
+### Performance 
+
+### Performing tests on various devices 
+
+### Browser compatability
+
+### Testing user stories
+
+## Bugs
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_/"
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)  
+7. Press Enter to create your local clone.
+
+## Credits
+
+### Media
+
+### Code
+
+## Acknowledgements
