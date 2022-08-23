@@ -47,7 +47,7 @@ header nav a {
     margin-right: 30px;
     background-color: #0e2133;
     padding-top: 10px;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-right: 5px;
     border-radius: 20px;  
     text-transform: uppercase;
@@ -137,8 +137,8 @@ header nav a {
 }
 
 .hero-image a:hover {
-    color: #CD3700;
-    background: #0e2133;
+    color: #0e2133;
+    border: 3px solid #0e2133;
 }
 
 .hero-image h1  {
@@ -231,8 +231,7 @@ header nav a {
 }
 
 .about-us-button a:hover {
-    color: #0e2133;
-    background: #CD3700;
+    border: 3px solid #CD3700;
 }
 
 
@@ -272,6 +271,19 @@ header nav a {
 .open-times > table {
     border-bottom: 1px solid #0e2133;
     text-align: left;
+}
+
+.bottom-image {
+    height: 180px;
+    width: 50%;
+    float: right;
+    background: url('../images/map2.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 50px;
+    margin-top: -200px;
+    border-radius: 30px;
+    border: 3px solid #CD3700;
 }
 
 /* Style for the map "Find Us" section*/
