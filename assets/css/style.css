@@ -274,18 +274,22 @@ header nav a {
 .map-outer {
     height: 50%;
     text-align: center;
-    background: url('../images/map2.jpg')no-repeat; 
-    background-position: center;
+   /* background: url('../images/map2.jpg')no-repeat; */
+    background: none;
+  /*  background-position: center;
     background-size: cover;
-    box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
-    
-
+    box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2); */
+}
+#map {
+    width: 100%;
+    height: 160px;
+    margin-bottom: -10px;
 }
 
 .map-outer h3 {
     padding: 6px;
     text-align: center;
-    color: white; 
+    color: #0e2133; 
     text-transform: uppercase;
     line-height: 30px;
     letter-spacing: 6px;
@@ -476,6 +480,10 @@ hr {
     color: #0e2133;
     text-transform: none;
     margin-top: 5px;
+}
+
+.signup-form h2 {
+    color: #CD3700;
 }
 
 .signup-form > label {
