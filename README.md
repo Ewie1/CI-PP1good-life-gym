@@ -70,27 +70,59 @@
 - People who need a guide for work and meal plans
 - Athletes
 ### User Reqirements and Expecttaions
-
-
-
+- Accessable site
+- Navigations that are simple to use
+- Clear images that gives a vision of the gym structure
+- Information on what is different from other gyms
+- Clear information on location and opening and closing time
+- A Warm welcome feel 
+- Vision of health and happiness
+- A vision of fittness
+- A vision of motivation
 
 ### User Stories
 
 #### First-time User 
+- As  a first time user I expect a bright feel energetic gym feel
+- I want to know the loaction of the gym
+- I want to see the gym interior 
+- I want to know that it not just another gym and it has more purpose to it
 
 #### Returning User
+- As a returning user i want contact information
+- I want to know about the membership and options available
+- I want to know what training programs are available
+- I want to know the comforts of the give
+- I was to know the reason and the mission of the gym
+- I want to know the gym cares and is not just inrerested in money
+- I want to know where to sign up
 
 #### Site Owner 
+- As a site owner i want the navigation to the site information to be simple
+- We must catch our audience with color contrast
+- We captivate them from the beginning to the end
+- We must let them know about our unique training programs
+- They must alos see that the gym is more that just a gym it offer alot of comfort options
+- I want the users ti not only sign up but have membership option
+- I want my users to be able to ask quetions
 
 ## Design
 
+
 ### Design Choices
+This wedsite was designed to give a bright, energetic, aand classy feel for people looking for a first time gym or want a gym change. The color contrast was chosen for a energetic feel. Images that promtes bright smiles, fitness a helpful  enviroment. Information that says you get more than your regular gym.
 
 ### Colour
 
 ### Fonts
+The font style was chosen to give a warm gym and not to rough or macho. They give the website just enough to warm the eyes of all types of audiences.
 
 ### Structure
+This website was structured with the gym logo which give a gym it character but also with the regular easy to use nav bar, a body of information and the regular footer which give the final characteristics of a funtional webpage. The wedsite has three pages:
+
+- Home 
+- About page
+- Become a member page
 
 ### Wireframes
 
