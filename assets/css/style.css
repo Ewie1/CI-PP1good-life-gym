@@ -656,14 +656,7 @@ hr {
     }
 
     .hero-image a {
-        margin-left: 120px;
-        margin-top: 150px;
-        height: 45px;
-        width: 90px;
-        border-radius: 50%;
-        font-size: 1em;
-        padding-top: 30px;
-        padding-bottom: 10px;
+        display: none;
     }
 
     #about-ethos div {
