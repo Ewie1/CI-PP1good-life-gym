@@ -126,6 +126,7 @@ This website was structured with the gym logo which give a gym it character but 
 
 ### Wireframes
 
+
 ## Technologies Used
 
 ### Languages
