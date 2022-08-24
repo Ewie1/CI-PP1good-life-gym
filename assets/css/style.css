@@ -123,14 +123,6 @@ header nav a {
     text-decoration: none;
 }
 
-/*.hero-image a {
-    width: 120px;
-    text-decoration: none;
-    color: #0e2133;
-    font-size: 1.4em;
-    font-weight: 600;
-} */
-
 .hero-image a:hover {
     border: 3px solid #0e2133;
 }
@@ -638,7 +630,7 @@ hr {
     }
 
     .active {
-          
+          border-bottom: none;
     }
     
     #hero-outer {
