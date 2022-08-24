@@ -17,10 +17,6 @@ h1 {
     height: 50px;
     font-family: Mulish , sans-serif;
     text-transform: uppercase;
-    color: #fafafa;
-    text-decoration: none;
-    border-bottom-style: none;
-    
 }
 
 #logo {
@@ -64,10 +60,9 @@ header nav a {
 }
 
 .menu  li {
-   /* font-family: contrail one, sans-serif; */
     display: inline-block;
     margin-top: 20px;
-    list-style-type: none;
+    list-style-type: none; 
     margin-right: 50px;  
     font-size: 30px;
     text-transform:uppercase; 
@@ -76,17 +71,13 @@ header nav a {
 .menu a {
     height: 35px;
     width: 100%;
-    text-decoration: none;
     color: #fafafa;
 }
 
 .active {
-     border-bottom: 4px solid #CD3700; 
-     
+    border-bottom: 4px solid #CD3700;
 }
 
-
- 
 /* style for the first hero images */
 
 #hero-outer {
@@ -163,10 +154,8 @@ header nav a {
 } 
 
 .train-us {
-   /* padding-top: 20px; */
     width: 100%;
     column-gap: 1em;
-
 }
 
 .train-us > h2 {
@@ -175,8 +164,6 @@ header nav a {
     color: #0e2133;
     margin-bottom: 35px;
 }
-
-
 
 .train-us ul {
     text-align: center;
@@ -188,7 +175,6 @@ header nav a {
 }
 
 .gym-comfort {
-    /* padding-top: 20px;  */
     width: 100%;
 }
 
@@ -198,8 +184,6 @@ header nav a {
     color: #0e2133;
     margin-bottom: 35px;
 }
-
-
 
 .gym-comfort ul {
     text-align: center;
@@ -215,7 +199,6 @@ header nav a {
     padding-top: 500px; 
     letter-spacing: 6px;
     padding-bottom: 100px;
-    
 }
 
 .about-us-button a {
@@ -232,11 +215,6 @@ header nav a {
 .about-us-button a:hover {
     border: 3px solid #CD3700;
 }
-
-
-/* Style for the second hero image */
-
-
 
 /* Style for the open times below the ethos*/
 
@@ -260,6 +238,8 @@ header nav a {
     text-align: left;
 }
 
+/* Style for second bottom image on home page*/
+
 .bottom-image {
     height: 170px;
     width: 50%;
@@ -274,7 +254,6 @@ header nav a {
 }
 
 /* Style for the map "Find Us" section*/
-
 
 .map-outer {
     height: 50%;
@@ -408,8 +387,6 @@ header nav a {
     margin-bottom: 30px;
 } 
 
-
-
 hr {
     border-top: 1px solid #0e2133;
     width: 55%;
@@ -420,10 +397,6 @@ hr {
 
 #prices {
     width: 100%;
-   /* background-image: url('../images/map2.jpg');  */
-   /* background-repeat: no-repeat;
-    background-size: cover; 
-    background-position: center; */
     overflow: hidden; 
     box-shadow: 8px 8px 12px 12px rgba(0,0,0,0.2);
 }
@@ -459,7 +432,6 @@ hr {
 
 #signup-image-outer {
     height: 900px;
-    
 }
 
 #signup-form-outer {
@@ -556,11 +528,9 @@ hr {
     padding-top: 150px;
 }
 
-
 /*For large to medium screens sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px){
-   
     .hero-image a {
         margin-left: 350px;
     }
@@ -569,7 +539,6 @@ hr {
         margin-left: 85px;
     }
     
-
     #about-ethos div {
         width: 50%;
     }
@@ -612,22 +581,19 @@ hr {
         width: 70%;
         margin-left:30px;
     }
-       
+    
     }  
 
 /*  For medium screens sizes from 950px wide and down */
   @media only screen and (max-width: 600px) {
     .signup-logo {
-        float: none;
-        margin-left: 100px;
-        margin-top: 30px;
         display: none;
-    }
+    } 
+    
     #logo {
         width: 100%;
         height: 120px;
         padding-top: 20px;
-        margin-right: 10px;
         margin-bottom: -35px;
     }
     
@@ -639,11 +605,11 @@ hr {
     }
 
     .menu li {
-        width: 100%;
+        width: 80px;
         font-size: 10px;
         display: inline;
         margin: 0 auto;
-        /* padding-inline-start: 10px; */
+        
     }
     
     .menu a {
@@ -651,6 +617,10 @@ hr {
         width: 30%;
         margin-top: 15px;
         text-decoration: none;
+    }
+
+    .active {
+        border-bottom: 2px solid #CD3700;
     }
 
     #hero-outer {
@@ -677,8 +647,6 @@ hr {
         padding-bottom: 10px;
     }
 
-    
-    
     #about-ethos div {
         float: none;
         width:100%;
@@ -686,7 +654,6 @@ hr {
         margin: 0 auto;
         font-size: 0.8em;
     }
-
 
     .about-us-button {
         padding-bottom: 30px;
@@ -721,24 +688,24 @@ hr {
 
     #map {
         margin-top: 180px;
-       }
+    }
 
-       .map-outer h3 {
+    .map-outer h3 {
         height: 40px;
         margin-top: 250px;  
         margin-bottom: -180px;
-       }
+    }
 
-       #contact-us h4 {
+    #contact-us h4 {
         font-size: 1.2em;
         padding-bottom: 10px;
         margin-top: 30px;
-       }
+    }
 
-       #contact-us p {
+    #contact-us p {
         font-size: 0.6em;
         letter-spacing: 2px;
-       }
+    }
  
     .about-us-image {
         width: 90%;
@@ -746,7 +713,7 @@ hr {
         margin-bottom: 30px;
         margin-top: 30px; 
         float: none;
-      } 
+    } 
 
     .goals-image {
         margin: 0 auto;
@@ -754,54 +721,56 @@ hr {
         float: none;
         margin-bottom: 30px;
         
-      } 
+    } 
     .programs-image {
         margin: 0 auto;
         width: 90%;
         margin-bottom: 30px;
-      } 
+    } 
   
     #about  {
         margin-left: 3px;
         
-      }
+    }
+    
     .about-text  {
         margin: 0 auto;
         display: inline;
         float: none; 
-      }
+    }
 
     .about-text h2 {
         margin: 0 auto;
         margin-bottom: 20px;
-      }
+    }
     .about-text p {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
         border-bottom: none;
-      }
+    }
+    
     hr {
         border-top: none;
-      }
+    }
       
-      #prices div {
+    #prices div {
         width: 100%;
         clear: both;
         height: 180px;
         padding: 0;
-       }
+    }
 
-       #prices h2 {
+    #prices h2 {
         margin-top: 5px;
         margin-bottom: 20px;
-       }
+    }
       
     .signup-form-outer {
         margin-right: 20px;
     }
 
-      .signup-form {
+    .signup-form {
         width: 65%;
         line-height: 10px;
         padding-left:30px;
@@ -809,12 +778,11 @@ hr {
         padding-top: 100px;
         padding-left: 43px;
         margin-left: -35px;
-       } 
+    } 
 
-       .signup-form label {
+    .signup-form label {
         line-height: 20px;
-
-       }
+    }
 }
 
 
