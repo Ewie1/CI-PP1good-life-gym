@@ -33,7 +33,7 @@ header nav a {
     display: inline-block;
 }
 
-/*.signup-logo {
+.signup-logo {
     text-align: center;
     height: 30px;
     float: right;
@@ -50,7 +50,7 @@ header nav a {
     font-weight: 600;
     border: 3px solid #CD3700;
     display: none;
-} */
+} 
 
 /* Style for nav links within the heading */
 
