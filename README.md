@@ -126,7 +126,7 @@ This website was structured with the gym logo which give a gym it character but 
 
 ### Wireframes
 <details><summary>Home</summary>
-<img src="docs/wirframes/wireframe_homepage.png">
+<img src="docs/wireframes/wireframe_homepage.png">
 </details>
 <details><summary>About</summary>
 <img src="docs">
