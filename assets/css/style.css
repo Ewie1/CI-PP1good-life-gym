@@ -49,8 +49,8 @@ header nav a {
     letter-spacing: 9px;
     font-weight: 600;
     border: 3px solid #fa561b;
-    
-} 
+
+}
 
 /* Style for nav links within the heading */
 
@@ -630,14 +630,14 @@ hr {
     }
 
     .active {
-          border-bottom: none;
+        border-bottom: none;
     }
-    
+
     #hero-outer {
         height: 200px;
         margin-bottom: -30px;
     }
-   
+
     .hero-image {
         background-size: contain;
         margin-top: -170px;

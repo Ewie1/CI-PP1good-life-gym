@@ -144,7 +144,7 @@ This website was structured with the gym logo which give a gym it character but 
 - Favicon<span>.</span>io
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of 3 pages 
 
 ### Logo and Navigation Bar
 
@@ -189,6 +189,163 @@ Wedsite pages
 ### Browser compatability
 
 ### Testing user stories
+### Testing user stories
+
+1. As a first time user, I want to know where the restaurant is lokated
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the  | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the address of the  | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+<img src="docs">
+</details>
+
+2. As a first time user, I want to know the price range
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Menu page | See prices on menu page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+3. As a first time user, I want to know more about the 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the About page and locate the About Us section | Find description of the  | Works as expected |
+| Customer reviews | Navigate to the About page, scroll down to What our guests say section | Read customer reviews | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+4. As a first time user, I want to get a feel of what to expect at the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the | Find pictures of the  | Works as expected |
+| P | Navigate to the GAlelry page and scroll to the | Watch | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+5. As a returning user, I want to see the
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Meal-deal | On home page scroll down to the  | Find the  | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+6. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+7. As a returning user, I want to find a phone number to call for reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+<img src="docs">
+</details>
+
+8. As a returning user, I want to see the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the  | Read  | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+10. As a returning user, I want to find the restaurant on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+11. As a returning user, I want to know who is preparing the food
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Meet  | Navigate to the About page and scroll down to  | Find brief bio | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+12. As a returning user, I want to get directions 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the map and click on directions link | See directions to the on Goole Maps | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+13. As the site owner, I want users to find news about upcoming events or changes in opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+14. As the site owner, I want users to get to know the 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs">
+</details>
+
+15. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the phone number | Works as expected |
+
+
 
 ## Bugs
 
