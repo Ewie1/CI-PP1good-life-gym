@@ -162,6 +162,7 @@ This website was structured with the gym logo which give a gym it character but 
 The page consists of 3 pages 
 
 ### Logo and Navigation Bar
+! [logo-and-navbar] (/workspace/CI_PP1_GLG/docs/features/Menulogonavs.PNG)
 
 ### Logo and Navigation Bar
 What is offered
