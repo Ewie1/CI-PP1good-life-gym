@@ -126,13 +126,19 @@ This website was structured with the gym logo which give a gym it character but 
 
 ### Wireframes
 <details><summary>Home</summary>
-<img src="docs/wireframes/wireframe_homepage.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframehomepage.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframehomepagepad.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframehomepagepadiphone.png">
 </details>
 <details><summary>About</summary>
-<img src="docs">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspage.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspagepad.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspagepadiphone.png">
 </details>
 <details><summary>Signup</summary>
-<img src="docs">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppage.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppagepad.png">
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppagepadiphone.png">
 </details>
 
 
