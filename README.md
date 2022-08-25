@@ -166,7 +166,7 @@ The page consists of 3 pages
 ![logo-and-nav](docs/features/menulogonavs.PNG)]
 
 ### Hero
-![hero] (docs/features/heros.PNG) 
+![heros](docs/features/heros.PNG) 
 ### Gym Features
 ![gym-features](docs/features/features.PNG)
 ### Easy Nav
@@ -204,24 +204,31 @@ Wedsite pages
 ### HTML Validation
 <details><summary>Home page</summary>
 <img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/indexhtml_validation.JPG">
+</details>
 <details><summary>About page</summary>
 <img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/trainhtml_validation.JPG">
+</details>
 <details><summary>Signup page</summary>
 <img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/signuphtml_validation.JPG">
+</details>
 
 ### CSS Validation
 <details><summary>Style</summary>
 <img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/stylecss_validation.JPG">
+</details>
 <details><summary>Whole page</summary>
 <img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/wholepagecss_validation.JPG">
+</details>
 
 ### Accessibility
 <details><summary>Accessibility</summary>
 <img src="">
+</details>
 
 ### Performance 
 <details><summary>Performance</summary>
 <img src="">
+</details>
 ### Performing tests on various devices 
 
 ### Browser compatability
