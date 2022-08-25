@@ -162,19 +162,28 @@ This website was structured with the gym logo which give a gym it character but 
 The page consists of 3 pages 
 
 ### Logo and Navigation Bar
-! [logo-and-navbar] (/workspace/CI_PP1_GLG/docs/features/Menulogonavs.PNG)
 
-### Logo and Navigation Bar
-What is offered
-### 
-### 
-### 
+![logo-and-nav](docs/features/menulogonavs.PNG)]
 
+### Hero
+![hero] (docs/features/heros.PNG) 
+### Gym Features
+![gym-features](docs/features/features.PNG)
+### Easy Nav
+![easy-nav][docs/features/easynav.PNG]
+### Open Times
+![opem-times](docs/features/opentimes.PNG)
+### Teaser Image
+![interior-teaser](docs/features/teaser.PNG)
+### Map
+![map](docs/features/map4.PNG)
 ### Footer
-
+![footer](docs/features/footer.PNG)
 ### About Us
-
-### 
+### Membership Cards
+### Signup Form
+![signup-form](docs/features/signupform.PNG)
+### Easy Sighup Page Button 
 
 ### 
 Wedsite pages
@@ -193,13 +202,26 @@ Wedsite pages
 ## Validation
 
 ### HTML Validation
+<details><summary>Home page</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/indexhtml_validation.JPG">
+<details><summary>About page</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/trainhtml_validation.JPG">
+<details><summary>Signup page</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/signuphtml_validation.JPG">
 
 ### CSS Validation
+<details><summary>Style</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/stylecss_validation.JPG">
+<details><summary>Whole page</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/wholepagecss_validation.JPG">
 
 ### Accessibility
+<details><summary>Accessibility</summary>
+<img src="">
 
 ### Performance 
-
+<details><summary>Performance</summary>
+<img src="">
 ### Performing tests on various devices 
 
 ### Browser compatability
