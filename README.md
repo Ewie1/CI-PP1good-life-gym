@@ -125,6 +125,15 @@ This website was structured with the gym logo which give a gym it character but 
 - Become a member page
 
 ### Wireframes
+<details><summary>Home</summary>
+<img src="docs/wirframes/wireframe_homepage.png">
+</details>
+<details><summary>About</summary>
+<img src="docs">
+</details>
+<details><summary>Signup</summary>
+<img src="docs">
+</details>
 
 
 ## Technologies Used
