@@ -368,7 +368,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav - Copy.jpg">
+    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav.jpg">
+    <img src="/workspace/CI_PP1_GLG/docs/features/textarea.PNG">
     </details>
 
 
@@ -379,7 +380,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
     | Signup Form | U Navigate sign up page click dropdown option| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="docs">
+    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav.jpg">
+    <img src="/workspace/CI_PP1_GLG/docs/features/cardoptions.PNG">
     </details>
 
 13. As a owner i want user to know the membership is diverse and discount price for retired and Students
@@ -389,7 +391,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcards.jpg">
    </details>
 

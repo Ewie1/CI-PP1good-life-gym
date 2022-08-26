@@ -444,7 +444,7 @@ hr {
     width: 100%;
     background-image: url('../images/signupimage.jpeg');
     background-size: cover;
-    background-position: center;
+    background-position: center; 
     padding-top: 30px;
     font-size: larger;
     font-weight: 600;
