@@ -94,9 +94,6 @@ header nav a {
     background-size: cover;
     background-position: center;
     overflow: hidden;
-    
-    
-
 }
 
 .hero-image h1 {
@@ -510,6 +507,19 @@ hr {
 .submit-button:hover {
     background-color: #fa561b;
     color: #0e2133;
+}
+
+#error {
+    height: 300px;
+    background: url('../images/heroimage.jpg')no-repeat center center;
+    background-size: cover;
+    background-position: center;
+}
+
+#error>h1 {
+    text-align: center;
+    color: #CD3700;
+    font-size: 40px;
 }
 
 #thankyou {
