@@ -86,25 +86,24 @@
 - As  a first time user I expect a bright feel energetic gym feel
 - I want to know the loaction of the gym
 - I want to see the gym interior 
-- I want to know that it not just another gym and it has more purpose to it
+- I want to know what programs are avaiblable
 
 #### Returning User
 - As a returning user i want contact information
 - I want to know about the membership and options available
-- I want to know what training programs are available
-- I want to know the comforts of the give
 - I was to know the reason and the mission of the gym
-- I want to know the gym cares and is not just inrerested in money
 - I want to know where to sign up
+- I want to know about the membership and options available
+- I want to see the gym's social media followings 
+
 
 #### Site Owner 
-- As a site owner i want the navigation to the site information to be simple
-- We must catch our audience with color contrast
-
+- As a site owner i want the navigation to the site information to be access esaily
 - We must let them know about our unique training programs
-- They must also see that the gym is more that just a gym it offer alot of comfort options
+- As a site owner I want users to leave comments upon sign up
 - I want the users to not only sign up but have membership option
-- I want my users to be able to ask quetions
+- I want user to know the membership is diverse and discount price for retired and Students
+
 
 ## Design
 
