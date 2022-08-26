@@ -523,8 +523,9 @@ hr {
 }
 
 #error>h1 {
+    margin-top: 150px;
     text-align: center;
-    color: #CD3700;
+    color: #114528;
     font-size: 40px;
 }
 
