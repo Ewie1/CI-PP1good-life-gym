@@ -128,17 +128,17 @@ This website was structured with the gym logo which give a gym it character but 
 <details><summary>Home</summary>
 <img src="/docs/features/wireframes/wireframehomepage.png">
 <img src="/docs/features/wireframes/wireframehomepagepad.png">
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframehomepagepadiphone.png">
+<img src="/docs/features/wireframes/wireframehomepagepadiphone.png">
 </details>
 <details><summary>About</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspage.png">
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspagepad.png">
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframeaboutuspagepadiphone.png">
+<img src="/docs/features/wireframes/wireframeaboutuspage.png">
+<img src="/docs/features/wireframes/wireframeaboutuspagepad.png">
+<img src="/docs/features/wireframes/wireframeaboutuspagepadiphone.png">
 </details>
 <details><summary>Signup</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppage.png">
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppagepad.png">
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/wireframesignuppagepadiphone.png">
+<img src="/docs/features/wireframes/wireframesignuppage.png">
+<img src="/docs/features/wireframes/wireframesignuppagepad.png">
+<img src="/docs/features/wireframes/wireframesignuppagepadiphone.png">
 </details>
 
 
