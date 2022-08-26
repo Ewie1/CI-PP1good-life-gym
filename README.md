@@ -110,9 +110,10 @@
 
 
 ### Design Choices
-This wedsite was designed to give a bright, energetic, aand classy feel for people looking for a first time gym or want a gym change. The color contrast was chosen for a energetic feel. Images that promtes bright smiles, fitness a helpful  enviroment. Information that says you get more than your regular gym.
+This wedsite was designed to give a bright, energetic, and classy feel for people looking for a first time gym or want a gym change. The color contrast was chosen for a energetic feel. Images that promtes bright smiles, fitness a helpful  enviroment. Information that says you get more than your regular gym.
 
 ### Colour
+The colors a bright orange and very dark blue which speakes enery and look good together. These two color also promotes accessiblity. It is one of the perfect color scheme for a gym.
 
 ### Fonts
 The font style was chosen to give a warm gym and not to rough or macho. They give the website just enough to warm the eyes of all types of audiences.
@@ -159,47 +160,63 @@ This website was structured with the gym logo which give a gym it character but 
 - Favicon<span>.</span>io
 
 ## Features
-The page consists of 3 pages 
+The page consists of 3 pages and 11 sections
 
 ### Logo and Navigation Bar
+- The logo and nav bar section is one of the difference maker. It have a stylish logo which every
+gym needs and also a navigation bar which allow the user to freely navigate between the three pages presented. Here you can also find a signup button which return user to get to the sigup page without the need to scroll. 
 
-![logo-and-nav](docs/features/menulogonavs.PNG)]
+![logo-and-nav](docs/features/menulogonavs.PNG)
 
 ### Hero
+- Here the hero image that describe everything a user need in a gym laughter, diversity and work. Along with giving a feel for what you get at the gym there is also a cover note with two questios to catch the users interest and want to know more about the gym.
+
 ![heros](docs/features/heros.PNG) 
+
 ### Gym Features
-![gym-features](docs/features/features.PNG)
+- The gym features list is consist of the many progarms available for training and the comforts the gym offer. With this information the user can consider compare to there regular gyms which will help them in deciding to click that signup button.
+
+![gym-features](docs/features/feature.PNG)
+
 ### Easy Nav
-![easy-nav][docs/features/easynav.PNG]
+- Easy nav is a simple buttton to have the user ovaoid scrolling up to get to the About Us page.
+
+![easy-nav](docs/features/easynav.PNG)
+
 ### Open Times
+- Open times are locate as we go down to give the user essentail information so they can  fit their schedule into the open times of the gym.
+
 ![opem-times](docs/features/opentimes.PNG)
+
 ### Teaser Image
+- A simple image og the gym i like to call a teaser image of the interior of the gym so the user gets an idea of what to expect and what kind of enviroment the gym offers.
+
 ![interior-teaser](docs/features/teaser.PNG)
+
 ### Map
+- The map which give the location for the gym with an easy click.
+
 ![map](docs/features/map4.PNG)
+
 ### Footer
+- This footer which is set to be informative, giving the gym's contact information, phone number and emial address to contact us. Along with this we also have the social media icon links in which the gym can be found on.
+
 ![footer](docs/features/footer.PNG)
+
 ### About Us
+- The About us section of the site located on the second page tells alot. We have the images on the left which shows some of the faetures of the gym complimenting the three paragraphs which explain who, why and the mission of the gym which i think make it stand out from the regular.
+
 ![about-us](docs/features/aboutus.PNG)
+
 ### Membership Cards
+- Membership Cards section can also be found on the second page showing the different memberships the gym have to offer student, retired or normal.
+
 ![membership-cards](docs/features/membership.PNG)
+
 ### Signup Form
+- The signup form is found on the last page which shows the needed information of entry, membership option drop down and a text area for any questions to quarries while signing up.
+
 ![signup-form](docs/features/signupform.PNG)
-### Easy Sighup Page Button 
-
-### 
-Wedsite pages
-### Menu 
-
-### about us and who we are
-
-### our goals and our service to you
-
-### Contact information
-
-### Map
-
-### Info Box
 
 ## Validation
 
@@ -231,11 +248,16 @@ Wedsite pages
 <details><summary>Performance</summary>
 <img src="">
 </details>
+
 ### Performing tests on various devices 
+- HP EllitBook
 
 ### Browser compatability
+- Tested on Goole Chrome
+- Tested Micrsoft Edge
+- Tested on Morzilla Firefox
+- Tested on Safari
 
-### Testing user stories
 ### Testing user stories
 
 1. As  a first time user I expect a bright feel energetic gym feel
@@ -385,7 +407,7 @@ The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_/"
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at "https://ewie1.github.io/CI_PP1_GLG/index.html"
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
@@ -404,6 +426,16 @@ You can clone the repository by following these steps:
 
 ### Media
 
+Media images were referenced from <a href="https://www.pexels.com/">Pixels</a> and <a href="https://unsplash.com/">Upsplash</a>
+
 ### Code
+ - My HTML code from lessons and formats from the html module and walk through project which then evolved into my owm structure as i gain more knowledge by trail and error.
+ - My CSS code was also built on the concept of trail and error, google W3School wedsite tips.
+
+
 
 ## Acknowledgements
+- Acknowlegement goes to my mentor Mo Shami 
+- I will like to acknowledge my brother Addan Mc Collin for support
+- Thanks to my girlfriend Hiba Salem for support and input on a user veiw
+- Slack team for tips
