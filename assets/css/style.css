@@ -773,8 +773,8 @@ hr {
     }
 
     #prices h2 {
-        margin-top: 5px;
         margin-bottom: 10px;
+        margin-left: -10px;
     }
 
     .signup-form-outer {
