@@ -1,7 +1,7 @@
 # Good Life Gym
 (Developer: Ewart Hestick)
 
-![Mockup image](docs/am-i-responsive.jpg)
+![Mockup image](docs/am-i-responsive.PNG)
 
 [Live webpage](https://ewie1.github.io/CI_PP1_GLG/)
 
