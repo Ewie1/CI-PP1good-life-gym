@@ -244,12 +244,21 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
 </details>
 
 ### Performance 
-<details><summary>Performance</summary>
-<img src="">
+
+<details><summary>Home</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accesshomepage.PNG">
+</details>
+<details><summary>About Us</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accessaboutuspage.PNG">
+</details>
+<details><summary>Become a Member</summary>
+<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accesssignuppage.PNG">
 </details>
 
 ### Performing tests on various devices 
 - HP EllitBook
+- Amazon fire table 7
+- Samsung galaxy 20
 
 ### Browser compatability
 - Tested on Goole Chrome
@@ -269,14 +278,14 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    <img src="/workspace/CI_PP1_GLG/docs/features/brightenergy.PNG">
    </details>
 
-2.  As a firstime user I want to know the loaction of the gym
+2.  As a firstime user I want to know the location of the gym
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Map | Scroll down on first page and click the google mag  | Goolge show gym location in the city | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/locatmap.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedlocatmap.jpg">
    </details>
 
 
@@ -286,7 +295,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    |-------------|------------|---------------------|-------------------|
    | Gym interior image | Scroll down on home page | Find pictures of the gym interior | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/intteaser.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/intteaser.jpg">
    </details>
 
 4. As a first time user I want to know what training programs are available 
@@ -295,7 +304,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    |-------------|------------|---------------------|-------------------|
    | Trian with us and Gym comforts list | Scroll down on home page  | Readable intriguing list | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/featureslist.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedfeatureslist.jpg">
    </details>
 
 5. As a returning user I want to know where to sign up
@@ -304,7 +313,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
   <details><summary>Screenshots</summary>
-  <img src="/workspace/CI_PP1_GLG/docs/features/easybuttton.jpg">
+  <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedeasybuttton.jpg">
   </details>
 
 6. As a returning user i want contact information   
@@ -313,7 +322,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcontactinfo1.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcontactinfo1 .jpg">
    </details>
 
 7. As a returning user I was to know the reason and the mission of the gym
@@ -323,7 +332,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
    <img src="/workspace/CI_PP1_GLG/docs/features/aboutus.PNG">
    </details>
 
@@ -334,8 +343,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcards.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcards.jpg">
    </details>
 
 9. As a returning user, I want to see the gym's social media followings 
@@ -345,7 +354,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsociallinks.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsociallinks.jpg">
    </details>
 
 10. As a site owner i want the navigation to the site information to be access esaily
@@ -355,9 +364,9 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess .jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess1.jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess2.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess1.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess2.jpg">
    </details>
 
 11. As a site owner I want users to leave comments upon sign up
@@ -367,7 +376,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav.jpg">
+    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsignupnav .jpg">
     <img src="/workspace/CI_PP1_GLG/docs/features/textarea.PNG">
     </details>
 
@@ -379,8 +388,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
     | Signup Form | U Navigate sign up page click dropdown option| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav.jpg">
-    <img src="/workspace/CI_PP1_GLG/docs/features/cardoptions.PNG">
+    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsignupnav .jpg">
+    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
 13. As a owner i want user to know the membership is diverse and discount price for retired and Students
@@ -390,8 +399,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcards.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcards.jpg">
    </details>
 
 ## Bugs
