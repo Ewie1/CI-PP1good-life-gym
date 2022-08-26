@@ -180,7 +180,9 @@ The page consists of 3 pages
 ### Footer
 ![footer](docs/features/footer.PNG)
 ### About Us
+![about-us](docs/features/aboutus.PNG)
 ### Membership Cards
+![membership-cards](docs/features/membership.PNG)
 ### Signup Form
 ![signup-form](docs/features/signupform.PNG)
 ### Easy Sighup Page Button 
