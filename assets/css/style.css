@@ -94,6 +94,8 @@ header nav a {
     background-size: cover;
     background-position: center;
     overflow: hidden;
+    
+    
 
 }
 
@@ -145,7 +147,6 @@ header nav a {
     width: 50%;
     float: left;
     background-color: rgba(240, 240, 240, 0.888);
-    ;
     overflow: hidden;
 }
 
@@ -441,7 +442,7 @@ hr {
 #signup-form-outer {
     height: 700px;
     width: 100%;
-    background-image: url('../images/bottomimage.webp');
+    background-image: url('../images/signupimage.jpeg');
     background-size: cover;
     background-position: center;
     padding-top: 30px;

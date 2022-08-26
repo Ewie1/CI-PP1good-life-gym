@@ -266,10 +266,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    |-------------|------------|---------------------|-------------------|
    | Color contrast | Bright color contrast and images with laughter |Website feels like the gym  | Works as expected |
 
-
    <details><summary>Screenshots</summary>
-   <img src="docs">
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/brightenergy.PNG">
    </details>
 
 2.  As a firstime user I want to know the loaction of the gym
@@ -279,108 +277,102 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
    | Map | Scroll down on first page and click the google mag  | Goolge show gym location in the city | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/locatmap.jpg">
    </details>
 
 
 
-4. As a first time user I want to see the gym interior
+3. As a first time user I want to see the gym interior
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Gym interior image | Scroll down on home page | Find pictures of the gym interior | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/intteaser.jpg">
    </details>
 
-5. As a first time user I want to know what training programs are available 
+4. As a first time user I want to know what training programs are available 
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Trian with us and Gym comforts list | Scroll down on home page  | Readable intriguing list | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/featureslist.jpg">
    </details>
 
-6. As a returning user I want to know where to sign up
+5. As a returning user I want to know where to sign up
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
   <details><summary>Screenshots</summary>
-  <img src="docs">
+  <img src="/workspace/CI_PP1_GLG/docs/features/easybuttton.jpg">
   </details>
 
-7. As a returning user i want contact information   
+6. As a returning user i want contact information   
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcontactinfo1.jpg">
    </details>
 
-8. As a returning user I was to know the reason and the mission of the gym
+7. As a returning user I was to know the reason and the mission of the gym
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |   
    |-------------|------------|---------------------|-------------------|
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/aboutus.PNG">
    </details>
 
-9. As a returning user I want to know about the membership and options available
+8. As a returning user I want to know about the membership and options available
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcards.jpg">
    </details>
 
-10. As a returning user, I want to see the gym's social media followings 
+9. As a returning user, I want to see the gym's social media followings 
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsociallinks.jpg">
    </details>
 
-11. As a site owner i want the navigation to the site information to be simple
+10. As a site owner i want the navigation to the site information to be access esaily
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess1.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedeasyaccess2.jpg">
    </details>
 
-12. As a site owner I want users to leave comments upon sign up
+11. As a site owner I want users to leave comments upon sign up
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="docs">
+    <img src="/workspace/CI_PP1_GLG/docs/features/Inkedsignupnav - Copy.jpg">
     </details>
 
-13. We must let them know about our unique training programs?????
 
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Tra | Scroll down on home page and locate news section | Find latest news | Works as expected |
-
-    <details><summary>Screenshots</summary>
-    <img src="docs">
-    </details>
-
-14. As a siteowner I want the users to not only sign up but have membership option
+12. As a siteowner I want the users to not only sign up but have membership option
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
@@ -390,14 +382,15 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
     <img src="docs">
     </details>
 
-3. As a owner i want user to know the membership is diverse and discount price for retired and Students
+13. As a owner i want user to know the membership is diverse and discount price for retired and Students
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="docs">
+   <img src="/workspace/CI_PP1_GLG/docs/features/menuaboutusnav .jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/Inkedcards.jpg">
    </details>
 
 ## Bugs
