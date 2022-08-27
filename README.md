@@ -341,7 +341,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/Inkedcontactinfo1.jpg">
+   <img src="/docs/features/test-user-story/inkedcontactinfo1.jpg">
    </details>
 
 7. As a returning user I was to know the reason and the mission of the gym
@@ -351,7 +351,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
+   <img src="/docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
    <img src="/docs/features/aboutus.PNG">
    </details>
 
@@ -362,7 +362,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
+   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
    <img src="/docs/features/test-user-story/inkedcards.jpg">
    </details>
 
@@ -373,7 +373,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedsociallinks.jpg">
+   <img src="docs/features/test-user-story/inkedsociallinks.jpg">
    </details>
 
 
@@ -385,7 +385,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/Inkedsignupnav.jpg">
+    <img src="docs/features/test-user-story/inkedsignupnav.jpg">
     <img src="/docs/features/textarea.PNG">
     </details>
 
@@ -397,7 +397,7 @@ While this page does not cover any specific user story, it aids them all by allo
     | Signup Form | U Navigate sign up page click dropdown option| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/Inkedsignupnav .jpg">
+    <img src="docs/features/test-user-story/inkedsignupnav.jpg">
     <img src="/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
