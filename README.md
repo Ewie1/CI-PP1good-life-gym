@@ -234,21 +234,21 @@ While this page does not cover any specific user story, it aids them all by allo
 
 ### HTML Validation
 <details><summary>Home page</summary>
-<img src="/docs/features/wireframes/validations/indexhtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/indexhtml-validation.JPG">
 </details>
 <details><summary>About page</summary>
-<img src="/docs/features/wireframes/validations/trainhtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/trainhtml-validation.JPG">
 </details>
 <details><summary>Signup page</summary>
-<img src="/docs/features/wireframes/validations/signuphtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/signuphtml-validation.JPG">
 </details>
 
 ### CSS Validation
 <details><summary>Style</summary>
-<img src="/docs/features/wireframes/validations/stylecss_validation.JPG">
+<img src="/docs/features/wireframes/validations/stylecss-validation.JPG">
 </details>
 <details><summary>Whole page</summary>
-<img src="/docs/features/wireframes/validations/wholepagecss_validation.JPG">
+<img src="/docs/features/wireframes/validations/wholepagecss-validation.JPG">
 </details>
 
 ### Accessibility
@@ -294,18 +294,18 @@ While this page does not cover any specific user story, it aids them all by allo
    | Color contrast | Bright color contrast and images with laughter |Website feels like the gym  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/brightenergy.PNG">
+   <img src="docs/features/brightenergy.PNG">
    </details>
 
 2.  As a firstime user I want to know the location of the gym
 
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Map | Scroll down on first page and click the google mag  | Goolge show gym location in the city | Works as expected |
+    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+    |-------------|------------|---------------------|-------------------|
+    | Map | Scroll down on first page and click the google mag  | Goolge show gym location in the city | Works as expected |
 
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedlocatmap.jpg">
-   </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedlocatmap.jpg">
+     </details>
 
 
 
@@ -313,36 +313,36 @@ While this page does not cover any specific user story, it aids them all by allo
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Gym interior image | Scroll down on home page | Find pictures of the gym interior | Works as expected |
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/intteaser.jpg">
-   </details>
+    <details><summary>Screenshots</summary>
+    <img src="docs/features/test-user-story/intteaser.jpg">
+    </details>
 
 4. As a first time user I want to know what training programs are available 
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Trian with us and Gym comforts list | Scroll down on home page  | Readable intriguing list | Works as expected |
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedfeatureslist.jpg">
-   </details>
+    <details><summary>Screenshots</summary>
+    <img src="docs/features/test-user-story/inkedfeatureslist.jpg">
+    </details>
 
 5. As a returning user I want to know where to sign up
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
-  <details><summary>Screenshots</summary>
-  <img src="">
-  </details>
+    <details><summary>Screenshots</summary>
+    <img src="">
+    </details>
 
 6. As a returning user i want contact information   
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedcontactinfo1.jpg">
-   </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedcontactinfo1.jpg">
+     </details>
 
 7. As a returning user I was to know the reason and the mission of the gym
 
@@ -350,10 +350,10 @@ While this page does not cover any specific user story, it aids them all by allo
    |-------------|------------|---------------------|-------------------|
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
-   <img src="/docs/features/aboutus.PNG">
-   </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
+     <img src="docs/features/aboutus.PNG">
+     </details>
 
 8. As a returning user I want to know about the membership and options available
 
@@ -361,10 +361,10 @@ While this page does not cover any specific user story, it aids them all by allo
    |-------------|------------|---------------------|-------------------|
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
-   <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
-   <img src="/docs/features/test-user-story/inkedcards.jpg">
-   </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedmenu-aboutusnav.jpg">
+     <img src="docs/features/test-user-story/inkedcards.jpg">
+     </details>
 
 9. As a returning user, I want to see the gym's social media followings 
 
@@ -372,13 +372,13 @@ While this page does not cover any specific user story, it aids them all by allo
    |-------------|------------|---------------------|-------------------|
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
-   <details><summary>Screenshots</summary>
-   <img src="docs/features/test-user-story/inkedsociallinks.jpg">
-   </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedsociallinks.jpg">
+     </details>
 
 
 
-11. As a site owner I want users to leave comments upon sign up
+10. As a site owner I want users to leave comments upon sign up
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
@@ -386,7 +386,7 @@ While this page does not cover any specific user story, it aids them all by allo
 
     <details><summary>Screenshots</summary>
     <img src="docs/features/test-user-story/inkedsignupnav.jpg">
-    <img src="/docs/features/textarea.PNG">
+    <img src="docs/features/textarea.PNG">
     </details>
 
 
