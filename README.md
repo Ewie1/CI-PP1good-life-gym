@@ -333,7 +333,7 @@ User story covered:5 and 11
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/Inkedcontactinfo1 .jpg">
+   <img src="/docs/features/test-user-story/Inkedcontactinfo1.jpg">
    </details>
 
 7. As a returning user I was to know the reason and the mission of the gym
@@ -343,7 +343,7 @@ User story covered:5 and 11
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
    <img src="/docs/features/aboutus.PNG">
    </details>
 
@@ -354,7 +354,7 @@ User story covered:5 and 11
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
    <img src="/docs/features/test-user-story/Inkedcards.jpg">
    </details>
 
@@ -387,7 +387,7 @@ User story covered:5 and 11
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/Inkedsignupnav .jpg">
+    <img src="/docs/features/test-user-story/Inkedsignupnav.jpg">
     <img src="/docs/features/textarea.PNG">
     </details>
 
@@ -410,7 +410,7 @@ User story covered:5 and 11
     | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+    <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
     <img src="/docs/features/test-user-story/Inkedcards.jpg">
     </details>
 
