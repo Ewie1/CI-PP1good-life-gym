@@ -532,8 +532,15 @@ hr {
 #error>h1 {
     margin-top: 150px;
     text-align: center;
-    color: #114528;
-    font-size: 40px;
+    color: #CD3700;
+    font-size: 160px;
+}
+
+#error>h2 {
+    text-align: center;
+    color: #fafafa;
+    font-size: 160px;
+
 }
 
 #thankyou {
