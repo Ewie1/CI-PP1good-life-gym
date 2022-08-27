@@ -83,26 +83,26 @@
 ### User Stories
 
 #### First-time User 
-- As  a first time user I expect a bright feel energetic gym feel
-- I want to know the loaction of the gym
-- I want to see the gym interior 
-- I want to know what programs are avaiblable
+1. As  a first time user I expect a bright feel energetic gym feel
+2. I want to know the loaction of the gym
+3. I want to see the gym interior 
+4. I want to know what programs are avaiblable
 
 #### Returning User
-- As a returning user i want contact information
-- I want to know about the membership and options available
-- I was to know the reason and the mission of the gym
-- I want to know where to sign up
-- I want to know about the membership and options available
-- I want to see the gym's social media followings 
+5. As a returning user i want contact information
+6. I want to know about the membership and options available
+7. I was to know the reason and the mission of the gym
+8. I want to know where to sign up
+9. I want to know about the membership and options available
+10. I want to see the gym's social media followings 
 
 
 #### Site Owner 
-- As a site owner i want the navigation to the site information to be access esaily
-- We must let them know about our unique training programs
-- As a site owner I want users to leave comments upon sign up
-- I want the users to not only sign up but have membership option
-- I want user to know the membership is diverse and discount price for retired and Students
+11. As a site owner i want the navigation to the site information to be access esaily
+12. We must let them know about our unique training programs
+13. As a site owner I want users to leave comments upon sign up
+14. I want the users to not only sign up but have membership option
+15. I want user to know the membership is diverse and discount price for retired and Students
 
 
 ## Design
@@ -164,21 +164,25 @@ The page consists of 3 pages and 11 sections
 ### Logo and Navigation Bar
 - The logo and nav bar section is one of the difference maker. It have a stylish logo which every
 gym needs and also a navigation bar which allow the user to freely navigate between the three pages presented. Here you can also find a signup button which return user to get to the sigup page without the need to scroll. 
+- User story covered: 10
 
 ![logo-and-nav](docs/features/menulogonavs.PNG)
 
 ### Hero
 - Here the hero image that describe everything a user need in a gym laughter, diversity and work. Along with giving a feel for what you get at the gym there is also a cover note with two questios to catch the users interest and want to know more about the gym.
+- User story covered: 1
 
 ![heros](docs/features/heros.PNG) 
 
 ### Gym Features
 - The gym features list is consist of the many progarms available for training and the comforts the gym offer. With this information the user can consider compare to there regular gyms which will help them in deciding to click that signup button.
+- User story covered: 4
 
 ![gym-features](docs/features/feature.PNG)
 
 ### Easy Nav
 - Easy nav is a simple buttton to have the user ovaoid scrolling up to get to the About Us page.
+- User story covered: 10
 
 ![easy-nav](docs/features/easynav.PNG)
 
@@ -189,31 +193,38 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
 
 ### Teaser Image
 - A simple image og the gym i like to call a teaser image of the interior of the gym so the user gets an idea of what to expect and what kind of enviroment the gym offers.
+- User story covered: 3
 
 ![interior-teaser](docs/features/teaser.PNG)
 
 ### Map
 - The map which give the location for the gym with an easy click.
+- User story covered: 2
 
 ![map](docs/features/map4.PNG)
 
 ### Footer
 - This footer which is set to be informative, giving the gym's contact information, phone number and emial address to contact us. Along with this we also have the social media icon links in which the gym can be found on.
+- User story covered: 6 and 9
+
 
 ![footer](docs/features/footer.PNG)
 
 ### About Us
 - The About us section of the site located on the second page tells alot. We have the images on the left which shows some of the faetures of the gym complimenting the three paragraphs which explain who, why and the mission of the gym which i think make it stand out from the regular.
+- User story covered: 4 and 7
 
 ![about-us](docs/features/aboutus.PNG)
 
 ### Membership Cards
 - Membership Cards section can also be found on the second page showing the different memberships the gym have to offer student, retired or normal.
+- User story covered: 8--13
 
 ![membership-cards](docs/features/membership.PNG)
 
 ### Signup Form
 - The signup form is found on the last page which shows the needed information of entry, membership option drop down and a text area for any questions to quarries while signing up.
+User story covered:5 and 11
 
 ![signup-form](docs/features/signupform.PNG)
 
