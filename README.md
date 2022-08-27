@@ -370,15 +370,15 @@ User story covered:5 and 11
 
 10. As a site owner i want the navigation to the site information to be access esaily
 
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
+    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+    |-------------|------------|---------------------|-------------------|
+    | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
 
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/Inkedeasyaccess .jpg">
-   <img src="/docs/features/test-user-story/Inkedeasyaccess1.jpg">
-   <img src="/docs/features/test-user-story/Inkedeasyaccess2.jpg">
-   </details>
+    <details><summary>Screenshots</summary>
+    <img src="/docs/features/test-user-story/Inkedeasyaccess .jpg">
+    <img src="/docs/features/test-user-story/Inkedeasyaccess1.jpg">
+    <img src="/docs/features/test-user-story/Inkedeasyaccess2.jpg">
+    </details>
 
 11. As a site owner I want users to leave comments upon sign up
 
@@ -405,14 +405,14 @@ User story covered:5 and 11
 
 13. As a owner i want user to know the membership is diverse and discount price for retired and Students
 
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
+    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+    |-------------|------------|---------------------|-------------------|
+    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
-   <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
-   <img src="/docs/features/test-user-story/Inkedcards.jpg">
-   </details>
+    <details><summary>Screenshots</summary>
+    <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+    <img src="/docs/features/test-user-story/Inkedcards.jpg">
+    </details>
 
 ## Bugs
 
