@@ -89,21 +89,18 @@
 4. I want to know what programs are avaiblable
 
 #### Returning User
-5. As a returning user i want contact information
-6. I want to know about the membership and options available
-7. I was to know the reason and the mission of the gym
-8. I want to know where to sign up
-9. I want to know about the membership and options available
-10. I want to see the gym's social media followings 
+ 
+ 5. I want to know where to sign up
+ 6. As a returning user i want contact information
+ 7. I was to know the reason and the mission of the gym
+ 8. I want to know about the membership and options available
+ 9. I want to see the gym's social media followings 
 
 
 #### Site Owner 
-11. As a site owner i want the navigation to the site information to be access esaily
-12. We must let them know about our unique training programs
-13. As a site owner I want users to leave comments upon sign up
-14. I want the users to not only sign up but have membership option
-15. I want user to know the membership is diverse and discount price for retired and Students
-
+10. As a site owner I want users to leave comments upon sign up
+11. As a owner I want the users to not only sign up but have membership option
+13. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
 
 ## Design
 
@@ -228,6 +225,11 @@ User story covered:5 and 11
 
 ![signup-form](docs/features/signupform.PNG)
 
+### 404 Page
+- This page displays when a user enters a URL that does not exist. The main purpose of this page is to let users know that an error has occurred and to redirect them back to the website. The design of this page is simple as I want users to return the main pages of the site as soon as possible upon seeing this page. It consists of a heading, subheading and button.
+The page is fully responsive on mobile and tablet.
+While this page does not cover any specific user story, it aids them all by allowing the user to easily navigate themselves back to all of the other features and pages on the site.
+
 ## Validation
 
 ### HTML Validation
@@ -250,20 +252,26 @@ User story covered:5 and 11
 </details>
 
 ### Accessibility
-<details><summary>Accessibility</summary>
-<img src="">
+<details><summary>Home</summary>
+<img src="/docs/features/wireframes/validations/accesssibility-home.PNG">
+</details>
+<details><summary>About Us</summary>
+<img src="/docs/features/wireframes/validations/accessibilty-about.PNG">
+</details>
+<details><summary>Become a Member</summary>
+<img src="/docs/features/wireframes/validations/accessibilty-signup.PNG">
 </details>
 
 ### Performance 
 
 <details><summary>Home</summary>
-<img src="/docs/features/wireframes/validations/accesshomepage.PNG">
+<img src="/docs/features/wireframes/validations/performance-homepage.PNG">
 </details>
 <details><summary>About Us</summary>
-<img src="/docs/features/wireframes/validations/accessaboutuspage.PNG">
+<img src="/docs/features/wireframes/validations/performance-aboutuspage.PNG">
 </details>
 <details><summary>Become a Member</summary>
-<img src="/docs/features/wireframes/validations/accesssignuppage.PNG">
+<img src="/docs/features/wireframes/validations/performance-signuppage.PNG">
 </details>
 
 ### Performing tests on various devices 
@@ -324,7 +332,7 @@ User story covered:5 and 11
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
   <details><summary>Screenshots</summary>
-  <img src="/docs/features/test-user-story/Inkedcontactinfo1.jpg">
+  <img src="">
   </details>
 
 6. As a returning user i want contact information   
@@ -343,7 +351,7 @@ User story covered:5 and 11
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/Inkedmenuaboutusnav.jpg">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
    <img src="/docs/features/aboutus.PNG">
    </details>
 
@@ -355,7 +363,7 @@ User story covered:5 and 11
 
    <details><summary>Screenshots</summary>
    <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
-   <img src="/docs/features/test-user-story/Inkedcards.jpg">
+   <img src="/docs/features/test-user-story/inkedcards.jpg">
    </details>
 
 9. As a returning user, I want to see the gym's social media followings 
@@ -365,20 +373,10 @@ User story covered:5 and 11
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/Inkedsociallinks.jpg">
+   <img src="/docs/features/test-user-story/inkedsociallinks.jpg">
    </details>
 
-10. As a site owner i want the navigation to the site information to be access esaily
 
-    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-    |-------------|------------|---------------------|-------------------|
-    | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
-
-    <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/Inkedeasyaccess .jpg">
-    <img src="/docs/features/test-user-story/Inkedeasyaccess1.jpg">
-    <img src="/docs/features/test-user-story/Inkedeasyaccess2.jpg">
-    </details>
 
 11. As a site owner I want users to leave comments upon sign up
 
@@ -403,17 +401,17 @@ User story covered:5 and 11
     <img src="/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
-13. As a owner i want user to know the membership is diverse and discount price for retired and Students
+13. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
-    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
+    | 404 error page | On non-matched URL| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
-    <img src="/docs/features/test-user-story/Inkedcards.jpg">
+    <img src="">
+    <img src="">
     </details>
-
+    
 ## Bugs
 
 ## Deployment
