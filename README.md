@@ -232,21 +232,21 @@ User story covered:5 and 11
 
 ### HTML Validation
 <details><summary>Home page</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/indexhtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/indexhtml_validation.JPG">
 </details>
 <details><summary>About page</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/trainhtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/trainhtml_validation.JPG">
 </details>
 <details><summary>Signup page</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/signuphtml_validation.JPG">
+<img src="/docs/features/wireframes/validations/signuphtml_validation.JPG">
 </details>
 
 ### CSS Validation
 <details><summary>Style</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/stylecss_validation.JPG">
+<img src="/docs/features/wireframes/validations/stylecss_validation.JPG">
 </details>
 <details><summary>Whole page</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/wholepagecss_validation.JPG">
+<img src="/docs/features/wireframes/validations/wholepagecss_validation.JPG">
 </details>
 
 ### Accessibility
@@ -257,13 +257,13 @@ User story covered:5 and 11
 ### Performance 
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accesshomepage.PNG">
+<img src="/docs/features/wireframes/validations/accesshomepage.PNG">
 </details>
 <details><summary>About Us</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accessaboutuspage.PNG">
+<img src="/docs/features/wireframes/validations/accessaboutuspage.PNG">
 </details>
 <details><summary>Become a Member</summary>
-<img src="/workspace/CI_PP1_GLG/docs/features/wireframes/validations/accesssignuppage.PNG">
+<img src="/docs/features/wireframes/validations/accesssignuppage.PNG">
 </details>
 
 ### Performing tests on various devices 
@@ -286,7 +286,7 @@ User story covered:5 and 11
    | Color contrast | Bright color contrast and images with laughter |Website feels like the gym  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/brightenergy.PNG">
+   <img src="/docs/features/brightenergy.PNG">
    </details>
 
 2.  As a firstime user I want to know the location of the gym
@@ -296,7 +296,7 @@ User story covered:5 and 11
    | Map | Scroll down on first page and click the google mag  | Goolge show gym location in the city | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedlocatmap.jpg">
+   <img src="/docs/features/test-user-story/inkedlocatmap.jpg">
    </details>
 
 
@@ -306,7 +306,7 @@ User story covered:5 and 11
    |-------------|------------|---------------------|-------------------|
    | Gym interior image | Scroll down on home page | Find pictures of the gym interior | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/intteaser.jpg">
+   <img src="/docs/features/test-user-story/intteaser.jpg">
    </details>
 
 4. As a first time user I want to know what training programs are available 
@@ -315,7 +315,7 @@ User story covered:5 and 11
    |-------------|------------|---------------------|-------------------|
    | Trian with us and Gym comforts list | Scroll down on home page  | Readable intriguing list | Works as expected |
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedfeatureslist.jpg">
+   <img src="/docs/features/test-user-story/inkedfeatureslist.jpg">
    </details>
 
 5. As a returning user I want to know where to sign up
@@ -324,7 +324,7 @@ User story covered:5 and 11
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
   <details><summary>Screenshots</summary>
-  <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedeasybuttton.jpg">
+  <img src="/docs/features/test-user-story/inkedeasybuttton.jpg">
   </details>
 
 6. As a returning user i want contact information   
@@ -333,7 +333,7 @@ User story covered:5 and 11
    | Footer  on all pages | On any page scroll to the footer | See phone number and email address | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcontactinfo1 .jpg">
+   <img src="/docs/features/test-user-story/Inkedcontactinfo1 .jpg">
    </details>
 
 7. As a returning user I was to know the reason and the mission of the gym
@@ -343,8 +343,8 @@ User story covered:5 and 11
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/aboutus.PNG">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/docs/features/aboutus.PNG">
    </details>
 
 8. As a returning user I want to know about the membership and options available
@@ -354,8 +354,8 @@ User story covered:5 and 11
    | Membership Cards | Navigate to the About Uspage Scrooll down | Read | Works as expectd |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcards.jpg">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/docs/features/test-user-story/Inkedcards.jpg">
    </details>
 
 9. As a returning user, I want to see the gym's social media followings 
@@ -365,7 +365,7 @@ User story covered:5 and 11
    | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsociallinks.jpg">
+   <img src="/docs/features/test-user-story/Inkedsociallinks.jpg">
    </details>
 
 10. As a site owner i want the navigation to the site information to be access esaily
@@ -375,9 +375,9 @@ User story covered:5 and 11
    | Signup Button, Navbar, More about us button | Click buttons or links  | direction to chosen page | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess .jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess1.jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedeasyaccess2.jpg">
+   <img src="/docs/features/test-user-story/Inkedeasyaccess .jpg">
+   <img src="/docs/features/test-user-story/Inkedeasyaccess1.jpg">
+   <img src="/docs/features/test-user-story/Inkedeasyaccess2.jpg">
    </details>
 
 11. As a site owner I want users to leave comments upon sign up
@@ -387,8 +387,8 @@ User story covered:5 and 11
    | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsignupnav .jpg">
-    <img src="/workspace/CI_PP1_GLG/docs/features/textarea.PNG">
+    <img src="/docs/features/test-user-story/Inkedsignupnav .jpg">
+    <img src="/docs/features/textarea.PNG">
     </details>
 
 
@@ -399,8 +399,8 @@ User story covered:5 and 11
     | Signup Form | U Navigate sign up page click dropdown option| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedsignupnav .jpg">
-    <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedcardoptions.PNG">
+    <img src="/docs/features/test-user-story/Inkedsignupnav .jpg">
+    <img src="/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
 13. As a owner i want user to know the membership is diverse and discount price for retired and Students
@@ -410,8 +410,8 @@ User story covered:5 and 11
    | Membership Crads | Navigate to the About page Scrool down | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
-   <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcards.jpg">
+   <img src="/docs/features/test-user-story/inkedmenuaboutusnav .jpg">
+   <img src="/docs/features/test-user-story/Inkedcards.jpg">
    </details>
 
 ## Bugs
