@@ -324,7 +324,7 @@ User story covered:5 and 11
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
   <details><summary>Screenshots</summary>
-  <img src="/workspace/CI_PP1_GLG/docs/features/test-user-story/Inkedcontactinfo1.jpg">
+  <img src="/docs/features/test-user-story/Inkedcontactinfo1.jpg">
   </details>
 
 6. As a returning user i want contact information   
@@ -343,7 +343,7 @@ User story covered:5 and 11
    | About Us pragraph | Navigate to the us page in menu bar  | Read  | Works as expected |
 
    <details><summary>Screenshots</summary>
-   <img src="/docs/features/test-user-story/inkedmenuaboutusnav.jpg">
+   <img src="/docs/features/test-user-story/Inkedmenuaboutusnav.jpg">
    <img src="/docs/features/aboutus.PNG">
    </details>
 
