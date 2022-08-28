@@ -98,9 +98,9 @@
 
 
 #### Site Owner 
-10. As a site owner I want users to leave comments upon sign up
-11. As a owner I want the users to not only sign up but have membership option
-13. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
+10. As a owner I want the users to not only sign up but have membership option
+12. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
+13. As a site owner I want users to leave comments upon sign up
 
 ## Design
 
@@ -399,7 +399,9 @@ The page is fully responsive on mobile and tablet.
     <img src="docs/features/test-user-story/404page.PNG">
     </details>
 
-12.   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+12. 
+
+   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
    | Signup form | Navigate to signup page | Leave comments | Works as expected |
 
