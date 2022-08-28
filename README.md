@@ -247,7 +247,7 @@ The page is fully responsive on mobile and tablet.
 <img src="/docs/features/wireframes/validations/signuphtml-validation.JPG">
 </details>
 <details><summary>404 page</summary>
-<img src="">
+<img src="docs/features/wireframes/validations/validation404.PNG">
 </details>
 
 ### CSS Validation
