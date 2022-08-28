@@ -383,6 +383,7 @@ While this page does not cover any specific user story, it aids them all by allo
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
+   
    | Signup Form | Naivigate to signup page | Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
@@ -391,7 +392,7 @@ While this page does not cover any specific user story, it aids them all by allo
     </details>
 
 
-12. As a siteowner I want the users to not only sign up but have membership option
+11. As a siteowner I want the users to not only sign up but have membership option
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
@@ -402,7 +403,7 @@ While this page does not cover any specific user story, it aids them all by allo
     <img src="/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
-13. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
+12. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
