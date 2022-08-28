@@ -1,26 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
 
-/* style to ver ride default setting */
+/* style to over ride default setting */
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-/**/
+/* Set font family for html body */
 
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
 }
 
-/* Style for heading and logo */
-
-h1 {
-    height: 50px;
-    font-family: Mulish, sans-serif;
-    text-transform: uppercase;
-}
+/* Position for html linked logo image */
 
 #logo {
     height: 150px;
@@ -30,12 +24,13 @@ h1 {
     margin-bottom: -3px;
 }
 
+/* Style to remove default border bottom for navbar links */
+
 header nav a {
     text-decoration: none;
-    display: inline-block;
-}
+} 
 
-/* Style for navbar links within the heading */
+/* Style color, font size and position for navbar link*/
 
 .menu {
     height: 70px;
@@ -58,11 +53,13 @@ header nav a {
     color: #fa561b;
 }
 
+/*Style navbar link border bottom when page is active*/
+
 .active {
     border-bottom: 4px solid #fa561b;
 }
 
-/* style for the first hero images */
+/* Style to set positin, size and contrast  for the  hero images */
 
 #hero-outer {
     height: 500px;
@@ -84,8 +81,12 @@ header nav a {
     padding-bottom: 100px;
 }
 
+/* style to set font size, color and font family for cover message on the hero imgae*/
+
 .hero-image h1 {
     width: 80%;
+    font-family: Mulish, sans-serif;
+    text-transform: uppercase;
     text-align: center;
     color: #fff;
     font-size: 30px;
@@ -93,6 +94,8 @@ header nav a {
     margin-left: 130px;
     padding-top: 125px;
 }
+
+/**/
 
 .hero-image a {
     height: 80px;
