@@ -519,10 +519,9 @@ hr {
 }
 
 #error>p {
-    margin-top: 150px;
     text-align: center;
     color: #CD3700;
-    font-size:large;
+    font-size:larger;
     font-weight: 600;
 
 }
