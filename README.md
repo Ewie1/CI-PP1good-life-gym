@@ -178,7 +178,7 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
 
 ### Easy Nav
 - Easy nav is a simple buttton to have the user avoid scrolling up to get to the About Us page.
-- User story covered: 
+- This faeture serves the purpose of allow the user to go throught the page smoothly finding all the gym information with out the need of scrolling back up to the menu bar but use the more about us button to get to the second page whicg contains more information about the gym.
 
 ![easy-nav](docs/features/easynav.PNG)
 
@@ -284,7 +284,6 @@ The page is fully responsive on mobile and tablet.
 - Tested on Goole Chrome
 - Tested Micrsoft Edge
 - Tested on Morzilla Firefox
-- Tested on Safari
 
 ### Testing user stories
 
@@ -399,7 +398,7 @@ The page is fully responsive on mobile and tablet.
     <img src="docs/features/test-user-story/404page.PNG">
     </details>
 
-12. 
+12. As a site owner I want users to leave comments upon sign up
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
@@ -407,10 +406,16 @@ The page is fully responsive on mobile and tablet.
 
    <details><summary>Screenshots</summary>
     <img src="docs/features/test-user-story/inkedsignupnav.jpg">
-    <img src="docs/features/signupform.PNG">
+    <img src="docs/features/comments.PNG">
     </details>
     
 ## Bugs
+
+- Bug: the first page had overflow to the right of the page.
+  Fix: with from the slack community i was refered to unicorn revealer which showed my opentimes width was too much. Adjusted this and issue was fixed
+- Bug: during accessibilty test my good practice points were low
+  Fix: using the unicorn revealer again imanaged to find my logo image had margin space and my about us text had border radius value that were unneccessary. Adjusted these issues and my score got better
+  - Bug: during html validation  
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -468,7 +473,7 @@ https://www.pexels.com/@julia-larson/
 
 
 ## Acknowledgements
-- Acknowlegement goes to my mentor Mo Shami 
-- I will like to acknowledge my brother Addan Mc Collin for support
+- Tanks and acknowlegement goes to my mentor Mo Shami great guidance.
+- Acknowledge my brother Addan Mc Collin for support form a user's veiw
 - Thanks to my girlfriend Hiba Salem for support and input on a user veiw
-- Slack team for tips
+- Thankful to the Slack team for tips
