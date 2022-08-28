@@ -415,7 +415,22 @@ The page is fully responsive on mobile and tablet.
   Fix: with from the slack community i was refered to unicorn revealer which showed my opentimes width was too much. Adjusted this and issue was fixed
 - Bug: during accessibilty test my good practice points were low
   Fix: using the unicorn revealer again imanaged to find my logo image had margin space and my about us text had border radius value that were unneccessary. Adjusted these issues and my score got better
-  - Bug: during html validation  
+- Bug: during html validation signup.html error, signup form "for" value and "id" value were not matching  
+    Fix: Change both value to the same which rectified error
+- Bug: html validation for index.hmtl warnings for lack of heading h1-h6 in section tags
+  Fix: removed unneccesary section tags
+- Bug: html validation error for all html file h1-h6 heading, some sequence wer skipped h2-h4 and    h2-h5 
+   Fix: changed heading tag for all html file to the correct sequences
+- Bug: Wave error for color contrast on navbar and more about us button "deep orange and very dark blue"
+  Fix: change to a slightly brighter orange to mitigate issue,
+- Bug: Wave error for color conflicting contrast with cover text for the hero image on the home page
+  Fix: Add a lite background overlay wrapped in a div tag to mitigate issue
+- Bug: loading performance on the home page was low due to hero image loading time
+  Fix: replaced hero-image 
+- Bug: background image for the "Become a Member" page look streched with distorted pixelations
+  Fix: Replaced "Become a Member" page backgroung image
+
+
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
