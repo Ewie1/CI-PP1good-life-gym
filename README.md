@@ -137,6 +137,9 @@ This website was structured with the gym logo which give a gym it character but 
 <img src="/docs/features/wireframes/wireframesignuppagepad.png">
 <img src="/docs/features/wireframes/wireframesignuppagepadiphone.png">
 </details>
+<details><summary>404 page</summary>
+<img src="docs/features/wireframes/GLG404.png">
+</details>
 
 
 ## Technologies Used
@@ -242,6 +245,9 @@ The page is fully responsive on mobile and tablet.
 </details>
 <details><summary>Signup page</summary>
 <img src="/docs/features/wireframes/validations/signuphtml-validation.JPG">
+</details>
+<details><summary>404 page</summary>
+<img src="">
 </details>
 
 ### CSS Validation
@@ -427,7 +433,7 @@ The page is fully responsive on mobile and tablet.
   Fix: Add a lite background overlay wrapped in a div tag to mitigate issue
 - Bug: loading performance on the home page was low due to hero image loading time
   Fix: replaced hero-image 
-- Bug: background image for the "Become a Member" page look streched with distorted pixelations
+- Bug: background image for the "Become a Member" page look streched with distorted pixels
   Fix: Replaced "Become a Member" page backgroung image
 
 
