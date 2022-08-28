@@ -378,15 +378,6 @@ While this page does not cover any specific user story, it aids them all by allo
      </details>
 
 
-
-10. As a site owner I want users to leave comments upon sign up
-
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Signup Form | Naivigate to signup page | Signup and leave comments | Works as expected |
-
-   
-
 11. As a siteowner I want the users to not only sign up but have membership option
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
