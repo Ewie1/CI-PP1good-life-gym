@@ -161,7 +161,6 @@ The page consists of 3 pages and 11 sections
 ### Logo and Navigation Bar
 - The logo and nav bar section is one of the difference maker. It have a stylish logo which every
 gym needs and also a navigation bar which allow the user to freely navigate between the three pages presented. Here you can also find a signup button which return user to get to the sigup page without the need to scroll. 
-- User story covered: 10
 
 ![logo-and-nav](docs/features/menulogonavs.PNG)
 
@@ -178,8 +177,8 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
 ![gym-features](docs/features/feature.PNG)
 
 ### Easy Nav
-- Easy nav is a simple buttton to have the user ovaoid scrolling up to get to the About Us page.
-- User story covered: 10
+- Easy nav is a simple buttton to have the user avoid scrolling up to get to the About Us page.
+- User story covered: 
 
 ![easy-nav](docs/features/easynav.PNG)
 
@@ -215,20 +214,21 @@ gym needs and also a navigation bar which allow the user to freely navigate betw
 
 ### Membership Cards
 - Membership Cards section can also be found on the second page showing the different memberships the gym have to offer student, retired or normal.
-- User story covered: 8--13
+- User story covered: 8
 
 ![membership-cards](docs/features/membership.PNG)
 
 ### Signup Form
 - The signup form is found on the last page which shows the needed information of entry, membership option drop down and a text area for any questions to quarries while signing up.
-User story covered:5 and 11
+- User story covered:5 and 11
 
 ![signup-form](docs/features/signupform.PNG)
 
 ### 404 Page
-- This page displays when a user enters a URL that does not exist. The main purpose of this page is to let users know that an error has occurred and to redirect them back to the website. The design of this page is simple as I want users to return the main pages of the site as soon as possible upon seeing this page. It consists of a heading, subheading and button.
+- The 404 page displays when a user enters a URL that does not match. The main purpose of this page is to let users know that an error has occurred and they have the menu bar available to go back to the website. 
 The page is fully responsive on mobile and tablet.
-While this page does not cover any specific user story, it aids them all by allowing the user to easily navigate themselves back to all of the other features and pages on the site.
+- User story covered: 11
+
 ![404-page](docs/features/test-user-story/404page.PNG)
 
 ## Validation
@@ -378,7 +378,7 @@ While this page does not cover any specific user story, it aids them all by allo
      </details>
 
 
-11. As a siteowner I want the users to not only sign up but have membership option
+10. As a siteowner I want the users to not only sign up but have membership option
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
@@ -389,15 +389,23 @@ While this page does not cover any specific user story, it aids them all by allo
     <img src="/docs/features/test-user-story/inkedcardoptions.PNG">
     </details>
 
-12. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
+11. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
 
     | **Feature** | **Action** | **Expected Result** | **Actual Result** |
     |-------------|------------|---------------------|-------------------|
     | 404 error page | On non-matched URL| Choose from drop down option | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="">
-    <img src="">
+    <img src="docs/features/test-user-story/404page.PNG">
+    </details>
+
+12.   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+   |-------------|------------|---------------------|-------------------|
+   | Signup form | Navigate to signup page | Leave comments | Works as expected |
+
+   <details><summary>Screenshots</summary>
+    <img src="docs/features/test-user-story/inkedsignupnav.jpg">
+    <img src="docs/features/signupform.PNG">
     </details>
     
 ## Bugs
@@ -423,19 +431,33 @@ You can clone the repository by following these steps:
 7. Press Enter to create your local clone.
 
 ## Credits
-1.  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
+-  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
 https://www.pexels.com/@alesiakozik/
-2. https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
+- https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
 https://www.pexels.com/@julia-larson/
-3. https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
+- https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
 https://www.freepik.com/author/weyo
-4. https://unsplash.com/photos/h3D-RRvxfqE
+- https://unsplash.com/photos/h3D-RRvxfqE
     https://unsplash.com/@bastien_plu
-5. 
+- https://www.pexels.com/photo/ethnic-woman-exercising-with-battling-ropes-near-male-trainer-6455771/
+https://www.pexels.com/@julia-larson/
+
 
 ### Media
 
 Media images were referenced from <a href="https://www.pexels.com/">Pixels</a> and <a href="https://unsplash.com/">Upsplash</a>
+
+-  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
+https://www.pexels.com/@alesiakozik/
+- https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
+https://www.pexels.com/@julia-larson/
+- https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
+https://www.freepik.com/author/weyo
+- https://unsplash.com/photos/h3D-RRvxfqE
+    https://unsplash.com/@bastien_plu
+- https://www.pexels.com/photo/ethnic-woman-exercising-with-battling-ropes-near-male-trainer-6455771/
+https://www.pexels.com/@julia-larson/
+
 
 ### Code
  - My HTML code from lessons and formats from the html module and walk through project which then evolved into my owm structure as i gain more knowledge by trail and error.
