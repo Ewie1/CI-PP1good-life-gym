@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Karla:wght@200&family=Mulish:wght@300&display=swap');
 
+/* style to ver ride default setting */
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
+
+/**/
 
 body {
     font-family: karla, sans-serif;
@@ -22,7 +25,6 @@ h1 {
 #logo {
     height: 150px;
     margin: 0 auto;
-    text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: -3px;
@@ -33,26 +35,7 @@ header nav a {
     display: inline-block;
 }
 
-.signup-logo {
-    text-align: center;
-    height: 30px;
-    float: right;
-    color: #fa561b;
-    margin-top: 90px;
-    margin-right: 30px;
-    background-color: #0e2133;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 5px;
-    border-radius: 20px;
-    text-transform: uppercase;
-    letter-spacing: 9px;
-    font-weight: 600;
-    border: 3px solid #fa561b;
-
-}
-
-/* Style for nav links within the heading */
+/* Style for navbar links within the heading */
 
 .menu {
     height: 70px;
@@ -464,16 +447,13 @@ hr {
 
 .signup-form h2 {
     font-size: xx-large;
-}
-
-.signup-form>label {
-    line-height: 40px;
-}
-
-.signup-form h2 {
     text-align: center;
     margin-bottom: 40px;
     text-transform: none;
+}
+    
+.signup-form>label {
+    line-height: 40px;
 }
 
 .text-input {
@@ -483,10 +463,6 @@ hr {
     margin: 5px 0 20px;
     border-radius: 10px;
     border: 1px solid #0e2133;
-}
-
-.text-input:hover {
-    border-color: #191970;
 }
 
 #questions {
@@ -520,13 +496,14 @@ hr {
     color: #0e2133;
 }
 
+/* style for 404 page */
+
 #error {
     height: 500px;
     width: 100%;
     background: url('../images/404er.jpeg')no-repeat center center;
     background-size: cover;
     background-position: center;
-    
     overflow: hidden; 
 } 
 
@@ -535,6 +512,7 @@ hr {
     text-align: center;
     color: #CD3700;
     font-size: 160px;
+    font-weight: 800;
 }
 
 #error>p {
@@ -544,18 +522,6 @@ hr {
     font-size:large;
     font-weight: 600;
 
-}
-
-#thankyou {
-    height: 400px;
-}
-
-#thankyou h1 {
-    color: #0e2133;
-    font-family: anton, sans-serif;
-    font-size: 300%;
-    text-align: center;
-    padding-top: 150px;
 }
 
 /*For large to medium screens sizes from 1200px wide and down */
@@ -818,5 +784,11 @@ hr {
 
     .signup-form label {
         line-height: 20px;
+    }
+
+    #error {
+        background-size: contain;
+        margin-top: -10px;
+        margin-bottom: -10px;
     }
 }

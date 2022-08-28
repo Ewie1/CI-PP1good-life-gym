@@ -382,7 +382,7 @@ While this page does not cover any specific user story, it aids them all by allo
 
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
    |-------------|------------|---------------------|-------------------|
-   | Signup Form | Naivigate to signup page| Signup and leave comments | Works as expected |
+   | Signup Form | Naivigate to signup page | Signup and leave comments | Works as expected |
 
     <details><summary>Screenshots</summary>
     <img src="docs/features/test-user-story/inkedsignupnav.jpg">
