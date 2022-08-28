@@ -229,6 +229,7 @@ User story covered:5 and 11
 - This page displays when a user enters a URL that does not exist. The main purpose of this page is to let users know that an error has occurred and to redirect them back to the website. The design of this page is simple as I want users to return the main pages of the site as soon as possible upon seeing this page. It consists of a heading, subheading and button.
 The page is fully responsive on mobile and tablet.
 While this page does not cover any specific user story, it aids them all by allowing the user to easily navigate themselves back to all of the other features and pages on the site.
+![404-page](docs/features/test-user-story/404page.PNG)
 
 ## Validation
 
@@ -332,7 +333,7 @@ While this page does not cover any specific user story, it aids them all by allo
    | Signup From | Cick signup button,Nav bar | Directed to signup page | Works as expected |
 
     <details><summary>Screenshots</summary>
-    <img src="">
+    <img src="docs/features/signupform.PNG">
     </details>
 
 6. As a returning user i want contact information   
@@ -435,6 +436,15 @@ You can clone the repository by following these steps:
 7. Press Enter to create your local clone.
 
 ## Credits
+1.  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
+https://www.pexels.com/@alesiakozik/
+2. https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
+https://www.pexels.com/@julia-larson/
+3. https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
+https://www.freepik.com/author/weyo
+4. https://unsplash.com/photos/h3D-RRvxfqE
+    https://unsplash.com/@bastien_plu
+5. 
 
 ### Media
 
