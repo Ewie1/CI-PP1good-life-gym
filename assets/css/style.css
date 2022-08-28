@@ -599,6 +599,10 @@ hr {
         margin-bottom: -35px;
     }
 
+    header nav a {
+        display: inline-block;
+    }
+
     .menu {
         height: 40px;
         width: 100%;
