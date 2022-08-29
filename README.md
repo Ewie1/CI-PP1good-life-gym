@@ -146,7 +146,7 @@ This website was structured with the gym logo which give a gym it character but 
 <img src="/docs/features/wireframes/wireframesignuppagepadiphone.png">
 </details>
 <details><summary>404 page</summary>
-<img src="docs/features/wireframes/GLG404.png">
+<img src="docs/features/wireframes/wireframe404.png">
 </details>
 
 
