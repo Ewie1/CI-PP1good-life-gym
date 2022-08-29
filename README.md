@@ -448,6 +448,9 @@ The page is fully responsive on mobile and tablet.
   Fix: replaced hero-image 
 - Bug: background image for the "Become a Member" page look streched with distorted pixels
   Fix: Replaced "Become a Member" page backgroung image
+- Bug: hero image overlay half way over the image  onthe big screen and overflowing into the ethos section
+   Fix: adjusted padding bottom and confirmed issue was no longer present
+   
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
