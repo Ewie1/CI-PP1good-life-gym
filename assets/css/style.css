@@ -553,13 +553,10 @@ hr {
         width: 55%;
         display: inline;
         margin-top: -1000px;
-        
     }
 
     .about-text h2 {
         margin-top: 50px;
-        
-
     }
 
     .about-text p {
@@ -567,7 +564,6 @@ hr {
         margin-top: 20px;
         margin-right: 20px;
         font-size: 1.2em;
-
     }
 
     hr {
@@ -699,7 +695,7 @@ hr {
         letter-spacing: 2px;
     }
 
-    .about-us-image {
+    .crossfit-image {
         width: 90%;
         margin: 0 auto;
         margin-bottom: 30px;
@@ -707,7 +703,7 @@ hr {
         float: none;
     }
 
-    .goals-image {
+    .trainer-image {
         margin: 0 auto;
         width: 90%;
         float: none;
@@ -715,7 +711,7 @@ hr {
 
     }
 
-    .programs-image {
+    .outdoor-image {
         margin: 0 auto;
         width: 90%;
         margin-bottom: 30px;
