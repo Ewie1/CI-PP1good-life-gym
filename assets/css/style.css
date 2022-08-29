@@ -95,7 +95,7 @@ header nav a {
     padding-top: 125px;
 }
 
-/**/
+/* Style and position for the hero image, cover note and the click here link*/
 
 .hero-image a {
     height: 80px;
@@ -124,7 +124,7 @@ header nav a {
     display: inline-block;
 }
 
-/* style for the gym ethos contents */
+/* style for the gym ethos contents, includes background color and float position */
 
 #about-ethos {
     width: 100%;
@@ -137,6 +137,8 @@ header nav a {
     background-color: rgba(240, 240, 240, 0.888);
     overflow: hidden;
 }
+
+/*Pr0grams list style*/
 
 .train-us {
     width: 100%;
@@ -158,6 +160,7 @@ header nav a {
     list-style-type: none;
     font-size: 1.4em;
 }
+/*Gym comfort list style */
 
 .gym-comfort {
     width: 100%;
@@ -275,7 +278,7 @@ header nav a {
 
 }
 
-/*style for  footer contact us information*/
+/*style for  footer contact us information, headings and paragraphs*/
 
 .contact-us {
     height: 100px;
@@ -323,8 +326,8 @@ header nav a {
 #about {
     margin-left: 30px;
 }
-
-.about-us-image {
+/* crossfit image styled on the left of the second page with a border raidus style*/
+.crossfit-image {
     height: 300px;
     width: 300px;
     border-radius: 40px;
@@ -334,6 +337,8 @@ header nav a {
     margin-bottom: 30px;
     margin-top: 30px;
 }
+
+/* About us paragraphs and heading styled to the right of the second page with  */
 
 .about-text {
     width: 60%;
@@ -357,8 +362,9 @@ header nav a {
     font-size: 1.6em;
     line-height: 30px;
 }
+/* trainer image styled to the left of the second page  below the crossfit image with a border radius style */
 
-.goals-image {
+.trainer-image {
     height: 300px;
     width: 300px;
     border-radius: 40px;
@@ -368,7 +374,8 @@ header nav a {
     margin-bottom: 30px;
 }
 
-.programs-image {
+/* the outdoor image styled below the trainer image with a border radius style*/
+.outdoor-image {
     height: 300px;
     width: 300px;
     border-radius: 40px;
@@ -376,6 +383,8 @@ header nav a {
     background-size: cover;
     margin-bottom: 30px;
 }
+
+/*style for the border lines seperating the paragraphs in the about us text*/
 
 hr {
     border-top: 1px solid #0e2133;
