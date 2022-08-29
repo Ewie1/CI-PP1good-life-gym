@@ -632,6 +632,10 @@ hr {
         padding-top: 220px;
     }
 
+    .overlay {
+        padding-bottom: 80px;
+    }
+
     #about-ethos div {
         float: none;
         width: 100%;
