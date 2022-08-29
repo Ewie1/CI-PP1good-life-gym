@@ -392,7 +392,7 @@ hr {
     margin-left: 100px;
 }
 
-/* style for price info on the "Aout Us" page*/
+/* style for price info on the "Aout Us" page before the footer floated left */
 
 #prices {
     width: 100%;
@@ -432,6 +432,7 @@ hr {
 #signup-image-outer {
     height: 900px;
 }
+ /*Sytle for image set to cover the background of the signup page*/
 
 #signup-form-outer {
     height: 700px;
@@ -443,6 +444,8 @@ hr {
     font-size: larger;
     font-weight: 600;
 }
+
+/*Signup form headings, label and background colors styled */
 
 .signup-form {
     background-color: rgba(240, 240, 240, 0.888);
@@ -468,6 +471,8 @@ hr {
     line-height: 40px;
 }
 
+/*Text input background color, size and font style here along with the textarea style*/
+
 .text-input {
     color: black;
     width: 100%;
@@ -483,6 +488,8 @@ hr {
     border-radius: 10px;
     border: 1px solid #0e2133;
 }
+
+/* hover style for the submit button to change color when hovering is present*/
 
 .submit-button:hover {
     background-color: #fff;
@@ -508,7 +515,7 @@ hr {
     color: #0e2133;
 }
 
-/* style for 404 page */
+/* style for 404 page cover image and error message */
 
 #error {
     height: 500px;
