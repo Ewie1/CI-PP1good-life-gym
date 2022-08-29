@@ -41,6 +41,7 @@
  
 
 ### User Goals
+
 - Find a gym with a good atmosphere and equipment
 - Find a gym that have good price and membership packages
 - Find a gym that offers more that equipment but comfort and accessiblity
@@ -50,6 +51,7 @@
 - Location information
 
 ### Site Owner Goals
+
 - Introduce a gym that care more about people and health
 - Introduce the special programs the gym have to offer
 - Transmit the reasons, intention of the gym
@@ -63,13 +65,16 @@
 ## User Experience
 
 ### Target Audience
+
 - People who need a different gym experience
 - People who want good health
 - People who want to be fit 
 - Student, Retiries
 - People who need a guide for work and meal plans
 - Athletes
+
 ### User Reqirements and Expecttaions
+
 - Accessable site
 - Navigations that are simple to use
 - Clear images that gives a vision of the gym structure
@@ -98,12 +103,12 @@
 
 
 #### Site Owner 
+
 10. As a owner I want the users to not only sign up but have membership option
 12. As a owner I want user to have a cutomized 404 error page if the wedsite fail to load
 13. As a site owner I want users to leave comments upon sign up
 
 ## Design
-
 
 ### Design Choices
 This wedsite was designed to give a bright, energetic, and classy feel for people looking for a first time gym or want a gym change. The color contrast was chosen for a energetic feel. Images that promtes bright smiles, fitness a helpful  enviroment. Information that says you get more than your regular gym.
@@ -122,6 +127,7 @@ This website was structured with the gym logo which give a gym it character but 
 - Become a member page
 
 ### Wireframes
+
 <details><summary>Home</summary>
 <img src="/docs/features/wireframes/wireframehomepage.png">
 <img src="/docs/features/wireframes/wireframehomepagepad.png">
@@ -145,6 +151,7 @@ This website was structured with the gym logo which give a gym it character but 
 ## Technologies Used
 
 ### Languages
+
 - HTML
 - CSSc
 
@@ -237,6 +244,7 @@ The page is fully responsive on mobile and tablet.
 ## Validation
 
 ### HTML Validation
+
 <details><summary>Home page</summary>
 <img src="/docs/features/wireframes/validations/indexhtml-validation.JPG">
 </details>
@@ -251,6 +259,7 @@ The page is fully responsive on mobile and tablet.
 </details>
 
 ### CSS Validation
+
 <details><summary>Style</summary>
 <img src="/docs/features/wireframes/validations/stylecss-validation.JPG">
 </details>
@@ -259,6 +268,7 @@ The page is fully responsive on mobile and tablet.
 </details>
 
 ### Accessibility
+
 <details><summary>Home</summary>
 <img src="/docs/features/wireframes/validations/accesssibility-home.PNG">
 </details>
@@ -282,11 +292,13 @@ The page is fully responsive on mobile and tablet.
 </details>
 
 ### Performing tests on various devices 
+
 - HP EllitBook
 - Amazon fire table 7
 - Samsung galaxy 20
 
 ### Browser compatability
+
 - Tested on Goole Chrome
 - Tested Micrsoft Edge
 - Tested on Morzilla Firefox
@@ -312,8 +324,6 @@ The page is fully responsive on mobile and tablet.
      <details><summary>Screenshots</summary>
      <img src="docs/features/test-user-story/inkedlocatmap.jpg">
      </details>
-
-
 
 3. As a first time user I want to see the gym interior
    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -416,6 +426,7 @@ The page is fully responsive on mobile and tablet.
     </details>
     
 ## Bugs
+  List of bugs found and fixes used ti mitigate them.
 
 - Bug: the first page had overflow to the right of the page.
   Fix: with from the slack community i was refered to unicorn revealer which showed my opentimes width was too much. Adjusted this and issue was fixed
@@ -435,8 +446,6 @@ The page is fully responsive on mobile and tablet.
   Fix: replaced hero-image 
 - Bug: background image for the "Become a Member" page look streched with distorted pixels
   Fix: Replaced "Become a Member" page backgroung image
-
-
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -459,32 +468,21 @@ You can clone the repository by following these steps:
 7. Press Enter to create your local clone.
 
 ## Credits
--  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
-https://www.pexels.com/@alesiakozik/
-- https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
-https://www.pexels.com/@julia-larson/
-- https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
-https://www.freepik.com/author/weyo
-- https://unsplash.com/photos/h3D-RRvxfqE
-    https://unsplash.com/@bastien_plu
-- https://www.pexels.com/photo/ethnic-woman-exercising-with-battling-ropes-near-male-trainer-6455771/
-https://www.pexels.com/@julia-larson/
-
 
 ### Media
 
-Media images were referenced from <a href="https://www.pexels.com/">Pixels</a> and <a href="https://unsplash.com/">Upsplash</a>
+Media images were referenced from <a href="https://www.pexels.com/">Pexels</a> , <a href="https://unsplash.com/">Upsplash</a> and <a href="http://www.freepik.com/">Freepik</a>. 
 
--  https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/
-https://www.pexels.com/@alesiakozik/
-- https://www.pexels.com/photo/personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/
-https://www.pexels.com/@julia-larson/
-- https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm
-https://www.freepik.com/author/weyo
-- https://unsplash.com/photos/h3D-RRvxfqE
-    https://unsplash.com/@bastien_plu
-- https://www.pexels.com/photo/ethnic-woman-exercising-with-battling-ropes-near-male-trainer-6455771/
-https://www.pexels.com/@julia-larson/
+- ![404-background] (assets/images/404er.jpeg) <a href=" https://www.pexels.com/photo/an-apple-and-a-dumbbell-on-a-clipboard-8154260/" >Pexels</a>
+  Photo by:  <a href="https://www.pexels.com/@alesiakozik/">Alesia Kozik</a>
+- ![signup-page-background] (assets/images/signupimage.jpeg) <a href="https://www.pexels.com/photo/          personal-male-trainer-with-overweight-female-client-in-fitness-center-6455927/">Pexels</a>
+  Photo by:  <a href="https://www.pexels.com/@julia-larson/">Julian Larson</a>
+- ![hero-image] (assets/images/heroimage.jpg) <a href="https://www.freepik.com/premium-photo/sport-couple-doing-plank-exercise-workout-fitness-centrum-man-woman-practicing-plank-gym_17801349.htm">Freepik</a>
+  Photo by: <a href= "https://www.freepik.com/author/weyo">Weyo</a>
+- ![crossfit-image] (assets/images/crossfitsmall.jpg) <a href="https://unsplash.com/photos/h3D-RRvxfqE">Unsplash</a>
+  Photo by: <a href="https://unsplash.com/@bastien_plu">Bastien Plu</a>
+- ![trainer-image] (assets/images/trainer.jpeg) <a href="https://www.pexels.com/photo/ethnic-woman-exercising-with-battling-ropes-near-male-trainer-6455771/">Pexels</a>
+  photo by: <a href= "https://www.pexels.com/@julia-larson/">Julian Larson</a>
 
 
 ### Code
