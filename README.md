@@ -416,14 +416,14 @@ The page is fully responsive on mobile and tablet.
 
 12. As a site owner I want users to leave comments upon sign up
 
-   | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-   |-------------|------------|---------------------|-------------------|
-   | Signup form | Navigate to signup page | Leave comments | Works as expected |
+    | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+    |-------------|------------|---------------------|-------------------|
+    | Signup form | Navigate to signup page | Leave comments | Works as expected |
 
-   <details><summary>Screenshots</summary>
-    <img src="docs/features/test-user-story/inkedsignupnav.jpg">
-    <img src="docs/features/comments.PNG">
-    </details>
+     <details><summary>Screenshots</summary>
+     <img src="docs/features/test-user-story/inkedsignupnav.jpg">
+     <img src="docs/features/comments.PNG">
+     </details>
     
 ## Bugs
   List of bugs found and fixes used ti mitigate them.
