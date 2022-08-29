@@ -73,7 +73,7 @@
 - People who need a guide for work and meal plans
 - Athletes
 
-### User Reqirements and Expecttaions
+### User Reqirements and Expectaions
 
 - Accessable site
 - Navigations that are simple to use
@@ -117,7 +117,9 @@ This wedsite was designed to give a bright, energetic, and classy feel for peopl
 The colors a bright orange and very dark blue which speakes enery and look good together. These two color also promotes accessiblity. It is one of the perfect color scheme for a gym.
 
 ### Fonts
-The font style was chosen to give a warm gym and not to rough or macho. They give the website just enough to warm the eyes of all types of audiences.
+The font style was chosen to give a warm gym and not to rough or macho. They give the website just enough to warm the eyes of all types of audiences. 
+Karla was set for the body font with sans serif as a default
+Mulish was used for some headings with Sans serif as a default
 
 ### Structure
 This website was structured with the gym logo which give a gym it character but also with the regular easy to use nav bar, a body of information and the regular footer which give the final characteristics of a funtional webpage. The wedsite has three pages:
