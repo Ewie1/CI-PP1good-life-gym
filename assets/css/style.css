@@ -77,8 +77,9 @@ header nav a {
 }
 
 .overlay {
-    background: rgba(0, 0, 0, 0.1); 
-    padding-bottom: 100px;
+ /* background: rgba(0, 0, 0, 0.1); */
+    padding-bottom: 300px;
+     background: #fad51b; 
 }
 
 /* style to set font size, color and font family for cover message on the hero imgae*/
